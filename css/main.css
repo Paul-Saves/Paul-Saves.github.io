@@ -109,3 +109,15 @@ footer {
     border-top: 1px solid #eeeeee;
     padding: 40px 0;
 }
+
+/* Sidebar Alignment */
+.academic-links li {
+    display: flex;
+    align-items: center;
+}
+
+.academic-links i {
+    width: 24px;
+    text-align: center;
+    margin-right: 12px;
+}
