@@ -8,10 +8,10 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-        <strong>Paul Saves</strong> is a Contractual Researcher in Computer Science (CNU Section 27) at the <strong>Institute of Research in Computer Science of Toulouse (IRIT/CNRS)</strong>. He holds a Ph.D. in Mathematics and Applications from ONERA and ISAE-SUPAERO, where his doctoral research on high-dimensional multidisciplinary design optimization for aircraft eco-design was recognized with the <strong>2025 Best PhD in Open Science Award</strong> from the French Ministry of Research.
+        <strong>Paul Saves</strong> is a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole, Institute of Research in Computer Science of Toulouse (IRIT UMR 5505 CNRS)</strong>. He holds a Ph.D. in Mathematics from ONERA, ISAE-SUPAERO and Polytechnique Montréal, where his doctoral research on high-dimensional multidisciplinary design optimization for aircraft eco-design was recognized with the  <strong>2024 Best ISAE-SUPAERO PhD thesis</strong> from the Fondation ISAE-SUPAERO and the French Ministry of Research and <strong>2025 Best PhD in Open Science Award</strong> from the French Ministry of Research.
       </p>
       <p class="text-justify">
-        His research focuses on the development of <strong>frugal AI</strong> through lightweight surrogate models (e.g., Gaussian processes, random forests) to approximate complex simulations and quantify uncertainty. Dr. Saves' work bridges the gap between <strong>Explainable AI (XAI)</strong> and <strong>Bayesian Optimization</strong>, with applications transitioning from ecological aeronautics to agent-based socio-environmental systems. He is a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong> and the <strong>SEGOMOE</strong> framework, emphasizing open-source diffusion for global academic and policy-making impact.
+        His research focuses on the development of <strong>frugal AI</strong> through lightweight surrogate models (e.g., Gaussian processes, random forests) to approximate complex simulations and quantify uncertainty. Dr. Saves' work bridges the gap between <strong>Explainable AI (XAI)</strong> and <strong>Bayesian Optimization</strong>, with applications transitioning from ecological aeronautics to agent-based socio-environmental systems. He is a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, emphasizing open-source diffusion for global academic and policy-making impact.
       </p>
     </section>
 
@@ -20,34 +20,89 @@ title: Biography
         <!-- Professional Milestones -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-stream mr-2"></i> Professional Milestones</h2>
         <div class="news-timeline mb-5">
+          <!-- Award 2025 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2025</span> 
-            <p class="small mb-0">Recipient of the <strong>Prix du Ministère de la Recherche</strong> – Best PhD in Open Science.</p>
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> Recipient of the <strong>Prix du Ministère de la Recherche</strong> – Best PhD in Open Science.</p>
           </div>
+          <!-- Role 2025 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025</span> 
-            <p class="small mb-0">Appointed Machine Learning Researcher for <strong>ANR MIMICO</strong> at IRIT.</p>
+            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <p class="small mb-0"><strong>Machine Learning Researcher</strong> for <strong>ANR MIMICO</strong> at IRIT.</p>
           </div>
+          <!-- Award 2024 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2024</span> 
-            <p class="small mb-0">Awarded <strong>ISAE-SUPAERO Foundation</strong> Best PhD Thesis Prize.</p>
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> Awarded <strong>ISAE-SUPAERO Foundation</strong> Best PhD Thesis Prize.</p>
+            <a href="https://www.youtube.com/watch?v=bWrtZ0eiwNY" target="_blank" class="small text-primary"><i class="fab fa-youtube mr-1"></i> Watch PhD Defense / Presentation</a>
+          </div>
+          <!-- Award 2024 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2024</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIAA Best Student Paper Award</strong> in Optimal Eco-Design.</p>
+          </div>
+          <!-- Role 2020-2025 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2020 - 2025</span> 
+            <p class="small mb-0"><strong>Aircraft Design Optimizer</strong> at ONERA / ISAE-SUPAERO / ENAC.</p>
+          </div>
+          <!-- Award 2022 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2022</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIAA World Best Paper Award</strong>, NASA/Boeing Technical Committee.</p>
+          </div>
+          <!-- Role 2022 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2022</span> 
+            <p class="small mb-0"><strong>International Research Secondment</strong> at Polytechnique Montréal, Canada.</p>
           </div>
         </div>
 
-        <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-certificate mr-2"></i> Key Recognitions</h2>
-        <ul class="list-unstyled small mb-5">
-          <li class="mb-3 d-flex align-items-start">
-            <i class="fas fa-award text-warning mr-3 mt-1"></i>
-            <div><strong>World Best Paper Award</strong>, AIAA SciTech (2022) – Mixed-variable optimization for aircraft design.</div>
-          </li>
-          <li class="mb-3 d-flex align-items-start">
-            <i class="fas fa-award text-warning mr-3 mt-1"></i>
-            <div><strong>Best Student Paper Award</strong>, AIAA Aviation (2024) – System architecture optimization.</div>
-          </li>
-        </ul>
+        <!-- Media & Press Section -->
+        <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-newspaper mr-2"></i> Media & Press</h2>
+        <div class="media-press mb-5">
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">CNRS / IRIT Interview</p>
+            <p class="small mb-1 text-secondary">"La science ouverte, moteur des avions éco-conçus"</p>
+            <div class="d-flex small">
+              <a href="https://www.insmi.cnrs.fr/fr/cnrsinfo/science-ouverte-moteur-avions-eco-concus" target="_blank" class="text-primary mr-3">CNRS Info <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://www.irit.fr/la-science-ouverte-moteur-pour-des-avions-eco-concus-avec-paul-saves-de-lirit/" target="_blank" class="text-primary">IRIT News <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
+          </div>
+
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">ISAE-SUPAERO Feature</p>
+            <p class="small mb-1 text-secondary">"Un prix national pour la science ouverte décerné à Paul Saves"</p>
+            <a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/un-prix-national-pour-la-science-ouverte-decerne-a-paul-saves/" target="_blank" class="small text-primary">Read Article <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
+            <p class="small mb-1 text-secondary">Decarbonation and green aviation optimization</p>
+            <div class="d-flex flex-wrap small">
+              <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">Alumni News <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://onera.fr/fr/actualites/un-doctorant-onera-obtient-un-prix-prestigieux" target="_blank" class="text-primary mr-3">ONERA News <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://engineeringnet.be/fr/actualites/item/20961/laiaa-recompense-des-travaux-sur-la-decarbonation-de-laviation" target="_blank" class="text-primary">EngineeringNet <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
+          </div>
+
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">Foundation ISAE-SUPAERO</p>
+            <p class="small mb-1 text-secondary">Thesis Prize 2024: Excellence in Aeronautics & Space</p>
+            <a href="https://fondation-isae-supaero.org/fr/nos-actualites/remise-des-prix-aux-eleves-et-chercheurs-laureats-de-la-fondation/" target="_blank" class="small text-primary">Read News <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+        </div>
       </div>
 
       <div class="col-md-4">

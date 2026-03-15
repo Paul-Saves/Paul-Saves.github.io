@@ -7,6 +7,7 @@ title: Scientific Publications
   <a href="#journals" class="btn btn-outline-secondary">Journal Articles</a>
   <a href="#conferences" class="btn btn-outline-secondary">Conference Proceedings</a>
   <a href="#software" class="btn btn-outline-secondary">Software & Tools</a>
+  <a href="#talks" class="btn btn-outline-secondary">Talks</a>
 </div>
 
 <div class="text-right mb-4">
@@ -130,4 +131,20 @@ title: Scientific Publications
       </div>
     </div>
   </div>
+</section>
+
+<!-- Talks Section -->
+<section id="talks" class="mb-5">
+  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-microphone-alt mr-2"></i> Selected Talks & Seminars</h2>
+  <ul class="list-unstyled small">
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2024:</span> <strong>MIMICO Launch Seminar</strong>, Speaker, IRIT Toulouse.
+    </li>
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2023:</span> <strong>Workshop on Surrogates for Engineering</strong>, Speaker, Braunschweig, Germany.
+    </li>
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Surrogate Day</strong>, Organizer & Speaker, ISAE-SUPAERO.
+    </li>
+  </ul>
 </section>
