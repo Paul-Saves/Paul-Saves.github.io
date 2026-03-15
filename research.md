@@ -16,36 +16,21 @@ title: Research
 
     <hr class="my-5">
 
-    <!-- Core Research Contributions -->
-    <section id="contributions" class="mb-5">
-      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-microscope mr-2"></i> Core Research Contributions</h2>
-      
-      <div class="contribution-item mb-5">
-        <h3 class="h6 font-weight-bold text-dark mb-2">1. Unified Workflows for Automated Exploration</h3>
-        <p class="small text-justify text-secondary">
-          I propose a formal methodological framework that unifies <strong>physics-based modeling, adaptive sampling (DoE), and surrogate training</strong> into a single iterative loop. This workflow handles noise, convergence failures, and epistemic uncertainty quantification, enabling the large-scale exploration of complex systems in seconds rather than hours.
-        </p>
-      </div>
-
-      <div class="contribution-item mb-5">
-        <h3 class="h6 font-weight-bold text-dark mb-2">2. Heterogeneous and Hierarchical Design Spaces</h3>
-        <p class="small text-justify text-secondary">
-          A major contribution of my work is the <strong>native management of mixed-variable design spaces</strong> (continuous, integer, and categorical). I have formalized algebraic distances and hierarchical kernels that allow emulators to relate information between different architectures and operational modes, implemented in the <strong>SMT 2.0</strong> and <strong>SEGOMOE</strong> toolboxes.
-        </p>
-      </div>
-
-      <div class="contribution-item mb-5">
-        <h3 class="h6 font-weight-bold text-dark mb-2">3. Methodological Validation of XAI for Engineering</h3>
-        <p class="small text-justify text-secondary">
-          I introduced specific metrics (e.g., NDCG between explanations) to <strong>evaluate the reliability of XAI outputs</strong>. My research identifies where surrogate model artifacts might mislead decision-makers, providing a diagnostic layer that ensures physical insights (via Shapley values or Sobol indices) are consistent with the underlying complex system.
-        </p>
-      </div>
-    </section>
-
     <!-- Strategic Projects -->
     <section id="projects" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-project-diagram mr-2"></i> Strategic Research Projects</h2>
       
+      <div class="card border-primary bg-light shadow-sm mb-4" style="border-left: 5px solid;">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h3 class="h6 font-weight-bold mb-0 text-primary">British Council - Springboard Grant (Springboard2025-2175)</h3>
+            <span class="badge badge-primary">PI / Lead Investigator</span>
+          </div>
+          <p class="small text-dark font-weight-bold mb-1">International Collaboration with University of Exeter, UK</p>
+          <p class="small text-muted mb-0 text-justify">Leading an international research collective focusing on <strong>Frugal AI and Climate Change impact quantification</strong>. This grant facilitates high-level scientific exchange and joint development of statistical emulators for climate risk assessment between IRIT (France) and Exeter (UK).</p>
+        </div>
+      </div>
+
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present). Grant Number ANR-24-CE23-0380 </h3>
@@ -142,12 +127,42 @@ title: Research
     <section id="network" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-globe-americas mr-2"></i> Global Research Network</h2>
       <p class="small text-justify text-secondary mb-4">
-        My research is built on strong international collaborations across <strong>Europe, North America, and Southeast Asia</strong>. This network bridges academic theory with industrial requirements in aerospace and socio-environmental policy.
+        My research is built on a diverse international network of collaborators across <strong>Europe, North America, and Asia</strong>. This interdisciplinary collective bridges academic theory with industrial excellence.
       </p>
-      <div class="card border-0 bg-light shadow-sm">
+      
+      <div class="card border-0 bg-light shadow-sm mb-4">
+        <div class="card-body">
+          <h3 class="h6 font-weight-bold mb-3 small text-uppercase text-muted">Scientific Collaborators</h3>
+          <div class="d-flex flex-wrap" style="gap: 8px;">
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nathalie Bartoli</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jasper H. Bussemaker</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Youssef Diouane</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Edward Hallé-Hannan</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joseph Morlier</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Charles Audet</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benoît Gaudou</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémi Lafage</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Matthieu Mastio</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joaquim R. R. A. Martins</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Björn Nagel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Shigeru Obayashi</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Koji Shimoyama</span>
+          </div>
+          <p class="x-small text-muted mt-3 mb-0 italic">And 20+ other esteemed colleagues from ISAE-SUPAERO, ONERA, TU Delft, Polytechnique Montréal, HKUST, and beyond.</p>
+        </div>
+      </div>
+
+      <div class="card border-0 bg-dark text-white shadow-sm">
         <div class="card-body py-3 d-flex justify-content-between align-items-center">
-          <span class="small font-weight-bold text-uppercase" style="letter-spacing: 1px;">Scientific Co-authorship Graph</span>
-          <a href="{{ site.dblp_url }}" target="_blank" class="btn btn-sm btn-outline-primary shadow-sm">View on DBLP <i class="fas fa-share-alt ml-1"></i></a>
+          <div>
+            <h3 class="h6 font-weight-bold mb-0">Interactive Collaboration Graph</h3>
+            <p class="x-small text-white-50 mb-0">Explore connections and network topology via DBLP</p>
+          </div>
+          <a href="{{ site.dblp_url }}" target="_blank" class="btn btn-sm btn-outline-light shadow-sm">Open Graph <i class="fas fa-share-alt ml-1"></i></a>
         </div>
       </div>
     </section>
