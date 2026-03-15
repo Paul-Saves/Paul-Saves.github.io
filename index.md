@@ -63,11 +63,37 @@ title: Biography
             <span class="text-muted small font-weight-bold">2022</span> 
             <p class="small mb-0"><strong>International Research Secondment</strong> at Polytechnique Montréal, Canada.</p>
           </div>
+          <!-- Award 2020 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2020</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIRBUS National IA Contest</strong> – Finalist (issued by INSA).</p>
+          </div>
+          <!-- Role 2019 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2019</span> 
+            <p class="small mb-0"><strong>Research Intern</strong> at <strong>Novosibirsk State University (Russia)</strong>.</p>
+            <p class="x-small text-muted mb-0">Institute of Informatics Systems (IIS) - Siberian Branch of the Russian Academy of Sciences. Signal/image processing and steganography.</p>
+          </div>
+          <!-- Role 2016 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2016</span> 
+            <p class="small mb-0"><strong>Intern</strong> at <strong>DGA Techniques Aéronautiques</strong> (Balma, France).</p>
+          </div>
         </div>
 
         <!-- Media & Press Section -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-newspaper mr-2"></i> Media & Press</h2>
         <div class="media-press mb-5">
+          <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
+            <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">Redoc SPI Interview</p>
+            <p class="small mb-1 text-secondary">"Du code à l’avion vert : ce que ma thèse m’a appris..."</p>
+            <a href="https://www.docteurs-spi.org/post/du-code-%C3%A0-l-avion-vert-ce-que-ma-th%C3%A8se-m-a-appris-sur-la-complexit%C3%A9-le-doute-et-le-collectif" target="_blank" class="small text-primary">Read Interview <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">CNRS / IRIT Interview</p>
@@ -95,21 +121,43 @@ title: Biography
               <a href="https://engineeringnet.be/fr/actualites/item/20961/laiaa-recompense-des-travaux-sur-la-decarbonation-de-laviation" target="_blank" class="text-primary">EngineeringNet <i class="fas fa-external-link-alt ml-1"></i></a>
             </div>
           </div>
-
-          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
-            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <p class="small mb-1 font-weight-bold text-dark">Foundation ISAE-SUPAERO</p>
-            <p class="small mb-1 text-secondary">Thesis Prize 2024: Excellence in Aeronautics & Space</p>
-            <a href="https://fondation-isae-supaero.org/fr/nos-actualites/remise-des-prix-aux-eleves-et-chercheurs-laureats-de-la-fondation/" target="_blank" class="small text-primary">Read News <i class="fas fa-external-link-alt ml-1"></i></a>
-          </div>
         </div>
       </div>
 
       <div class="col-md-4">
-        <!-- Formal Sidebar Data -->
+        <!-- Education Section -->
         <div class="card border-0 shadow-sm bg-light mb-4">
           <div class="card-body py-3">
-            <h2 class="h6 font-weight-bold text-uppercase mb-3">Research Areas</h2>
+            <h2 class="h6 font-weight-bold text-uppercase mb-3">Education</h2>
+            <ul class="list-unstyled small mb-0">
+              <li class="mb-3">
+                <div class="font-weight-bold">PhD, Aircraft Design</div>
+                <div class="text-muted">ISAE-SUPAERO / ONERA</div>
+                <div class="x-small text-secondary">2020 - 2023</div>
+              </li>
+              <li class="mb-3">
+                <div class="font-weight-bold">MSc, Operations Research</div>
+                <div class="text-muted">ENAC - Civil Aviation School</div>
+                <div class="x-small text-secondary">2019 - 2020</div>
+              </li>
+              <li class="mb-3">
+                <div class="font-weight-bold">MEng, Numerical Models</div>
+                <div class="text-muted">INSA Toulouse</div>
+                <div class="x-small text-secondary">2015 - 2020</div>
+              </li>
+              <li class="mb-0">
+                <div class="font-weight-bold">BEng, Mechanical Engineering</div>
+                <div class="text-muted">Univ. du Québec à Trois-Rivières</div>
+                <div class="x-small text-secondary">2019 - 2019</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Formal Sidebar Data -->
+        <div class="card border-0 shadow-sm bg-dark text-white mb-4">
+          <div class="card-body py-3">
+            <h2 class="h6 font-weight-bold text-uppercase mb-3" style="color: #aaa;">Research Areas</h2>
             <ul class="list-unstyled small mb-0">
               {% for interest in site.interests %}
               <li class="mb-2"><i class="fas fa-minus text-primary mr-2 small"></i> {{ interest }}</li>
