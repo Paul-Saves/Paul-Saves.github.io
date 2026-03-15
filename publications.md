@@ -166,7 +166,7 @@ title: Scientific Publications
 <section id="theses" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-graduation-cap mr-2"></i> Theses</h2>
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024. <a href="https://hal.science/tel-04414441" target="_blank" class="badge badge-light border ml-2">HAL (Thesis)</a> <a href="https://www.youtube.com/watch?v=bWrtZ0eiwNY" target="_blank" class="badge badge-danger ml-1"><i class="fab fa-youtube mr-1"></i> Watch Defense</a>
+    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024. <a href="https://hal.science/tel-04414441" target="_blank" class="badge badge-light border ml-2">HAL (Thesis)</a> 
   </div>
 </section>
 
