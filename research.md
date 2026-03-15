@@ -13,8 +13,7 @@ title: Research
         This work follows an iterative <strong>co-design</strong> paradigm, where modeling and interpretation are developed jointly with domain experts to enable actionable insights. I apply this framework to two main classes of systems: multidisciplinary engineering design (with an emphasis on sustainable aeronautics) and agent-based simulations for environmental and climate risk assessment.
       </p>
     </section>
-  </div>
-</div>
+
     <hr class="my-5">
 
     <!-- Strategic Projects -->
