@@ -83,9 +83,14 @@ title: Research
       <div class="pl-3 border-left border-primary">
         <h3 class="h6 font-weight-bold mb-3 small text-uppercase">Formal Ph.D. Supervision</h3>
         <ul class="list-unstyled small mb-4">
-          <li class="mb-2"><i class="fas fa-user-graduate text-muted mr-2"></i> <strong>Gaston Plat</strong> (2025 - Present), Ph.D. in Applied Mathematics, ONERA / ISAE-SUPAERO. <em>Official Supervisor</em>.</li>
-          <li class="mb-2"><i class="fas fa-user-graduate text-muted mr-2"></i> <strong>Open Position</strong> (Recruiting), Ph.D. in Computer Science (ED MITT). "Uncertainty quantification and machine learning for agent-based systems for climate risk."</li>
+          <li class="mb-2"><i class="fas fa-user-graduate text-muted mr-2"></i> <strong>Gaston Plat</strong> (2025 - Present), Ph.D. in Applied Mathematics, ONERA / ISAE-SUPAERO, "Frugal AI for HPC climate impact". <em>Official Supervisor</em>.</li>
         </ul>
+        <h3 class="h6 font-weight-bold mt-4 mb-3 small text-uppercase">Current Openings</h3>
+        <div class="card border-primary bg-light shadow-sm mb-4">
+          <div class="card-body py-3">
+            <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (British Council). "Uncertainty quantification and machine learning for agent-based systems for climate risk."</h4>
+          </div>
+        </div>
 
         <h3 class="h6 font-weight-bold mb-3 small text-uppercase">Informal Ph.D. Co-Supervision & Support</h3>
         <ul class="list-unstyled small mb-4 text-secondary">
@@ -127,7 +132,7 @@ title: Research
     <section id="network" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-globe-americas mr-2"></i> Global Research Network</h2>
       <p class="small text-justify text-secondary mb-4">
-        My research is built on a diverse international network of collaborators across <strong>Europe, North America, and Asia</strong>. This interdisciplinary collective bridges academic theory with industrial excellence.
+        My research is built on a diverse international network of collaborators across <strong>Europe, North/South America, and Asia</strong>. This interdisciplinary collective bridges academic theory with industrial excellence.
       </p>
       
       <div class="card border-0 bg-light shadow-sm mb-4">
@@ -143,7 +148,7 @@ title: Research
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Charles Audet</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benoît Gaudou</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benoit Gaudou</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémi Lafage</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Matthieu Mastio</span>
@@ -177,15 +182,27 @@ title: Research
             <li class="mb-2"><strong>RCIS 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>RJCIA 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>GDR I-GAIA</strong> – Active Member.</li>
+            <li class="mb-2"><strong>RT-UQ CNRS</strong> – Active Member.</li>
           </ul>
         </div>
         <div class="col-md-6 mb-4">
-          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Journal Reviewing</h3>
-          <ul class="list-unstyled text-secondary">
-            <li class="mb-1">Nature Scientific Reports</li>
-            <li class="mb-1">Journal of Global Optimization</li>
-            <li class="mb-1">Neurocomputing</li>
-          </ul>
+          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Peer Reviewing</h3>
+          <p class="small text-secondary mb-2">Extensive reviewing activity (35+ verified reviews) for international journals and conferences, including:</p>
+          <div class="d-flex flex-wrap small">
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Nature Scientific Reports (3)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Comp. Opt. and Applications (4)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Comp. Science (3)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Supercomputing (2)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">SMO (2)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">RJCIA (4)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">RCIS (3)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">PRIMA (2)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">PAAMS (2)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">AAMAS (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">J. Global Optimization (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Neurocomputing (1)</span>
+          </div>
+          <p class="x-small text-muted mt-2 mb-0 italic">And several others including Optics Letter, Optimization & Engineering, Sensors, MABS, and JFSMA.</p>
         </div>
       </div>
     </section>
@@ -194,12 +211,6 @@ title: Research
     <section id="qualifications" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-certificate mr-2"></i> Academic Qualifications</h2>
       <div class="row">
-        <div class="col-md-6">
-          <div class="p-3 bg-light rounded border mb-3">
-            <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 27</h3>
-            <p class="small text-muted mb-0">Computer Science (Informatique) – <strong>Qualified 2025</strong></p>
-          </div>
-        </div>
         <div class="col-md-6">
           <div class="p-3 bg-light rounded border mb-3">
             <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 26</h3>
