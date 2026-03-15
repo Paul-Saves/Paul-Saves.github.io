@@ -128,6 +128,56 @@ title: Research
       </div>
     </section>
 
+    <!-- Expertise, Technology Transfer & Impact -->
+    <section id="expertise-impact" class="mb-5">
+      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-chart-line mr-2"></i> Expertise, Valorization & Technology Transfer</h2>
+      
+      <div class="row small">
+        <!-- Event Organization -->
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold mb-2 small text-muted text-uppercase">Scientific Event Organization</h3>
+          <ul class="list-unstyled text-secondary">
+            <li class="mb-2"><strong>MIMICO Launch Seminar (2025)</strong>: Organizer at IRIT. Focus on Interpretable AI for agent-based models, bridging mathematics and computer science communities.</li>
+            <li class="mb-2"><strong>Surrogate Modeling Seminar (2021)</strong>: Organizer at ISAE-SUPAERO. Exchange on software tools for researchers and industrial stakeholders.</li>
+          </ul>
+        </div>
+
+        <!-- Software & Platforms -->
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold mb-2 small text-muted text-uppercase">Software & Open Source</h3>
+          <ul class="list-unstyled text-secondary">
+            <li class="mb-2"><strong>GAMA Platform</strong>: Contributor. Developed Python interfaces for surrogate models and multi-agent reinforcement learning (Coding Camp, Ninh Binh, Vietnam, 2025).</li>
+            <li class="mb-2"><strong>Philanthropy</strong>: Patron of the <strong>ISAE-SUPAERO Foundation</strong>, mentoring students on research careers.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Economic Production -->
+      <div class="card border-0 bg-light shadow-sm mb-4">
+        <div class="card-body">
+          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted small">Economic Impact & Industrial Partnerships</h3>
+          <p class="x-small text-justify text-secondary mb-3">
+            I have led and contributed to high-stakes industrial projects under Non-Disclosure Agreements (NDA) with global aerospace leaders:
+          </p>
+          <ul class="list-unstyled small text-secondary">
+            <li class="mb-2"><i class="fas fa-industry mr-2 text-primary"></i> <strong>Bombardier (Canada)</strong>: Principal Investigator for a contract utilizing <strong>SEGOMOE</strong> for vehicle design (2021).</li>
+            <li class="mb-2"><i class="fas fa-industry mr-2 text-primary"></i> <strong>Airbus (France) & Embraer (Brazil)</strong>: Design of hybrid-electric aircraft and production chain planning for Global South logistics.</li>
+            <li class="mb-2"><i class="fas fa-industry mr-2 text-primary"></i> <strong>SAAB (Sweden) & Tecnam (Italy)</strong>: Multimodal mobility and firefighting system optimization.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Societal Production -->
+      <div class="card border-0 bg-dark text-white shadow-sm mb-4">
+        <div class="card-body py-3">
+          <h3 class="h6 font-weight-bold mb-2 text-uppercase small" style="color: #aaa;">Societal Impact & Outreach</h3>
+          <p class="small text-justify mb-0">
+            Active contributor to public policy and industry awareness. Key speaker at the <strong>Towards Sustainable Aviation Summit</strong> (Airbus/Toulouse City Hall), emphasizing the critical limits of aviation decarbonization and the necessity of frugal engineering.
+          </p>
+        </div>
+      </div>
+    </section>
+
     <!-- Global Research Network -->
     <section id="network" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-globe-americas mr-2"></i> Global Research Network</h2>
