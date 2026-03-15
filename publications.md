@@ -125,7 +125,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C12]</span> P. Saves, E. N. Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C12]</span> P. Saves, E. N. Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
