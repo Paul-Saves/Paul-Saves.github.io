@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Research & Development
+title: Research
 ---
 
 <div class="row fade-in">
   <div class="col-12">
-    <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Research Framework</h1>
-
     <section id="abstract" class="mb-5">
       <p class="text-justify lead">
         My research develops a unified methodological framework for the <strong>exploration of complex systems</strong> through <strong>Frugal and Explainable AI (XAI)</strong>. By integrating surrogate modeling, active learning, and interpretability analysis, I aim to transform opaque "black-box" simulations into transparent recommendation tools for critical decision-making in engineering and socio-environmental contexts.
@@ -34,10 +32,6 @@ title: Research & Development
         <p class="small text-justify text-secondary">
           A major contribution of my work is the <strong>native management of mixed-variable design spaces</strong> (continuous, integer, and categorical). I have formalized algebraic distances and hierarchical kernels that allow emulators to relate information between different architectures and operational modes, implemented in the <strong>SMT 2.0</strong> and <strong>SEGOMOE</strong> toolboxes.
         </p>
-        <div class="mt-2">
-          <a href="https://github.com/SMTorg/smt" target="_blank" class="badge badge-dark p-2 mr-2 shadow-sm"><i class="fab fa-github mr-1"></i> SMT 2.0 Repository</a>
-          <a href="https://arxiv.org/abs/2506.22621" target="_blank" class="badge badge-light border p-2 shadow-sm"><i class="fas fa-file-alt mr-1"></i> Hierarchical Modeling Framework</a>
-        </div>
       </div>
 
       <div class="contribution-item mb-5">
@@ -54,14 +48,14 @@ title: Research & Development
       
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present)</h3>
+          <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present). Grant Number ANR-24-CE23-0380 </h3>
           <p class="small text-muted mb-0"><strong>Hybrid Modeling for Agent-Based Systems</strong>. Combining ABM with simplified surrogate representations to evaluate urban mobility policies and dense crowd dynamics.</p>
         </div>
       </div>
 
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-1">Aeronautical Decarbonation (COLOSSUS / AGILE 4.0)</h3>
+          <h3 class="h6 font-weight-bold mb-1">Aeronautical Decarbonation. EU Comission, Horizon 2020 COLOSSUS and AGILE 4.0 projects.  Grant Numbers 815122 and  101097120  </h3>
           <p class="small text-muted mb-0">Applying Bayesian optimization to eco-designed aircraft architectures. These works were recognized by two AIAA Best Paper awards for contributions to "green aviation."</p>
         </div>
       </div>
