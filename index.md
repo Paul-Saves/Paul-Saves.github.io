@@ -15,6 +15,27 @@ title: Biography
       </p>
     </section>
 
+    <section id="career-summary" class="mb-5">
+      <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-briefcase mr-2"></i> Career Summary</h2>
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0">Machine Learning Researcher</h3>
+          <span class="badge badge-light border font-weight-normal">2025 - Present</span>
+        </div>
+        <div class="small text-muted mb-2">IRIT (CNRS), Toulouse, France</div>
+        <p class="small text-justify text-secondary">Postdoctoral research on <strong>agent-based simulations surrogate modeling</strong> (ANR MIMICO).</p>
+      </div>
+
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0">Aircraft Design Optimizer</h3>
+          <span class="badge badge-light border font-weight-normal">2020 - 2025</span>
+        </div>
+        <div class="small text-muted mb-2">ONERA / ISAE-SUPAERO / ENAC, France</div>
+        <p class="small text-justify text-secondary">Optimization for ecological aeronautics (EU projects AGILE 4.0, COLOSSUS).</p>
+      </div>
+    </section>
+
     <div class="row mt-5">
       <div class="col-md-8">
         <!-- Professional Milestones -->
