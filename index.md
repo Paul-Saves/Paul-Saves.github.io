@@ -95,7 +95,7 @@ title: Biography
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <p class="small mb-1 font-weight-bold text-dark">CNRS / IRIT Interview</p>
+            <p class="small mb-1 font-weight-bold text-dark">CNRS Interview</p>
             <p class="small mb-1 text-secondary">"La science ouverte, moteur des avions éco-conçus"</p>
             <div class="d-flex small">
               <a href="https://www.insmi.cnrs.fr/fr/cnrsinfo/science-ouverte-moteur-avions-eco-concus" target="_blank" class="text-primary mr-3">CNRS Info <i class="fas fa-external-link-alt ml-1"></i></a>
@@ -115,7 +115,7 @@ title: Biography
             <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
             <p class="small mb-1 text-secondary">Decarbonation and green aviation optimization</p>
             <div class="d-flex flex-wrap small">
-              <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">Alumni News <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">ISAE-SUPAERO Interview <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://onera.fr/fr/actualites/un-doctorant-onera-obtient-un-prix-prestigieux" target="_blank" class="text-primary mr-3">ONERA News <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://engineeringnet.be/fr/actualites/item/20961/laiaa-recompense-des-travaux-sur-la-decarbonation-de-laviation" target="_blank" class="text-primary">EngineeringNet <i class="fas fa-external-link-alt ml-1"></i></a>
             </div>
