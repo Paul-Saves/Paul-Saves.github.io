@@ -8,7 +8,6 @@ title: Scientific Publications
   <a href="#conferences" class="btn btn-outline-secondary">Conferences</a>
   <a href="#preprints" class="btn btn-outline-secondary">Preprints</a>
   <a href="#software" class="btn btn-outline-secondary">Software</a>
-  <a href="#talks" class="btn btn-outline-secondary">Talks</a>
 </div>
 
 <div class="text-right mb-4">
@@ -21,17 +20,17 @@ title: Scientific Publications
     <h2 class="h6 font-weight-bold text-uppercase mb-4 text-center" style="letter-spacing: 2px; color: #aaa;">Research Impact</h2>
     <div class="row text-center">
       <div class="col-md-4 mb-3 mb-md-0">
-        <h3 class="h3 font-weight-bold text-primary mb-0">200+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">500+</h3>
         <p class="small text-muted mb-0">Citations (approx.)</p>
         <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="small text-white-50 text-underline">Google Scholar <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 mb-3 mb-md-0 border-left border-secondary">
-        <h3 class="h3 font-weight-bold text-primary mb-0">7+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">8+</h3>
         <p class="small text-muted mb-0">Q1 Journal Papers</p>
         <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
-      <div class="col-md-4 border-left border-secondary">
-        <h3 class="h3 font-weight-bold text-primary mb-0">30+</h3>
+      <div class="col-md-4 border-left border-secondary">	
+        <h3 class="h3 font-weight-bold text-primary mb-0">37+</h3>
         <p class="small text-muted mb-0">Co-authors Network</p>
         <a href="{{ site.dblp_url }}" target="_blank" class="small text-white-50 text-underline">DBLP Graph <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
@@ -124,7 +123,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P3]</span> Shihua, Z., Saves, P., Liem, R., Morlier, J., "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," 2026.
+    <span class="font-weight-bold">[P3]</span> Shihua, J., Saves, P., Liem, R., Morlier, J., "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," 2026.
   </div>
 </section>
 
@@ -132,47 +131,58 @@ title: Scientific Publications
 <section id="theses" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-graduation-cap mr-2"></i> Theses</h2>
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024. <a href="https://www.youtube.com/watch?v=bWrtZ0eiwNY" target="_blank" class="badge badge-danger ml-2"><i class="fab fa-youtube mr-1"></i> Watch Defense</a>
-  </div>
+    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024.   </div>
 </section>
 
 <!-- Software Section -->
 <section id="software" class="mb-5">
-  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-code mr-2"></i> Open Source Software</h2>
+  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-code mr-2"></i> Scientific Software</h2>
+  
   <div class="row">
-    <div class="col-md-6 mb-3">
+    <!-- SMT -->
+    <div class="col-md-12 mb-4">
       <div class="card h-100 border-0 shadow-sm bg-light">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-2">SMT 2.0</h3>
-          <p class="small text-muted">Surrogate Modeling Toolbox. Lead developer.</p>
-          <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-dark">View on GitHub</a>
+          <div class="d-flex justify-content-between align-items-start mb-2">
+            <h3 class="h6 font-weight-bold mb-0 text-primary">SMT 2.0: Surrogate Modeling Toolbox (BSD-3 License)</h3>
+            <span class="badge badge-success">Open Source</span>
+          </div>
+          <p class="small text-dark font-weight-bold mb-2">Lead Developer & Maintainer</p>
+          <p class="small text-secondary text-justify mb-3">
+            A Python toolbox designed for researchers and engineers. SMT has been applied to diverse high-stakes engineering problems: coaxial rocket engine injectors, aircraft fuel consumption modeling, high-order finite element methods, solar energy planning, and wind turbine design.
+          </p>
+          <div class="mb-3">
+            <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-dark mr-2"><i class="fab fa-github mr-1"></i> Main Core</a>
+            <a href="https://github.com/SMTorg/smt-design-space-ext" target="_blank" class="btn btn-sm btn-outline-dark mr-2"><i class="fas fa-project-diagram mr-1"></i> Design-space-ext</a>
+            <a href="https://github.com/SMTorg/smt-explainability" target="_blank" class="btn btn-sm btn-outline-dark"><i class="fas fa-search-plus mr-1"></i> Explainability</a>
+          </div>
+          <p class="x-small text-muted mb-0 italic">The <strong>design-space-ext</strong> handles mixed-discrete variables and complex architectures, while <strong>explainability</strong> automates XAI metrics and visualization.</p>
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-3">
-      <div class="card h-100 border-0 shadow-sm bg-light">
+
+    <!-- SEGOMOE -->
+    <div class="col-md-12 mb-4">
+      <div class="card h-100 border-0 shadow-sm bg-white" style="border-left: 4px solid #f0ad4e !important;">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-2">SEGOMOE</h3>
-          <p class="small text-muted">Super-Efficient Global Optimization with Mixture of Experts.</p>
-          <a href="https://hal.science/hal-02944011/document" target="_blank" class="btn btn-sm btn-outline-dark">Documentation</a>
+          <div class="d-flex justify-content-between align-items-start mb-2">
+            <h3 class="h6 font-weight-bold mb-0 text-dark">SEGOMOE: Mixture of Experts Optimizer</h3>
+            <span class="badge badge-warning text-white">Proprietary</span>
+          </div>
+          <p class="small text-secondary text-justify mb-3">
+            High-performance constrained Bayesian optimizer co-owned by <strong>ISAE-SUPAERO & ONERA (50/50)</strong>. I restructured the core codebase and integrated advanced features including multi-fidelity, multi-objective optimization, and heterogeneous data handling.
+          </p>
+          <a href="https://hal.science/hal-02944011/document" target="_blank" class="btn btn-sm btn-outline-secondary"><i class="fas fa-file-pdf mr-1"></i> Technical Reference</a>
         </div>
       </div>
     </div>
   </div>
+
+  <div class="alert alert-info border-0 shadow-sm py-2">
+    <p class="x-small mb-0 text-dark">
+      <i class="fas fa-info-circle mr-2"></i> All research algorithms are implemented across these frameworks. While datasets are not public by default, they are available <strong>upon request</strong>, and most numerical experiments can be reproduced for validation.
+    </p>
+  </div>
 </section>
 
-<!-- Talks Section -->
-<section id="talks" class="mb-5">
-  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-microphone-alt mr-2"></i> Selected Talks & Seminars</h2>
-  <ul class="list-unstyled small">
-    <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2024:</span> <strong>MIMICO Launch Seminar</strong>, Speaker, IRIT Toulouse.
-    </li>
-    <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2023:</span> <strong>Workshop on Surrogates for Engineering</strong>, Speaker, Braunschweig, Germany.
-    </li>
-    <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Surrogate Day</strong>, Organizer & Speaker, ISAE-SUPAERO.
-    </li>
-  </ul>
-</section>
+	
