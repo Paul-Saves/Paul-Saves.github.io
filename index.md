@@ -8,11 +8,16 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-        <strong>Paul Saves</strong> is a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole, Institute of Research in Computer Science of Toulouse (IRIT UMR 5505 CNRS)</strong>. He holds a Ph.D. in Mathematics from ONERA, ISAE-SUPAERO and Polytechnique Montréal, where his doctoral research on high-dimensional multidisciplinary design optimization for aircraft eco-design was recognized with the  <strong>2024 Best ISAE-SUPAERO PhD thesis</strong> from the Fondation ISAE-SUPAERO and the French Ministry of Research and <strong>2025 Best PhD in Open Science Award</strong> from the French Ministry of Research.
-      </p>
-      <p class="text-justify">
-        His research focuses on the development of <strong>frugal AI</strong> through lightweight surrogate models (e.g., Gaussian processes, random forests) to approximate complex simulations and quantify uncertainty. Dr. Saves' work bridges the gap between <strong>Explainable AI (XAI)</strong> and <strong>Bayesian Optimization</strong>, with applications transitioning from ecological aeronautics to agent-based socio-environmental systems. He is a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, emphasizing open-source diffusion for global academic and policy-making impact.
-      </p>
+  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong>. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for aircraft eco-design was awarded the <strong>2024 ISAE-SUPAERO Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research) and the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research.
+</p>
+<p class="text-justify">
+  My research focuses on <strong>surrogate modeling, frugal AI, and explainable machine learning</strong> for computationally expensive simulations. I develop lightweight statistical and machine-learning models (including Gaussian processes and ensemble methods) to approximate complex systems, quantify uncertainty, and support decision-making. My work connects <strong>Explainable AI</strong>, <strong>Bayesian optimization</strong>, and scientific machine learning, with applications ranging from sustainable aeronautical design to agent-based socio-environmental modeling. I am a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
+</p>
+      
+      <div class="mt-4 mb-5">
+        <a href="{{ "/CV-2026-2.pdf" | relative_url }}" target="_blank" class="btn btn-outline-primary btn-sm shadow-sm mr-2"><i class="fas fa-file-download mr-2"></i> Download Full CV (PDF)</a>
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="btn btn-outline-secondary btn-sm shadow-sm"><i class="fab fa-linkedin mr-2"></i> LinkedIn Profile</a>
+      </div>
     </section>
 
     <section id="career-summary" class="mb-5">

@@ -7,13 +7,14 @@ title: Research
   <div class="col-12">
     <section id="abstract" class="mb-5">
       <p class="text-justify lead">
-        My research develops a unified methodological framework for the <strong>exploration of complex systems</strong> through <strong>Frugal and Explainable AI (XAI)</strong>. By integrating surrogate modeling, active learning, and interpretability analysis, I aim to transform opaque "black-box" simulations into transparent recommendation tools for critical decision-making in engineering and socio-environmental contexts.
+        My research aims at developing a unified framework for the analysis and decision-oriented exploration of complex simulation models using <strong>Frugal and Explainable AI</strong>. I combine surrogate modeling, active learning, and interpretable machine learning to transform computationally expensive <em>black-box</em> simulations into transparent tools for decision-making under uncertainty.
       </p>
       <p class="text-justify small text-secondary">
-        My approach follows an iterative <strong>co-design</strong> philosophy, bridging the gap between descriptive simulation and prescriptive action. This work is applied to two main kontrast families: the multidisciplinary optimization of technical systems (e.g., green aircraft) and the assessment of agent-based models (ABM) for environmental risks, such as wildfires and climate change mitigation.
+        This work follows an iterative <strong>co-design</strong> paradigm, where modeling and interpretation are developed jointly with domain experts to enable actionable insights. I apply this framework to two main classes of systems: multidisciplinary engineering design (with an emphasis on sustainable aeronautics) and agent-based simulations for environmental and climate risk assessment.
       </p>
     </section>
-
+  </div>
+</div>
     <hr class="my-5">
 
     <!-- Strategic Projects -->
