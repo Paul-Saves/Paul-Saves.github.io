@@ -147,7 +147,7 @@ title: Research
           <h3 class="h6 font-weight-bold mb-2 small text-muted text-uppercase">Software & Open Source</h3>
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><strong>GAMA Platform</strong>: Contributor. Developed Python interfaces for surrogate models and multi-agent reinforcement learning (Coding Camp, Ninh Binh, Vietnam, 2025).</li>
-            <li class="mb-2"><strong>Philanthropy</strong>: Patron of the <strong>ISAE-SUPAERO Foundation</strong>, mentoring students on research careers.</li>
+            <li class="mb-2"><strong>SMTOrg</strong>: Lead developer of <strong>SMT 2.0</strong>, <strong>smt-design-space-ext</strong>, and <strong>smt-explainability</strong>. High-impact tools for hierarchical design and explainable modeling.</li>
           </ul>
         </div>
       </div>
