@@ -74,7 +74,6 @@ title: Biography
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2019</span> 
             <p class="small mb-0"><strong>Research Intern</strong> at <strong>Novosibirsk State University (Russia)</strong>.</p>
-            <p class="x-small text-muted mb-0">Institute of Informatics Systems (IIS) - Siberian Branch of the Russian Academy of Sciences. Signal/image processing and steganography.</p>
           </div>
           <!-- Role 2016 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
