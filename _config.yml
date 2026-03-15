@@ -1,11 +1,47 @@
 # Site settings
-title: Mixed Optimization Benchmark
-email:
-description: Community Site
+title: Paul Saves | Academic Portfolio
+name: Paul Saves
+email: paul.saves@alumni.enac.fr
+description: Mathematician & Engineer in Ecological Eco-Design | Researcher in Computer Science & Applied Mathematics. Specialist in Frugal AI, Surrogate Modeling, and XAI.
+affiliation: IRIT/CNRS, University of Toulouse
+baseurl: ""
+url: "https://paul-saves.github.io"
 
+# Social & Academic links
+github_username: paul-saves
+linkedin_username: paul-saves-3aa9a9113
+scholar_userid: yVohWjcAAAAJ
+orcid_id: 0000-0001-5889-2302
+researchgate_username: Paul-Saves-2
+dblp_url: "https://dblp.org/pid/348/4887.html"
+arxiv_url: "https://arxiv.org/a/saves_p_1.html"
+academia_url: "https://ut1-capitole.academia.edu/PaulSaves"
+hal_cv_url: "https://cv.hal.science/paul-saves"
+
+# Keywords for SEO
+keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, Green Aviation, IRIT, CNRS, ISAE-SUPAERO, ONERA"
+
+# Research Interests
+interests:
+  - Frugal AI & Surrogate Modeling
+  - Explainable AI (XAI)
+  - Ecological Eco-Design & Green Aviation
+  - Agent-Based Models & Socio-Environmental Systems
+  - Bayesian Optimization for Complex Systems
+
+# Education
+education:
+  - degree: Ph.D. in Mathematics and Applications
+    institution: ONERA / ISAE-SUPAERO, Toulouse
+    year: 2024
+    details: "Best PhD ISAE-SUPAERO & Open Science Award 2025. Focus on aircraft eco-design."
+  - degree: M.Sc. in Operation Research
+    institution: ENAC / UPS, Toulouse
+    year: 2020
+  - degree: M.Eng. in Mathematical & Modeling Engineering
+    institution: INSA Toulouse
+    year: 2020
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-theme: jekyll-theme-cayman

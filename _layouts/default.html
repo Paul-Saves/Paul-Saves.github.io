@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="author" content="{{ site.name }}">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:title" content="{{ page.title }} | {{ site.title }}">
+    <meta property="twitter:description" content="{{ site.description }}">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
+    
+    {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+  </head>
+  <body class="d-flex flex-column h-100">
+
+    <!-- Header / Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom sticky-top py-3 shadow-sm">
+      <div class="container">
+        <a class="navbar-brand font-weight-bold" href="{{ "/" | relative_url }}">{{ site.name }}</a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNav">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto text-uppercase small font-weight-bold">
+            {% for link in site.data.navigation.main %}
+            <li class="nav-item">
+              <a class="nav-link px-3 {% if page.url == link.url %}active{% endif %}" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container mt-5 mb-5 flex-shrink-0">
+      <div class="row">
+        <!-- Sidebar -->
+        <aside class="col-md-3 mb-4">
+          <div class="sidebar text-center text-md-left">
+            <img src="https://via.placeholder.com/250" class="img-fluid rounded shadow-sm mb-4" alt="{{ site.name }}">
+            <h1 class="h4 font-weight-bold mb-1">{{ site.name }}</h1>
+            <p class="text-muted small mb-2">Researcher in CS & Applied Mathematics</p>
+            <p class="small mb-4 text-primary"><strong>{{ site.affiliation }}</strong></p>
+            
+            <hr class="mb-4">
+            
+            <ul class="list-unstyled small academic-links">
+              {% if site.email %}
+              <li class="mb-3"><i class="fas fa-envelope text-muted mr-3"></i><a href="mailto:{{ site.email }}" class="text-dark">{{ site.email }}</a></li>
+              {% endif %}
+              {% if site.hal_cv_url %}
+              <li class="mb-3"><i class="ai ai-hal text-muted mr-3"></i><a href="{{ site.hal_cv_url }}" target="_blank" class="text-dark font-weight-bold">HAL CV</a></li>
+              {% endif %}
+              {% if site.scholar_userid %}
+              <li class="mb-3"><i class="ai ai-google-scholar text-muted mr-3"></i><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="text-dark">Google Scholar</a></li>
+              {% endif %}
+              {% if site.dblp_url %}
+              <li class="mb-3"><i class="ai ai-dblp text-muted mr-3"></i><a href="{{ site.dblp_url }}" target="_blank" class="text-dark">DBLP Bibliography</a></li>
+              {% endif %}
+              {% if site.orcid_id %}
+              <li class="mb-3"><i class="ai ai-orcid text-muted mr-3"></i><a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" class="text-dark">ORCID Profile</a></li>
+              {% endif %}
+              {% if site.researchgate_username %}
+              <li class="mb-3"><i class="ai ai-researchgate text-muted mr-3"></i><a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank" class="text-dark">ResearchGate</a></li>
+              {% endif %}
+              {% if site.arxiv_url %}
+              <li class="mb-3"><i class="ai ai-arxiv text-muted mr-3"></i><a href="{{ site.arxiv_url }}" target="_blank" class="text-dark">arXiv</a></li>
+              {% endif %}
+              {% if site.github_username %}
+              <li class="mb-3"><i class="fab fa-github text-muted mr-3"></i><a href="https://github.com/{{ site.github_username }}" target="_blank" class="text-dark">GitHub</a></li>
+              {% endif %}
+            </ul>
+          </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="col-md-9 px-md-4">
+          {{ content }}
+        </main>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-light mt-auto py-5 border-top text-center text-muted small">
+      <div class="container">
+        <p class="mb-1">&copy; {{ "now" | date: "%Y" }} {{ site.name }}. All rights reserved.</p>
+        <p class="mb-0">Built with <a href="https://jekyllrb.com/" class="text-muted text-underline">Jekyll</a>.</p>
+      </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
