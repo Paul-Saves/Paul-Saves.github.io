@@ -1,9 +1,8 @@
----\
+---
 permalink: /teaching/
 layout: page
 title: Teaching Activities
----\
-permalink: /teaching/
+---
 
 <section id="philosophy" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-university mr-2"></i> Teaching Philosophy</h2>

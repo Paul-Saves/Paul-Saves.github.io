@@ -1,9 +1,8 @@
----\
+---
 permalink: /publications/
 layout: page
 title: Scientific Publications
----\
-permalink: /publications/
+---
 
 <div class="btn-group btn-group-sm mb-5 shadow-sm" role="group">
   <a href="#journals" class="btn btn-outline-secondary">Journals</a>
