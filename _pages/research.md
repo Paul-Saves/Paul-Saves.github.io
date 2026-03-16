@@ -183,6 +183,11 @@ title: Research
     <!-- Global Research Network -->
     <section id="network" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-globe-americas mr-2"></i> Global Research Network</h2>
+      
+      <div class="text-center mb-4">
+        <img src="/assets/img/collaborations.png" alt="Global Research Network" class="img-fluid rounded shadow-sm" style="max-width: 80%;">
+      </div>
+
       <p class="small text-justify text-secondary mb-4">
         My research is built on a diverse international network of collaborators across <strong>Europe, North/South America, and Asia</strong>. This interdisciplinary collective bridges academic theory with industrial excellence.
       </p>
