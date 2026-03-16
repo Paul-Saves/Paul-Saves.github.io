@@ -131,9 +131,10 @@ title: Biography
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <p class="small mb-1 font-weight-bold text-dark">ISAE-SUPAERO Feature</p>
+            <p class="small mb-1 font-weight-bold text-dark">Open Science Award Coverage</p>
             <p class="small mb-1 text-secondary">"Un prix national pour la science ouverte décerné à Paul Saves"</p>
-            <a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/un-prix-national-pour-la-science-ouverte-decerne-a-paul-saves/" target="_blank" class="small text-primary">Read Article <i class="fas fa-external-link-alt ml-1"></i></a>
+            <a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/un-prix-national-pour-la-science-ouverte-decerne-a-paul-saves/" target="_blank" class="small text-primary">ISAE-SUPAERO<i class="fas fa-external-link-alt ml-1"></i></a>
+            <a href="https://lopinion.com/amp/articles/actualite/32805_toulouse-un-jeune-chercheur-recompense-these-eco-conception-avions-science-ouverte" target="_blank" class="small text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
           </div>
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
