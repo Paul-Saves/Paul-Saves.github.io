@@ -15,7 +15,7 @@ title: Biography
 </p>
       
       <div class="mt-4 mb-5">
-        <a href="{{ "/CV-2026-2.pdf" | relative_url }}" target="_blank" class="btn btn-outline-primary btn-sm shadow-sm mr-2"><i class="fas fa-file-download mr-2"></i> Download Full CV (PDF)</a>
+        <a href="{{ "/assets/docs/CV-2026-2.pdf" | relative_url }}" target="_blank" class="btn btn-outline-primary btn-sm shadow-sm mr-2"><i class="fas fa-file-download mr-2"></i> Download Full CV (PDF)</a>
         <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="btn btn-outline-secondary btn-sm shadow-sm"><i class="fab fa-linkedin mr-2"></i> LinkedIn Profile</a>
       </div>
     </section>

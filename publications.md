@@ -12,7 +12,7 @@ title: Scientific Publications
 </div>
 
 <div class="text-right mb-4">
-  <a href="{{ "/Publications Paul_Saves_2026-2.pdf" | relative_url }}" class="small italic text-muted text-underline"><i class="fas fa-file-pdf mr-1"></i> Full Bibliography (PDF)</a>
+  <a href="{{ "/assets/docs/Publications Paul_Saves_2026-2.pdf" | relative_url }}" class="small italic text-muted text-underline"><i class="fas fa-file-pdf mr-1"></i> Full Bibliography (PDF)</a>
 </div>
 
 <!-- Research Impact Summary -->
