@@ -4,8 +4,8 @@ name: Paul Saves
 email: paul.saves@alumni.enac.fr
 description: Mathematician & Engineer in Ecological Eco-Design | Researcher in Computer Science & Applied Mathematics. Specialist in Frugal AI, Surrogate Modeling, and XAI.
 affiliation: University Toulouse Capitole, IRIT/CNRS
-baseurl: ""
-url: "https://paul-saves.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://paul-saves.github.io" # the base hostname & protocol for your site
 
 # Social & Academic links
 github_username: paul-saves
@@ -52,3 +52,33 @@ education:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# EXACT inclusion as in Gautier repo
+include:
+  - _pages
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
