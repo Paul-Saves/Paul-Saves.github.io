@@ -1,7 +1,9 @@
----
+---\
+permalink: /research/
 layout: page
 title: Research
----
+---\
+permalink: /research/
 
 <div class="row fade-in">
   <div class="col-12">

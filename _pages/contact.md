@@ -1,7 +1,9 @@
----
+---\
+permalink: /contact/
 layout: page
 title: Contact Information
----
+---\
+permalink: /contact/
 
 <div class="row">
   <div class="col-md-6 mb-4">
