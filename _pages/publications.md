@@ -206,7 +206,7 @@ title: Scientific Publications
             <h3 class="h6 font-weight-bold mb-0 text-dark">SEGOMOE: Mixture of Experts Optimizer</h3>
             <span class="badge badge-warning text-white">Proprietary</span>
           </div>
-          <p class="small text-dark font-weight-bold mb-2">Lead Developer & Maintainer. Recognized Inventeur/Auteur, République Française.</p>
+          <p class="small text-dark font-weight-bold mb-2">Lead Developer & Maintainer. Recognized Inventor/Author for the deposit 2948, République Française.</p>
           <p class="small text-secondary text-justify mb-3">
             High-performance constrained Bayesian optimizer co-owned by <strong>ISAE-SUPAERO & ONERA (50/50)</strong>. I restructured the core codebase and integrated advanced features including multi-fidelity, multi-objective optimization, and heterogeneous data handling.
           </p>
