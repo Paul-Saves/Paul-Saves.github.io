@@ -279,7 +279,7 @@ title: Research
     <div class="col-md-6">
       <div class="p-3 bg-light rounded border mb-3">
         <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 61</h3>
-        <p class="small text-muted mb-0">Computer Science – <strong>Qualified 2025</strong></p>
+        <p class="small text-muted mb-0">Computer Science: Automatic & Signals – <strong>Qualified 2026</strong></p>
       </div>
     </div>
 
