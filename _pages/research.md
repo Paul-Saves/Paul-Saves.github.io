@@ -263,18 +263,25 @@ title: Research
         </div>
       </div>
     </section>
-
-    <!-- Qualifications -->
-    <section id="qualifications" class="mb-5">
-      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-certificate mr-2"></i> Academic Qualifications</h2>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="p-3 bg-light rounded border mb-3">
-            <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 26</h3>
-            <p class="small text-muted mb-0">Applied Mathematics – <strong>Qualified 2025</strong></p>
-          </div>
-        </div>
+<section id="qualifications" class="mb-5">
+  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase">
+    <i class="fas fa-certificate mr-2"></i> Academic Qualifications
+  </h2>
+  <div class="row">
+    
+    <div class="col-md-6">
+      <div class="p-3 bg-light rounded border mb-3">
+        <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 26</h3>
+        <p class="small text-muted mb-0">Applied Mathematics – <strong>Qualified 2025</strong></p>
       </div>
-    </section>
+    </div>
+
+    <div class="col-md-6">
+      <div class="p-3 bg-light rounded border mb-3">
+        <h3 class="h6 font-weight-bold mb-1 small text-uppercase text-primary">CNU Section 61</h3>
+        <p class="small text-muted mb-0">Computer Science – <strong>Qualified 2025</strong></p>
+      </div>
+    </div>
+
   </div>
-</div>
+</section>
