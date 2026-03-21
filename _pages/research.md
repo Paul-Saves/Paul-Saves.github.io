@@ -94,7 +94,7 @@ title: Research
           </div>
         </div>
 
-        <h3 class="h6 font-weight-bold mb-3 small text-uppercase">Informal Ph.D. Co-Supervision & Support</h3>
+        <h3 class="h6 font-weight-bold mb-3 small text-uppercase"> Scientific Mentoring & Collaboration with PhD Students </h3>
         <ul class="list-unstyled small mb-4 text-secondary">
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Edward Hallé-Hannan</strong>, Ph.D. in Applied Mathematics and AI, Polytechnique Montréal, Canada. Strong supervision and joint publication plan.</li>
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Jasper Bussemaker</strong>, Ph.D. in Aerospace Engineering, TU Delft, Netherlands. Support in mathematics, AI, and publication strategy.</li>
@@ -159,7 +159,7 @@ title: Research
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted small">Economic Impact & Industrial Partnerships</h3>
           <p class="x-small text-justify text-secondary mb-3">
-            I have led and contributed to high-stakes industrial projects under Non-Disclosure Agreements (NDA) with global aerospace leaders:
+               Industrial collaborations conducted under confidentiality agreements with global aerospace leaders:
           </p>
           <ul class="list-unstyled small text-secondary">
             <li class="mb-2"><i class="fas fa-industry mr-2 text-primary"></i> <strong>Bombardier (Canada)</strong>: Principal Investigator for a contract utilizing <strong>SEGOMOE</strong> for vehicle design (2021).</li>
