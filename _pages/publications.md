@@ -102,7 +102,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C6]</span> E. Hallé-Hannan, P. Saves, C. Audet, E. N. Van, and J. Bussemaker, "A graph-structured distance for heterogeneous datasets with meta variables," in <em>Proc. AISSAI Heterogeneous Data 2024</em>, Toulouse, France, 2024. <a href="https://www.gerad.ca/en/papers/G-2024-42" target="_blank" class="badge badge-light border ml-2">Link</a>
+    <span class="font-weight-bold">[C6]</span> E. Hallé-Hannan, P. Saves, C. Audet, E. Nguyen Van, and J. Bussemaker, "A graph-structured distance for heterogeneous datasets with meta variables," in <em>Proc. AISSAI Heterogeneous Data 2024</em>, Toulouse, France, 2024. <a href="https://www.gerad.ca/en/papers/G-2024-42" target="_blank" class="badge badge-light border ml-2">Link</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -126,7 +126,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C12]</span> P. Saves, E. N. Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C12]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -153,9 +153,9 @@ title: Scientific Publications
   <div class="ieee-citation mb-4">
     <span class="font-weight-bold">[P1]</span> P. Saves, P. S. Palar, M. D. Robani, M. Garouani, N. Verstaevel, et al., "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
-  
-  <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P2]</span> P. S. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Data-Driven Global Sensitivity Analysis for Engineering Design Based on Individual Conditional Expectations," <em>arXiv:2512.11946</em>, 2025. <a href="https://arxiv.org/abs/2512.11946" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+
+<div class="ieee-citation mb-4">
+    <span class="font-weight-bold">[P2]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, et al., "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Working Paper</em>, 2025. <a href="https://hal.science/hal-05371637" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4">
