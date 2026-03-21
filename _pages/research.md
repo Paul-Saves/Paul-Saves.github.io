@@ -20,7 +20,7 @@ title: Research
 
     <!-- Strategic Projects -->
     <section id="projects" class="mb-5">
-      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-project-diagram mr-2"></i> Strategic Research Projects</h2>
+      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-project-diagram mr-2"></i> Selected Research Projects</h2>
       
       <div class="card border-primary bg-light shadow-sm mb-4" style="border-left: 5px solid;">
         <div class="card-body">
@@ -96,7 +96,7 @@ title: Research
 
         <h3 class="h6 font-weight-bold mb-3 small text-uppercase"> Scientific Mentoring & Collaboration with PhD Students </h3>
         <ul class="list-unstyled small mb-4 text-secondary">
-          <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Edward Hallé-Hannan</strong>, Ph.D. in Applied Mathematics and AI, Polytechnique Montréal, Canada. Strong supervision and joint publication plan.</li>
+          <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Edward Hallé-Hannan</strong>, Ph.D. in Applied Mathematics and AI, Polytechnique Montréal, Canada. Scientific collaboration including co-supervision and joint publications.</li>
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Jasper Bussemaker</strong>, Ph.D. in Aerospace Engineering, TU Delft, Netherlands. Support in mathematics, AI, and publication strategy.</li>
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>James Mingzhi Shishua</strong>, Ph.D. in Aerospace Engineering, HKUST & University of Shanghai, China. Support in mathematics and formal AI aspects.</li>
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Jordan Levy</strong>, Ph.D. in Computer Science. Supervision in developing AI methods for anomaly detection in robotics.</li>
@@ -159,7 +159,7 @@ title: Research
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted small">Economic Impact & Industrial Partnerships</h3>
           <p class="x-small text-justify text-secondary mb-3">
-               Industrial collaborations conducted under confidentiality agreements with global aerospace leaders:
+               Industrial collaborations conducted under confidentiality agreements with major aerospace partners:
           </p>
           <ul class="list-unstyled small text-secondary">
             <li class="mb-2"><i class="fas fa-industry mr-2 text-primary"></i> <strong>Bombardier (Canada)</strong>: Principal Investigator for a contract utilizing <strong>SEGOMOE</strong> for vehicle design (2021).</li>
@@ -189,7 +189,7 @@ title: Research
       </div>
 
       <p class="small text-justify text-secondary mb-4">
-        My research is built on a diverse international network of collaborators across <strong>Europe, North/South America, and Asia</strong>. This interdisciplinary collective bridges academic theory with industrial excellence.
+        My research is built on a diverse international network of collaborators across <strong>Europe, North/South America, and Asia</strong>. This interdisciplinary network connects academic research with industrial applications.
       </p>
       
       <div class="card border-0 bg-light shadow-sm mb-4">
@@ -214,7 +214,7 @@ title: Research
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Shigeru Obayashi</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Koji Shimoyama</span>
           </div>
-          <p class="x-small text-muted mt-3 mb-0 italic">And 20+ other esteemed colleagues from ISAE-SUPAERO, ONERA, TU Delft, Polytechnique Montréal, HKUST, and beyond.</p>
+          <p class="x-small text-muted mt-3 mb-0 italic">And 20+ other co-authors from ISAE-SUPAERO, ONERA, TU Delft, Polytechnique Montréal, HKUST, and beyond.</p>
         </div>
       </div>
 
@@ -244,7 +244,7 @@ title: Research
         </div>
         <div class="col-md-6 mb-4">
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Peer Reviewing</h3>
-          <p class="small text-secondary mb-2">Extensive reviewing activity (35+ verified reviews) for international journals and conferences, including:</p>
+          <p class="small text-secondary mb-2">Active reviewing activity (35+ verified reviews) for international journals and conferences, including:</p>
           <div class="d-flex flex-wrap small">
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Nature Scientific Reports (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Comp. Opt. and Applications (4)</span>
