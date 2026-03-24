@@ -81,6 +81,10 @@ title: Scientific Publications
 <section id="conferences" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-users mr-2"></i> Conference Proceedings</h2>
 
+    <div class="ieee-citation mb-4 pb-2">
+        <span class="font-weight-bold">[C4]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://www.researchgate.net/publication/398902159_Adaptive_Agents_in_Spatial_Double-Auction_Markets_Modeling_the_Emergence_of_Industrial_Symbiosis" target="_blank" class="badge badge-light  border ml-2">ResearchGate</a>
+     </div>
+
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C1]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://arxiv.org/abs/2512.17979" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
