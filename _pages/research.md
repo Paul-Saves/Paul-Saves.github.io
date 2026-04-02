@@ -246,7 +246,7 @@ title: Research
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Peer Reviewing</h3>
           <p class="small text-secondary mb-2">Active reviewing activity (35+ verified reviews) for international journals and conferences, including:</p>
           <div class="d-flex flex-wrap small">
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Nature Scientific Reports (3)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Nature Scientific Reports (4)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Comp. Opt. and Applications (4)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Comp. Science (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Supercomputing (2)</span>
