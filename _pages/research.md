@@ -256,8 +256,14 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">PRIMA (2)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">PAAMS (2)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">AAMAS (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">MABS (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">J. Global Optimization (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Neurocomputing (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">INFORMS Journal of Comp.(1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Sensors (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optics Letter (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optimization and Engineering (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
           </div>
           <p class="x-small text-muted mt-2 mb-0 italic">And several others including Optics Letter, Optimization & Engineering, Sensors, MABS, and JFSMA.</p>
         </div>
