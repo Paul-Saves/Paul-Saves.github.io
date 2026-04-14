@@ -251,7 +251,7 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Comp. Science (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Journal of Supercomputing (2)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">SMO (2)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm">RJCIA (4)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">RJCIA (5)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">RCIS (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">PRIMA (2)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">PAAMS (2)</span>
