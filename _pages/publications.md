@@ -27,7 +27,7 @@ title: Scientific Publications
         <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="small text-white-50 text-underline">Google Scholar <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 mb-3 mb-md-0 border-left border-secondary">
-        <h3 class="h3 font-weight-bold text-primary mb-0">8+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">9+</h3>
         <p class="small text-muted mb-0">Q1 Journal Papers</p>
         <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
@@ -96,7 +96,7 @@ title: Scientific Publications
         <span class="font-weight-bold">[C2]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
      </div>
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C3]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+    <span class="font-weight-bold">[C3]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
