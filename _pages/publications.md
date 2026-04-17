@@ -75,6 +75,12 @@ title: Scientific Publications
   <div class="ieee-citation mb-4 pb-3 border-bottom">
     <span class="font-weight-bold">[J8]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A mixed-categorical correlation kernel for Gaussian process," <em>Neurocomputing</em>, vol. 558, 2023. <a href="https://doi.org/10.1016/j.neucom.2023.126472" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
+
+  <div class="ieee-citation mb-4 pb-3 border-bottom">
+    <span class="font-weight-bold">[J9]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://hal.science/hal-05371637" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
+
+
 </section>
 
 <!-- IEEE Section: Conferences -->
@@ -90,7 +96,7 @@ title: Scientific Publications
         <span class="font-weight-bold">[C2]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
      </div>
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C3]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Proc. IDA 2026</em>, Leiden, Netherlands, 2026. <a href="https://arxiv.org/abs/2602.00208" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+    <span class="font-weight-bold">[C3]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -158,12 +164,8 @@ title: Scientific Publications
     <span class="font-weight-bold">[P1]</span> P. Saves, P. S. Palar, M. D. Robani, M. Garouani, N. Verstaevel, et al., "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
 
-<div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P2]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, et al., "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Working Paper</em>, 2025. <a href="https://hal.science/hal-05371637" target="_blank" class="badge badge-light border ml-2">HAL</a>
-  </div>
-
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P3]</span> J. Shihua, P. Saves, R. Liem, and J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," 2026. <a href="https://arxiv.org/abs/2503.19479" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+    <span class="font-weight-bold">[P2]</span> J. Shihua, P. Saves, R. Liem, and J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," 2026. <a href="https://arxiv.org/abs/2503.19479" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
 </section>
 
