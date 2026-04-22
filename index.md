@@ -50,7 +50,7 @@ title: Biography
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2026</span> 
-            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Intelligent Data Analysis Best Paper Award</strong>, Conference Rank B, Springer Lecture Notes on Computer Science.</p>
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Intelligent Data Analysis Frontier Prize</strong>, Conference Rank B, Springer Lecture Notes on Computer Science.</p>
           </div>
           <!-- Award 2025 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
