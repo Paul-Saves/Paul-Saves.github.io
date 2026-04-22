@@ -46,6 +46,12 @@ title: Biography
         <!-- Professional Milestones -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-stream mr-2"></i> Professional Milestones</h2>
         <div class="news-timeline mb-5">
+          <!-- Award 2026 -->
+          <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
+            <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2025</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Intelligent Data Analysis Technical Best Paper Award</strong>, Conference Rank B, Springer Lecture Notes on Computer Science.</p>
+          </div>
           <!-- Award 2025 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
