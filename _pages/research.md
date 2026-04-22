@@ -33,6 +33,17 @@ title: Research
         </div>
       </div>
 
+<div class="card border-primary bg-light shadow-sm mb-4" style="border-left: 5px solid;">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h3 class="h6 font-weight-bold mb-0 text-primary">French Embassy - Science & Impact Grant 2026 (FRINDO-CLIMAI)</h3>
+            <span class="badge badge-primary">PI / Lead Investigator</span>
+          </div>
+          <p class="small text-dark font-weight-bold mb-1">Franco-Indonesian Cooperation with Institut Teknologi Bandung (ITB), Indonesia</p>
+          <p class="small text-muted mb-0 text-justify">Leading an international mobility project focusing on <strong>Uncertainty-Aware AI for Climate Modelling</strong>. This grant launches a joint framework using active learning and kernel-based Bayesian calibration to improve regional climate projections, facilitating methodological co-development between IRIT (France) and ITB (Indonesia).</p>
+        </div>
+      </div>
+
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present). Grant Number ANR-24-CE23-0380 </h3>
@@ -63,6 +74,7 @@ title: Research
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: ISAE-SUPAERO & ONERA (4 months at GERAD Montréal).</li>
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: CIMI & BQR (1 month at Univ. of Montréal).</li>
             <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>British Council Springboard</strong>: PI (Co-PI with Hossein Mohammadi, Univ. of Exeter).</li>
+            <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>Mobility grant</strong>: French Embassy in Indonesia.  (1 month at the ITB Univ., Bandung) </li>
           </ul>
         </div>
         <div class="col-md-6">
@@ -91,6 +103,9 @@ title: Research
         <div class="card border-primary bg-light shadow-sm mb-4">
           <div class="card-body py-3">
             <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (British Council). "Uncertainty quantification and machine learning for agent-based systems for climate risk."</h4>
+          </div>
+   <div class="card-body py-3">
+            <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (LPDP Ministry of Research, Indonesia). "Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia."</h4>
           </div>
         </div>
 
