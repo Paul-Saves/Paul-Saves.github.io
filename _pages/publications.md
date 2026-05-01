@@ -45,10 +45,10 @@ title: Scientific Publications
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-book-open mr-2"></i> Journal Articles</h2>
   
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a> <a href="https://arxiv.org/abs/2506.22621" target="_blank" class="badge badge-light border ml-1">ArXiv</a>
+    <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a> 
   </div>
 
-  <div class="ieee-citation mb-4 pb-3 border-bottom text-muted">
+  <div class="ieee-citation mb-4 pb-3 border-bottom">
     <span class="font-weight-bold">[J2]</span> P. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations," <em>Aerospace Science and Technology</em>, 2026. <a href="https://doi.org/10.1016/j.ast.2026.112091" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
@@ -90,7 +90,7 @@ title: Scientific Publications
 
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C1]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C1]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056m" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
     <div class="ieee-citation mb-4 pb-2">
         <span class="font-weight-bold">[C2]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
