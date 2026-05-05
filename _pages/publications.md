@@ -284,6 +284,7 @@ title: Scientific Publications
     </li>
   <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Enhanced kriging models within a Bayesian optimization framework, to handle both continuous and categorical inputs</strong>, Forth Worth, USA, SIAM Conference on Computational Science and Engineering. 
+</li>
   <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2024:</span> <strong> A graph-structured distance for heterogeneous datasets with meta variables </strong>, Toulouse, France, AISSAI (AI for Science).
     </li>
