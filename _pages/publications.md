@@ -102,75 +102,89 @@ title: Scientific Publications
 
 <!-- IEEE Section: Conferences -->
 <section id="conferences" class="mb-5">
+
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-users mr-2"></i> Conference Proceedings</h2>
 
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    First-author articles
+</h3>
 
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C1]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056m" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
     <div class="ieee-citation mb-4 pb-2">
-        <span class="font-weight-bold">[C2]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
+        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
      </div>
+
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C3]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>(World Best Paper Award)</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C4]</span> M. D. Robani, P. Saves, L. R. Zuhal, P. S. Palar, and J. Morlier, "SMT-EX: An Explainable Surrogate Modeling Toolbox for Mixed-Variables Design Exploration," in <em>Proc. AIAA SciTech 2025 Forum</em>, Orlando, USA, 2025. <a href="https://doi.org/10.2514/6.2025-0777" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C3]</span> P. Saves, J. Bussemaker, R. Lafage, T. Lefebvre, and N. Bartoli, "System-of-systems modeling and optimization: an integrated framework for intermodal mobility," in <em>Proc. ODAS 2024 (24th ONERA-DLR Symposium)</em>, Braunschweig, Germany, 2024. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C5]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C4]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefèbvre, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2023 Forum</em>, National Harbor, USA, 2023. <a href="https://doi.org/10.2514/6.2023-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C6]</span> N. Gonel, P. Saves, and J. Morlier, "Frequency-aware Surrogate Modeling With SMT Kernels For Advanced Data Forecasting," in <em>Proc. AeroBest 2025</em>, Lisboa, Portugal, 2025. <a href="https://hal.science/hal-05014823" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C5]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C7]</span> E. Hallé-Hannan, P. Saves, C. Audet, E. Nguyen Van, and J. Bussemaker, "A graph-structured distance for heterogeneous datasets with meta variables," in <em>Proc. AISSAI Heterogeneous Data 2024</em>, Toulouse, France, 2024. <a href="https://www.gerad.ca/en/papers/G-2024-42" target="_blank" class="badge badge-light border ml-2">Link</a>
+    <span class="font-weight-bold">[C6]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A General Square Exponential Kernel to Handle Mixed-Categorical Variables for Gaussian Process," in <em>Proc. AIAA AVIATION 2022 Forum</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-3870" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C8]</span> P. Saves, J. Bussemaker, R. Lafage, T. Lefebvre, and N. Bartoli, "System-of-systems modeling and optimization: an integrated framework for intermodal mobility," in <em>Proc. ODAS 2024 (24th ONERA-DLR Symposium)</em>, Braunschweig, Germany, 2024. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C7]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefebvre, and J. Morlier, "Constrained Bayesian optimization over mixed categorical variables, with application to aircraft design," in <em>Proc. ECCOMAS AeroBest 2021</em>, Lisboa, Portugal, 2021. <a href="https://hal.science/hal-03346341" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
+
+
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    Second-author articles
+</h3>
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C8]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and B. Nagel, "Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints," in <em>Proc. AIAA Aviation 2024 Forum</em>, Las Vegas, USA, 2024. <strong>(Best Student Paper Award)</strong> <a href="https://doi.org/10.2514/6.2024-4401" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>(World Best Paper Award)</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C10]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefèbvre, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2023 Forum</em>, National Harbor, USA, 2023. <a href="https://doi.org/10.2514/6.2023-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C10]</span> M. D. Robani, P. Saves, L. R. Zuhal, P. S. Palar, and J. Morlier, "SMT-EX: An Explainable Surrogate Modeling Toolbox for Mixed-Variables Design Exploration," in <em>Proc. AIAA SciTech 2025 Forum</em>, Orlando, USA, 2025. <a href="https://doi.org/10.2514/6.2025-0777" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C11]</span> R. Priem, N. Bartoli, Y. Diouane, S. Dubreuil, and P. Saves, "High-Dimensional Efficient Global Optimization Using Both Random and Supervised Embeddings," in <em>Proc. AIAA AVIATION 2023 Forum</em>, San Diego, USA, 2023. <a href="https://doi.org/10.2514/6.2023-4448" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C11]</span> N. Gonel, P. Saves, and J. Morlier, "Frequency-aware Surrogate Modeling With SMT Kernels For Advanced Data Forecasting," in <em>Proc. ECCOMAS AeroBest 2025</em>, Lisboa, Portugal, 2025. <a href="https://hal.science/hal-05014823" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
+
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C12]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and B. Nagel, "Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints," in <em>Proc. AIAA Aviation 2024 Forum</em>, Las Vegas, USA, 2024. <strong>(Best Student Paper Award)</strong> <a href="https://doi.org/10.2514/6.2024-4401" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  </div>
+
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    Last-author articles
+</h3>
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C13]</span> R. Priem, N. Bartoli, Y. Diouane, S. Dubreuil, and P. Saves, "High-Dimensional Efficient Global Optimization Using Both Random and Supervised Embeddings," in <em>Proc. AIAA AVIATION 2023 Forum</em>, San Diego, USA, 2023. <a href="https://doi.org/10.2514/6.2023-4448" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  </div>
+
+
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    Other co-authored articles
+</h3>
+
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C14]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, and Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C12]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, and Y. Diouane, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. AEROBEST 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C15]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C13]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C14]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A General Square Exponential Kernel to Handle Mixed-Categorical Variables for Gaussian Process," in <em>Proc. AIAA AVIATION 2022 Forum</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-3870" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C15]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C16]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefebvre, and J. Morlier, "Constrained Bayesian optimization over mixed categorical variables, with application to aircraft design," in <em>Proc. AeroBest 2021</em>, Lisboa, Portugal, 2021. <a href="https://hal.science/hal-03346341" target="_blank" class="badge badge-light border ml-2">HAL</a>
-  </div>
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C17]</span> P. Saves, N. Bartoli, Y. Diouane, J. Morlier, and T. Lefebvre, "Enhanced Kriging Models Within a Bayesian Optimization Framework to Handle Both Continuous and Categorical Inputs," in <em>Proc. SIAM CSE21</em>, Fort Worth, USA, 2021. <a href="https://hal.science/hal-03346341" target="_blank" class="badge badge-light border ml-2">HAL</a>
-  </div>
 </section>
 
 <!-- IEEE Section: Preprints -->
@@ -267,6 +281,12 @@ title: Scientific Publications
     </li>
     <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Surrogate Day</strong>, Organizer & Speaker, ISAE-SUPAERO.
+    </li>
+  <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Enhanced kriging models within a Bayesian optimization framework, to handle both continuous and categorical inputs</strong>, Forth Worth, USA, SIAM Conference on Computational Science and Engineering. 
+
+  <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2024:</span> <strong> A graph-structured distance for heterogeneous datasets with meta variables </strong>, Toulouse, France, AISSAI (AI for Science).
     </li>
   </ul>
 </section>
