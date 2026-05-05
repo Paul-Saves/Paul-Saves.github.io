@@ -44,40 +44,57 @@ title: Scientific Publications
 <section id="journals" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-book-open mr-2"></i> Journal Articles</h2>
   
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    First-author articles
+</h3>
+
   <div class="ieee-citation mb-4 pb-3 border-bottom">
     <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a> 
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J2]</span> P. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations," <em>Aerospace Science and Technology</em>, 2026. <a href="https://doi.org/10.1016/j.ast.2026.112091" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J2]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, et al., "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J3]</span> E. Hallé-Hannan, C. Audet, Y. Diouane, S. Le Digabel, and P. Saves, "A distance for mixed-variable and hierarchical domains with meta variables," <em>Neurocomputing</em>, 2025. <a href="https://doi.org/10.1016/j.neucom.2025.131208" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J3]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "High-dimensional mixed-categorical Gaussian processes with application to multidisciplinary design optimization for a green aircraft," <em>Structural and Multidisciplinary Optimization</em>, 2024. <a href="https://doi.org/10.1007/s00158-024-03785-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J4]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, et al., "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J4]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A mixed-categorical correlation kernel for Gaussian process," <em>Neurocomputing</em>, vol. 558, 2023. <a href="https://doi.org/10.1016/j.neucom.2023.126472" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
-  <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J5]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and R. Lafage, "System Architecture Optimization Strategies: Dealing with Expensive Hierarchical Problems," <em>Journal of Global Optimization</em>, 2024. <a href="https://doi.org/10.1007/s10898-024-01443-8" target="_blank" class="badge badge-light border ml-2">DOI</a>
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    Second-author articles
+</h3>
+
+   <div class="ieee-citation mb-4 pb-3 border-bottom">
+    <span class="font-weight-bold">[J5]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
-  <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J6]</span> R. Priem, Y. Diouane, N. Bartoli, S. Dubreuil, and P. Saves, "High-dimensional Bayesian optimization using both random and supervised embeddings," <em>AIAA Journal</em>, 2024. <a href="https://doi.org/10.2514/1.J063488" target="_blank" class="badge badge-light border ml-2">DOI</a>
+
+ <div class="ieee-citation mb-4 pb-3 border-bottom">
+    <span class="font-weight-bold">[J6]</span> P. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations," <em>Aerospace Science and Technology</em>, 2026. <a href="https://doi.org/10.1016/j.ast.2026.112091" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
-  <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J7]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "High-dimensional mixed-categorical Gaussian processes with application to multidisciplinary design optimization for a green aircraft," <em>Structural and Multidisciplinary Optimization</em>, 2024. <a href="https://doi.org/10.1007/s00158-024-03785-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J8]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A mixed-categorical correlation kernel for Gaussian process," <em>Neurocomputing</em>, vol. 558, 2023. <a href="https://doi.org/10.1016/j.neucom.2023.126472" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J7]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and R. Lafage, "System Architecture Optimization Strategies: Dealing with Expensive Hierarchical Problems," <em>Journal of Global Optimization</em>, 2024. <a href="https://doi.org/10.1007/s10898-024-01443-8" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
+
+<h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
+    Last-author articles
+</h3>
+
+	
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J9]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J8]</span> E. Hallé-Hannan, C. Audet, Y. Diouane, S. Le Digabel, and P. Saves, "A distance for mixed-variable and hierarchical domains with meta variables," <em>Neurocomputing</em>, 2025. <a href="https://doi.org/10.1016/j.neucom.2025.131208" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  </div>
+
+
+  <div class="ieee-citation mb-4 pb-3 border-bottom">
+    <span class="font-weight-bold">[J9]</span> R. Priem, Y. Diouane, N. Bartoli, S. Dubreuil, and P. Saves, "High-dimensional Bayesian optimization using both random and supervised embeddings," <em>AIAA Journal</em>, 2024. <a href="https://doi.org/10.2514/1.J063488" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 
