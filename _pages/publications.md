@@ -182,7 +182,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C15]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C15]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 </section>
