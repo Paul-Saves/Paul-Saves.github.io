@@ -110,11 +110,12 @@ title: Scientific Publications
 </h3>
 
     <div class="ieee-citation mb-4 pb-2">
-        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415v1" target="_blank" class="badge badge-light  border ml-2">HAL</a>
+        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, 2026. <a href="https://hal.science/hal-05564415" target="_blank" class="badge badge-light  border ml-2">HAL</a> <span class="badge badge-danger ml-2">CORE C</span>
      </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge badge-danger ml-2">CORE National</span>
+
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -143,11 +144,12 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C8]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C8]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge badge-danger ml-2">CORE A*</span>
+
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>(World Best Paper Award)</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>(World Best Paper Award)</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge badge-danger ml-2">CORE B</span>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -176,13 +178,16 @@ title: Scientific Publications
     Other co-authored articles
 </h3>
 
-
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C14]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, and Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C14]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge badge-danger ml-2">CORE National</span>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C15]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C15]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C16]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 </section>
@@ -192,7 +197,7 @@ title: Scientific Publications
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-file-alt mr-2"></i> Preprints & Working Papers</h2>
   
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P1]</span> P. Saves, P. S. Palar, M. D. Robani, M. Garouani, N. Verstaevel, et al., "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+    <span class="font-weight-bold">[P1]</span> P. Saves, P. S. Palar, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
 
   <div class="ieee-citation mb-4">
