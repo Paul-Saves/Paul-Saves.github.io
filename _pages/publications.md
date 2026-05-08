@@ -215,27 +215,49 @@ title: Scientific Publications
 
 <!-- Software Section -->
 <section id="software" class="mb-5">
-  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-code mr-2"></i> Scientific Software</h2>
+  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2">
+    <i class="fas fa-code mr-2"></i> Scientific Software
+  </h2>
   
   <div class="row">
-    <!-- SMT -->
+    
+    <!-- SMT 2.0 -->
     <div class="col-md-12 mb-4">
       <div class="card h-100 border-0 shadow-sm bg-light">
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-start mb-2">
-            <h3 class="h6 font-weight-bold mb-0 text-primary">SMT 2.0: Surrogate Modeling Toolbox (BSD-3 License)</h3>
-            <span class="badge badge-success">Open Source</span>
+            <h3 class="h6 font-weight-bold mb-0 text-primary">
+              SMT 2.0: Surrogate Modeling Toolbox
+            </h3>
+            <span>
+              <span class="badge badge-success">Open Source</span>
+              <span class="badge badge-dark">BSD-3</span>
+            </span>
           </div>
-          <p class="small text-dark font-weight-bold mb-2">Lead Developer & Maintainer</p>
-          <p class="small text-secondary text-justify mb-3">
-            A Python toolbox designed for researchers and engineers. SMT has been applied to diverse high-stakes engineering problems: coaxial rocket engine injectors, aircraft fuel consumption modeling, high-order finite element methods, solar energy planning, and wind turbine design.
+
+          <p class="small text-dark font-weight-bold mb-2">
+            Lead Developer & Maintainer
           </p>
+
+          <p class="small text-secondary text-justify mb-3">
+            SMT is a Python toolbox for surrogate modeling, Bayesian optimization, and design-space exploration, developed for researchers and engineers. The framework has been applied to diverse high-stakes engineering problems including rocket engine injectors, aircraft fuel consumption modeling, high-order finite element methods, solar energy planning, and wind turbine design.
+          </p>
+
           <div class="mb-3">
-            <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-dark mr-2"><i class="fab fa-github mr-1"></i> Main Core</a>
-            <a href="https://github.com/SMTorg/smt-design-space-ext" target="_blank" class="btn btn-sm btn-outline-dark mr-2"><i class="fas fa-project-diagram mr-1"></i> Design-space-ext</a>
-            <a href="https://github.com/SMTorg/smt-explainability" target="_blank" class="btn btn-sm btn-outline-dark"><i class="fas fa-search-plus mr-1"></i> Explainability</a>
+            <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-dark mr-2">
+              <i class="fab fa-github mr-1"></i> Main Core
+            </a>
+            <a href="https://github.com/SMTorg/smt-design-space-ext" target="_blank" class="btn btn-sm btn-outline-dark mr-2">
+              <i class="fas fa-project-diagram mr-1"></i> Design-space-ext
+            </a>
+            <a href="https://github.com/SMTorg/smt-explainability" target="_blank" class="btn btn-sm btn-outline-dark">
+              <i class="fas fa-search-plus mr-1"></i> Explainability
+            </a>
           </div>
-          <p class="x-small text-muted mb-0 italic">The <strong>design-space-ext</strong> handles mixed-discrete variables and complex architectures, while <strong>explainability</strong> automates XAI metrics and visualization.</p>
+
+          <p class="x-small text-muted mb-0 italic">
+            <strong>design-space-ext</strong> supports mixed-discrete and hierarchical design variables, while <strong>explainability</strong> provides automated XAI metrics, sensitivity analysis, and visualization workflows.
+          </p>
         </div>
       </div>
     </div>
@@ -245,25 +267,79 @@ title: Scientific Publications
       <div class="card h-100 border-0 shadow-sm bg-white" style="border-left: 4px solid #f0ad4e !important;">
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-start mb-2">
-            <h3 class="h6 font-weight-bold mb-0 text-dark">SEGOMOE: Mixture of Experts Optimizer</h3>
+            <h3 class="h6 font-weight-bold mb-0 text-dark">
+              SEGOMOE: Mixture-of-Experts Bayesian Optimizer
+            </h3>
             <span class="badge badge-warning text-white">Proprietary</span>
           </div>
-          <p class="small text-dark font-weight-bold mb-2">Lead Developer & Maintainer. Recognized Inventor/Author for the deposit 2948, République Française.</p>
-          <p class="small text-secondary text-justify mb-3">
-            High-performance constrained Bayesian optimizer co-owned by <strong>ISAE-SUPAERO & ONERA (50/50)</strong>. I restructured the core codebase and integrated advanced features including multi-fidelity, multi-objective optimization, and heterogeneous data handling.
+
+          <p class="small text-dark font-weight-bold mb-2">
+            Lead Developer & Maintainer · Registered software co-inventor (French software deposit #2948)
           </p>
-          <a href="https://hal.science/hal-02944011/document" target="_blank" class="btn btn-sm btn-outline-secondary"><i class="fas fa-file-pdf mr-1"></i> Technical Reference</a>
+
+          <p class="small text-secondary text-justify mb-3">
+            High-performance constrained Bayesian optimization framework co-developed by <strong>ISAE-SUPAERO</strong> and <strong>ONERA</strong>. I restructured the core architecture and integrated advanced capabilities including multi-fidelity, multi-objective optimization, heterogeneous variable handling, and scalable surrogate-assisted exploration.
+          </p>
+
+          <a href="https://hal.science/hal-02944011/document" target="_blank" class="btn btn-sm btn-outline-secondary">
+            <i class="fas fa-file-pdf mr-1"></i> Technical Reference
+          </a>
         </div>
       </div>
     </div>
-  </div>
 
+    <!-- GAMA Platform -->
+    <div class="col-md-12 mb-4">
+      <div class="card h-100 border-0 shadow-sm bg-light">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-start mb-2">
+            <h3 class="h6 font-weight-bold mb-0 text-success">
+              GAMA Platform: Agent-Based Modeling & Simulation
+            </h3>
+            <span>
+              <span class="badge badge-success">Open Source</span>
+              <span class="badge badge-dark">Java</span>
+            </span>
+          </div>
+
+          <p class="small text-dark font-weight-bold mb-2">
+            Regular Developer
+          </p>
+
+          <p class="small text-secondary text-justify mb-3">
+            GAMA is an advanced open-source platform for spatially explicit multi-agent simulation. My work primarily focuses on the development of exploration and optimization tools, as well as contributing as a regular developer to a specific GAML model for agro-ecology.
+          </p>
+
+          <div class="mb-3">
+            <a href="https://gama-platform.org/" target="_blank" class="btn btn-sm btn-dark mr-2">
+              <i class="fas fa-globe mr-1"></i> Website
+            </a>
+            <a href="https://github.com/gama-platform/gama" target="_blank" class="btn btn-sm btn-outline-dark mr-2">
+              <i class="fab fa-github mr-1"></i> GitHub
+            </a>
+            <a href="https://gama-platform.org/wiki/Documentation" target="_blank" class="btn btn-sm btn-outline-dark">
+              <i class="fas fa-book mr-1"></i> Documentation
+            </a>
+          </div>
+
+          <p class="x-small text-muted mb-0 italic">
+            The platform enables large-scale, GIS-integrated socio-ecological modeling using the high-level <strong>GAML</strong> language.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div> <!-- End of Row -->
+
+  <!-- Reproducibility Alert -->
   <div class="alert alert-info border-0 shadow-sm py-2">
     <p class="x-small mb-0 text-dark">
       <i class="fas fa-info-circle mr-2"></i> All research algorithms are implemented across these frameworks. While datasets are not public by default, they are available <strong>upon request</strong>, and most numerical experiments can be reproduced for validation.
     </p>
   </div>
+
 </section>
+
 
 <!-- Talks Section -->
 <section id="talks" class="mb-5">
