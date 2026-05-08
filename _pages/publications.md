@@ -149,7 +149,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>- Springer IDA Frontier Prize -</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
+    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>- Springer IDA Frontier Prize -</strong> <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
 
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C10]</span> M. D. Robani, P. Saves, L. R. Zuhal, P. S. Palar, and J. Morlier, "SMT-EX: An Explainable Surrogate Modeling Toolbox for Mixed-Variables Design Exploration," in <em>Proc. AIAA SciTech 2025 Forum</em>, Orlando, USA, 2025. <a href="https://doi.org/10.2514/6.2025-0777" target="_blank" class="badge badge-light border ml-2">DOI</a>
@@ -303,7 +303,7 @@ title: Scientific Publications
             </h3>
             <span>
               <span class="badge badge-success">Open Source</span>
-              <span class="badge badge-dark">Java</span>
+              <span class="badge badge-dark">GPL-3</span>
             </span>
           </div>
 
