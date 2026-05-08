@@ -49,19 +49,20 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a> 
+    <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span>  </div>
+
+  <div class="ieee-citation mb-4 pb-3 border-bottom">
+    <span class="font-weight-bold">[J2]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, et al., "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J2]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, et al., "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J3]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "High-dimensional mixed-categorical Gaussian processes with application to multidisciplinary design optimization for a green aircraft," <em>Structural and Multidisciplinary Optimization</em>, 2024. <a href="https://doi.org/10.1007/s00158-024-03785-z" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
+
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J3]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "High-dimensional mixed-categorical Gaussian processes with application to multidisciplinary design optimization for a green aircraft," <em>Structural and Multidisciplinary Optimization</em>, 2024. <a href="https://doi.org/10.1007/s00158-024-03785-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
-  </div>
+    <span class="font-weight-bold">[J4]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A mixed-categorical correlation kernel for Gaussian process," <em>Neurocomputing</em>, vol. 558, 2023. <a href="https://doi.org/10.1016/j.neucom.2023.126472" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
 
-  <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J4]</span> P. Saves, Y. Diouane, N. Bartoli, T. Lefebvre, and J. Morlier, "A mixed-categorical correlation kernel for Gaussian process," <em>Neurocomputing</em>, vol. 558, 2023. <a href="https://doi.org/10.1016/j.neucom.2023.126472" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
@@ -69,17 +70,17 @@ title: Scientific Publications
 </h3>
 
    <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J5]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J5]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1 and Maths Q1</span> 
   </div>
 
 
  <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J6]</span> P. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations," <em>Aerospace Science and Technology</em>, 2026. <a href="https://doi.org/10.1016/j.ast.2026.112091" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J6]</span> P. Palar, P. Saves, R. G. Regis, K. Shimoyama, S. Obayashi, et al., "Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations," <em>Aerospace Science and Technology</em>, 2026. <a href="https://doi.org/10.1016/j.ast.2026.112091" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">Engineering Q1</span> 
   </div>
 
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J7]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and R. Lafage, "System Architecture Optimization Strategies: Dealing with Expensive Hierarchical Problems," <em>Journal of Global Optimization</em>, 2024. <a href="https://doi.org/10.1007/s10898-024-01443-8" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J7]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and R. Lafage, "System Architecture Optimization Strategies: Dealing with Expensive Hierarchical Problems," <em>Journal of Global Optimization</em>, 2024. <a href="https://doi.org/10.1007/s10898-024-01443-8" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">Maths Q1</span> 
   </div>
 
 
@@ -89,12 +90,12 @@ title: Scientific Publications
 
 	
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J8]</span> E. Hallé-Hannan, C. Audet, Y. Diouane, S. Le Digabel, and P. Saves, "A distance for mixed-variable and hierarchical domains with meta variables," <em>Neurocomputing</em>, 2025. <a href="https://doi.org/10.1016/j.neucom.2025.131208" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J8]</span> E. Hallé-Hannan, C. Audet, Y. Diouane, S. Le Digabel, and P. Saves, "A distance for mixed-variable and hierarchical domains with meta variables," <em>Neurocomputing</em>, 2025. <a href="https://doi.org/10.1016/j.neucom.2025.131208" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
   </div>
 
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J9]</span> R. Priem, Y. Diouane, N. Bartoli, S. Dubreuil, and P. Saves, "High-dimensional Bayesian optimization using both random and supervised embeddings," <em>AIAA Journal</em>, 2024. <a href="https://doi.org/10.2514/1.J063488" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[J9]</span> R. Priem, Y. Diouane, N. Bartoli, S. Dubreuil, and P. Saves, "High-dimensional Bayesian optimization using both random and supervised embeddings," <em>AIAA Journal</em>, 2024. <a href="https://doi.org/10.2514/1.J063488" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">Engineering Q1</span> 
   </div>
 
 
@@ -126,7 +127,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C5]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>(World Best Paper Award)</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C5]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>- AIAA Best Paper Award (all conferences) -</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
@@ -148,7 +149,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>(World Best Paper Award)</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
+    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>- Sringer IDA Frontier Prize -</strong>. <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
 
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C10]</span> M. D. Robani, P. Saves, L. R. Zuhal, P. S. Palar, and J. Morlier, "SMT-EX: An Explainable Surrogate Modeling Toolbox for Mixed-Variables Design Exploration," in <em>Proc. AIAA SciTech 2025 Forum</em>, Orlando, USA, 2025. <a href="https://doi.org/10.2514/6.2025-0777" target="_blank" class="badge badge-light border ml-2">DOI</a>
@@ -160,7 +161,7 @@ title: Scientific Publications
 
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C12]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and B. Nagel, "Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints," in <em>Proc. AIAA Aviation 2024 Forum</em>, Las Vegas, USA, 2024. <strong>(Best Student Paper Award)</strong> <a href="https://doi.org/10.2514/6.2024-4401" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C12]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and B. Nagel, "Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints," in <em>Proc. AIAA Aviation 2024 Forum</em>, Las Vegas, USA, 2024. <strong> - Best Student Paper Award -</strong> <a href="https://doi.org/10.2514/6.2024-4401" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
@@ -212,12 +213,19 @@ title: Scientific Publications
 
 <!-- Software Section -->
 <section id="software" class="mb-5">
-  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2">
+  <h2 class="h5 font-weight-bold mb-2 text-primary text-uppercase border-bottom pb-2">
     <i class="fas fa-code mr-2"></i> Scientific Software
   </h2>
-  
+
+  <div class="mb-4">
+    <span class="badge text-white px-3 py-2"
+          style="background-color:#f0ad4e; font-size:0.8rem;">
+	- French Open Science Award 2026 -
+    </span>
+  </div>
+
   <div class="row">
-    
+
     <!-- SMT 2.0 -->
     <div class="col-md-12 mb-4">
       <div class="card h-100 border-0 shadow-sm bg-light">
