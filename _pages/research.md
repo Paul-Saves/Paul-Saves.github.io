@@ -280,7 +280,6 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optimization and Engineering (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
           </div>
-          <p class="x-small text-muted mt-2 mb-0 italic">And several others including Optics Letter, Optimization & Engineering, Sensors, MABS, and JFSMA.</p>
         </div>
       </div>
     </section>
