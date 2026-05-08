@@ -22,7 +22,7 @@ title: Scientific Publications
     <h2 class="h6 font-weight-bold text-uppercase mb-4 text-center" style="letter-spacing: 2px; color: #aaa;">Research Impact</h2>
     <div class="row text-center">
       <div class="col-md-4 mb-3 mb-md-0">
-        <h3 class="h3 font-weight-bold text-primary mb-0">500+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">550+</h3>
         <p class="small text-muted mb-0">Citations (approx.)</p>
         <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="small text-white-50 text-underline">Google Scholar <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
@@ -32,7 +32,7 @@ title: Scientific Publications
         <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 border-left border-secondary">	
-        <h3 class="h3 font-weight-bold text-primary mb-0">38+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">41+</h3>
         <p class="small text-muted mb-0">Co-authors Network</p>
         <a href="{{ site.dblp_url }}" target="_blank" class="small text-white-50 text-underline">DBLP Graph <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>

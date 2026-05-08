@@ -207,31 +207,58 @@ title: Research
         My research is built on a diverse international network of collaborators across <strong>Europe, North/South America, and Asia</strong>. This interdisciplinary network connects academic research with industrial applications.
       </p>
       
-      <div class="card border-0 bg-light shadow-sm mb-4">
+
+	<div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-3 small text-uppercase text-muted">Scientific Collaborators</h3>
           <div class="d-flex flex-wrap" style="gap: 8px;">
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Julien Aligon</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Charles Audet</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nathalie Bartoli</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jasper H. Bussemaker</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Christophe David</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Defoort</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pierluigi Della Vecchia</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Youssef Diouane</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Edward Hallé-Hannan</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joseph Morlier</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Charles Audet</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Giuseppa Donelli</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sylvain Dubreuil</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Moncef Garouani</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benoit Gaudou</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joao Marcos Gomes de Mello</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Gonel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Robin Grapin</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Edward Hallé-Hannan</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">John T. Hwang</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémi Lafage</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Matthieu Mastio</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jordan Levy</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rhea P. Liem</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Massimo Mandorino</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joaquim R. R. A. Martins</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Matthieu Mastio</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Joseph Morlier</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Feodor Murzin</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Björn Nagel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Eric Nguyen Van</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Shigeru Obayashi</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Gaston Plat</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Lisa Pretsch</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémy Priem</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rommel G. Regis</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Muhammad Daffa Robani</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">James M. Shihua</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Koji Shimoyama</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Aigerim Yerimbetova</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Lavi Rizki Zuhal</span>
           </div>
-          <p class="x-small text-muted mt-3 mb-0 italic">And 20+ other co-authors from ISAE-SUPAERO, ONERA, TU Delft, Polytechnique Montréal, HKUST, and beyond.</p>
         </div>
       </div>
+
+
+
 
       <div class="card border-0 bg-dark text-white shadow-sm">
         <div class="card-body py-3 d-flex justify-content-between align-items-center">
