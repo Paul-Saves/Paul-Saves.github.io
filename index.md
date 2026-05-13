@@ -143,6 +143,15 @@ title: Biography
             <a href="https://lopinion.com/amp/articles/actualite/32805_toulouse-un-jeune-chercheur-recompense-these-eco-conception-avions-science-ouverte" target="_blank" class="small text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
           </div>
 
+    <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">IDA Frontier Prize Coverage</p>
+            <p class="small mb-1 text-secondary">"Une IA plus performante pour détecter les anomalies, récompensée à l’international"</p>
+            <a href="https://www.ut-capitole.fr/accueil/recherche/prix-et-distinctions/distinctions-academiques/une-ia-plus-performante-pour-detecter-les-anomalies-recompensee-a-linternational" target="_blank" class="small text-primary">UT Capitole<i class="fas fa-external-link-alt ml-1"></i></a>
+            <a href=https://lopinion.com/articles/actualite/33576_ecole-toulousaine-brille-international-ia" target="_blank" class="small text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+
+
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
