@@ -8,10 +8,10 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong>. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for aircraft eco-design was awarded the <strong>2024 ISAE-SUPAERO Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research) and the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research. I also received 3 additional <strong>Technical Best paper Awards</strong> at various conférences between 2022 and 2026.
+  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research) and the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research. I also received 3 additional <strong>Technical Best paper Awards</strong> at various conférences between 2022 and 2026.
 </p>
 <p class="text-justify">
-  My research focuses on <strong>surrogate modeling, frugal AI, and explainable machine learning</strong> for computationally expensive simulations. I develop lightweight statistical and machine-learning models (including Gaussian processes and ensemble methods) to approximate complex systems, quantify uncertainty, and support decision-making. My work connects <strong>Explainable AI</strong>, <strong>Bayesian optimization</strong>, and scientific machine learning, with applications ranging from sustainable aeronautical design to agent-based socio-environmental modeling. I am a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
+  My research focuses on <strong>surrogate modeling, frugal AI, and explainable machine learning</strong> for computationally expensive simulations. I develop lightweight statistical and machine-learning models (including Gaussian processes and ensemble methods) to approximate complex systems, quantify uncertainty, and support decision-making. My work connects <strong>Explainable AI</strong>, <strong>Bayesian optimization</strong>, and scientific machine learning, with applications ranging from sustainable transport design to agent-based socio-environmental modeling. I am a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
 </p>
       
       <div class="mt-4 mb-5">
@@ -33,7 +33,7 @@ title: Biography
 
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0">Aircraft Design Optimizer</h3>
+          <h3 class="h6 font-weight-bold mb-0">Eco-Design Analyst and Optimizer</h3>
           <span class="badge badge-light border font-weight-normal">2020 - 2025</span>
         </div>
         <div class="small text-muted mb-2">ONERA / ISAE-SUPAERO / ENAC, France</div>
@@ -81,7 +81,7 @@ title: Biography
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2020 - 2025</span> 
-            <p class="small mb-0"><strong>Aircraft Design Optimizer</strong> at ONERA / ISAE-SUPAERO / ENAC.</p>
+            <p class="small mb-0"><strong>Eco-Design Optimizer</strong> at ONERA / ISAE-SUPAERO / ENAC.</p>
           </div>
           <!-- Award 2022 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
@@ -172,7 +172,7 @@ title: Biography
             <h2 class="h6 font-weight-bold text-uppercase mb-3">Education</h2>
             <ul class="list-unstyled small mb-0">
               <li class="mb-3">
-                <div class="font-weight-bold">PhD, Aircraft Design</div>
+                <div class="font-weight-bold">PhD, Frugal AI for Eco-Design</div>
                 <div class="text-muted">ISAE-SUPAERO / ONERA</div>
                 <div class="x-small text-secondary">2020 - 2023</div>
               </li>
