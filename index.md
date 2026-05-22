@@ -50,19 +50,19 @@ title: Biography
           <!-- Role 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
             <p class="small mb-0"><strong>PI of a ecosystem modeling and simulation project</strong> for a <strong>Springboard British Council Project</strong> at the University of Exeter, United Kingdom.</p>
           </div>
           <!-- Role 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
             <p class="small mb-0"><strong>PI of a climate science simulation project</strong> for a <strong>Science and Impact IFI Project</strong> at IT Bandung, Indonesia.</p>
           </div>
           <!-- Role 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
             <p class="small mb-0"><strong>Active Learning Post-doctoral research</strong> for a <strong>LabEx CIMI Project</strong> at GERAD, Canada.</p>
           </div>
           <!-- Award 2026 -->
