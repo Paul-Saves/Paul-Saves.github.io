@@ -37,6 +37,7 @@ title: Biography
           <span class="badge badge-light border font-weight-normal">2020 - 2025</span>
         </div>
         <div class="small text-muted mb-2">ONERA / ISAE-SUPAERO / ENAC, France</div>
+        <div class="small text-muted mb-2">Ecole Polytechnique de Montréal, Canada</div>
         <p class="small text-justify text-secondary">Optimization for ecological aeronautics (EU projects AGILE 4.0, COLOSSUS).</p>
       </div>
     </section>
@@ -46,6 +47,24 @@ title: Biography
         <!-- Professional Milestones -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-stream mr-2"></i> Professional Milestones</h2>
         <div class="news-timeline mb-5">
+          <!-- Role 2026 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <p class="small mb-0"><strong>PI of a ecosystem modeling and simulation project</strong> for a <strong>Springboard British Council Project</strong> at the University of Exeter, United Kingdom.</p>
+          </div>
+          <!-- Role 2026 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <p class="small mb-0"><strong>PI of a climate science simulation project</strong> for a <strong>Science and Impact IFI Project</strong> at IT Bandung, Indonesia.</p>
+          </div>
+          <!-- Role 2026 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2025 - Present</span> 
+            <p class="small mb-0"><strong>Active Learning Post-doctoral research</strong> for a <strong>LabEx CIMI Project</strong> at GERAD, Canada.</p>
+          </div>
           <!-- Award 2026 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
@@ -173,7 +192,7 @@ title: Biography
             <ul class="list-unstyled small mb-0">
               <li class="mb-3">
                 <div class="font-weight-bold">PhD, Frugal AI for Eco-Design</div>
-                <div class="text-muted">ISAE-SUPAERO / ONERA</div>
+                <div class="text-muted">ISAE-SUPAERO / ONERA/ Polytechnique Montréal</div>
                 <div class="x-small text-secondary">2020 - 2023</div>
               </li>
               <li class="mb-3">
