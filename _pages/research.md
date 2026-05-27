@@ -81,7 +81,7 @@ title: Research
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Grants for Recruitment</h3>
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>PhD Grant</strong>: Frugal AI for HPC climate impact (ENAC/ISAE/ONERA & ONERA).</li>
-            <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>PhD Grant</strong>: Statistics for climate change impact (British Council).</li>
+            <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>PhD Grant</strong>: Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia (LPDP).</li>
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>Intern Grant</strong>: Eco-material discovery for batteries (PEPR DIADEM, France 2030).</li>
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>Intern Grant</strong>: Multi-objective Bayesian optimization (ISAE-SUPAERO).</li>
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>Intern Grant</strong>: Time-frequency kernel engineering (ONERA).</li>
@@ -101,10 +101,7 @@ title: Research
         </ul>
         <h3 class="h6 font-weight-bold mt-4 mb-3 small text-uppercase">Current Openings</h3>
         <div class="card border-primary bg-light shadow-sm mb-4">
-          <div class="card-body py-3">
-            <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (British Council). "Uncertainty quantification and machine learning for agent-based systems for climate risk."</h4>
-          </div>
-   <div class="card-body py-3">
+        <div class="card-body py-3">
             <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (LPDP Ministry of Research, Indonesia). "Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia."</h4>
           </div>
         </div>
