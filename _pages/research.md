@@ -68,9 +68,9 @@ title: Research
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Personal Research Funding</h3>
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Post-doctoral Grant</strong>: ANR MIMICO (ANR-24-CE23-0380).</li>
-            <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Post-doctoral Grant</strong>: EC COLOSSUS (ID 101097120).</li>
+            <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Post-doctoral Grant</strong>: Horizon Europe COLOSSUS (ID 101097120).</li>
             <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>PhD Thesis Grant</strong>: ENAC/ISAE/ONERA Federation & ONERA.</li>
-            <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Master’s Thesis Grant</strong>: EC AGILE 4.0 (ID 815122).</li>
+            <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Master’s Thesis Grant</strong>: Horizon Europe AGILE 4.0 (ID 815122).</li>
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: ISAE-SUPAERO & ONERA (4 months at GERAD Montréal).</li>
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: CIMI & BQR (1 month at Univ. of Montréal).</li>
             <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>British Council Springboard</strong>: PI (Co-PI with Hossein Mohammadi, Univ. of Exeter).</li>
