@@ -83,7 +83,7 @@ title: Teaching Activities
         </tr>
       </thead>
       <tbody>
-        <tr><td class="pl-3 font-weight-bold">Introduction to Research in AI for Climate</td><td class="text-center">Bachelos</td><td>Tutorial/Project</td><td class="text-right pr-3">1h</td></tr>
+        <tr><td class="pl-3 font-weight-bold">Introduction to Research in AI for Climate</td><td class="text-center">Bachelor</td><td>Tutorial/Project</td><td class="text-right pr-3">1h</td></tr>
       </tbody>
     </table>
   </div>
