@@ -23,7 +23,7 @@ title: Teaching Activities
     <div class="col-md-4 mb-4">
       <div class="card border-0 shadow-sm bg-light h-100">
         <div class="card-body">
-          <h3 class="h2 font-weight-bold text-primary mb-0">161h+</h3>
+          <h3 class="h2 font-weight-bold text-primary mb-0">162h+</h3>
           <p class="small text-muted mb-0 text-uppercase" style="letter-spacing: 1px;">Total Volume</p>
         </div>
       </div>
@@ -31,7 +31,7 @@ title: Teaching Activities
     <div class="col-md-4 mb-4">
       <div class="card border-0 shadow-sm bg-light h-100">
         <div class="card-body">
-          <h3 class="h2 font-weight-bold text-primary mb-0">10h+</h3>
+          <h3 class="h2 font-weight-bold text-primary mb-0">11h+</h3>
           <p class="small text-muted mb-0 text-uppercase" style="letter-spacing: 1px;">Lectures (Cours)</p>
         </div>
       </div>
@@ -70,6 +70,25 @@ title: Teaching Activities
       </tbody>
     </table>
   </div>
+
+  <h3 class="h6 font-weight-bold mb-3 text-muted text-uppercase small">Toulouse School of Economics</h3>
+  <div class="table-responsive mb-5">
+    <table class="table table-hover table-sm small shadow-sm border">
+      <thead class="bg-light">
+        <tr>
+          <th class="py-2 pl-3">Subject</th>
+          <th class="py-2 text-center">Level</th>
+          <th class="py-2">Type</th>
+          <th class="py-2 text-right pr-3">Volume</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="pl-3 font-weight-bold">Introduction to Research in AI for Climate</td><td class="text-center">Bachelos</td><td>Tutorial/Project</td><td class="text-right pr-3">1h</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+
 
   <h3 class="h6 font-weight-bold mb-3 text-muted text-uppercase small">ISAE-SUPAERO (Engineering)</h3>
   <div class="table-responsive mb-4">
