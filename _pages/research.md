@@ -131,18 +131,11 @@ title: Research
             <ul class="list-unstyled text-secondary">
               <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Hugo Reimereinger</strong> (Master, 2024), ISAE-SUPAERO. Orthogonal decomposition for shock reconstruction.</li>
               <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Maël Tremouille</strong> (L3, 2024), ENSAE Paris. Noisy Bayesian optimization.</li>
+              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Rodrigo Cervantes-Salas</strong> (Master, 2026), ISAE-SUPAERO. Discovering new eco-materials for batteries using Bayesian optimization.</li>
             </ul>
           </div>
         </div>
 
-        <h3 class="h6 font-weight-bold mt-4 mb-3 small text-uppercase">Current Openings</h3>
-        <div class="card border-primary bg-light shadow-sm mb-4">
-          <div class="card-body py-3">
-            <h4 class="h6 font-weight-bold mb-1 text-primary">Internship: Discovering new eco-materials for batteries using Bayesian optimization</h4>
-            <p class="small text-muted mb-0"><strong>Level:</strong> Master II / M.Eng. final year. Focus on frugal AI and material discovery.</p>
-          </div>
-        </div>
-      </div>
     </section>
 
     <!-- Expertise, Technology Transfer & Impact -->
