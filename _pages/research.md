@@ -136,7 +136,6 @@ title: Research
           </div>
         </div>
 
-    </section>
 
     <!-- Expertise, Technology Transfer & Impact -->
     <section id="expertise-impact" class="mb-5">
