@@ -176,12 +176,17 @@ title: Scientific Publications
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
     Other co-authored articles
 </h3>
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C14]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
+
+Published: 2026 –, CSMA 2026, https://hal.science/hal-05636767 
+
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C14]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
+    <span class="font-weight-bold">[C15]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C15]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C16]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
