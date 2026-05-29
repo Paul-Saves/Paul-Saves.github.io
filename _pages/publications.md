@@ -177,9 +177,7 @@ title: Scientific Publications
     Other co-authored articles
 </h3>
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C14]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
-
-Published: 2026 –, CSMA 2026, https://hal.science/hal-05636767 
+    <span class="font-weight-bold">[C14]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
 
 
   <div class="ieee-citation mb-4 pb-2">
