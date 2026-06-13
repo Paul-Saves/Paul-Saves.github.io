@@ -286,7 +286,7 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">RJCIA (5)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">RCIS (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">PRIMA (2)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm">PAAMS (2)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">PAAMS (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">AAMAS (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">MABS (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">J. Global Optimization (1)</span>

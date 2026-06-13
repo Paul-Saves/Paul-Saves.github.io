@@ -122,16 +122,16 @@ title: Biography
             <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIRBUS National IA Contest</strong> – Finalist (issued by INSA).</p>
           </div>
           <!-- Role 2019 -->
-          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">	
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2019</span> 
-            <p class="small mb-0"><strong>Research Intern</strong> at <strong>Novosibirsk State University (Russia)</strong>.</p>
+            <p class="small mb-0"><strong>Research Intern</strong> at Novosibirsk State University, Institute of Informatics Systems, Russia.</p>
           </div>
           <!-- Role 2016 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2016</span> 
-            <p class="small mb-0"><strong>Intern</strong> at <strong>DGA Techniques Aéronautiques</strong> (Balma, France).</p>
+            <p class="small mb-0"><strong>Intern</strong> at <strong>DGA Techniques Aéronautiques</strong>.</p>
           </div>
         </div>
 
