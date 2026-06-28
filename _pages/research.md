@@ -270,6 +270,7 @@ title: Research
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><strong>RCIS 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>RJCIA 2026</strong> – Program Committee Member.</li>
+            <li class="mb-2"><strong>WISE 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>GDR I-GAIA</strong> – Active Member.</li>
             <li class="mb-2"><strong>RT-UQ CNRS</strong> – Active Member.</li>
           </ul>
