@@ -297,6 +297,9 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optics Letter (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optimization and Engineering (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Discover Applied Sciences (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Complexities (1)</span>
+
           </div>
         </div>
       </div>
