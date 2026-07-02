@@ -47,14 +47,14 @@ title: Research
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present). Grant Number ANR-24-CE23-0380 </h3>
-          <p class="small text-muted mb-0"><strong>Hybrid Modeling for Agent-Based Systems</strong>. Combining ABM with simplified surrogate representations to evaluate urban mobility policies and dense crowd dynamics.</p>
+          <p class="small text-muted mb-0"><strong>Hybrid Modeling for Agent-Based Systems</strong>. Combining ABM with simplified surrogate representations to evaluate urban mobility policies and dense crowd dynamics. These works were recognized by two Best Paper Awards for contributions to XAI and Surrogate Modelling.</p>
         </div>
       </div>
 
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
           <h3 class="h6 font-weight-bold mb-1">Aeronautical Decarbonation. EU Comission, Horizon 2020 COLOSSUS and AGILE 4.0 projects.  Grant Numbers 815122 and  101097120  </h3>
-          <p class="small text-muted mb-0">Applying Bayesian optimization to eco-designed aircraft architectures. These works were recognized by two AIAA Best Paper awards for contributions to "green aviation."</p>
+          <p class="small text-muted mb-0">Applying Bayesian optimization to eco-designed aircraft architectures. These works were recognized by two AIAA Best Paper Awards for contributions to "green aviation."</p>
         </div>
       </div>
     </section>
@@ -299,7 +299,7 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Discover Applied Sciences (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Complexities (1)</span>
-
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> WISE (3)</span>
           </div>
         </div>
       </div>
