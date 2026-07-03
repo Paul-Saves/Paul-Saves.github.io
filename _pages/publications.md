@@ -146,8 +146,11 @@ title: Scientific Publications
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C8]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis," in <em>Proc. AAMAS 2026</em>, Paphos, Cyprus, 2026. <a href="https://doi.org/10.65109/EXII2056" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE A*</span>
   </div>
+
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C9]</span> M. Mastio, B. Gaudou,P. Saves, and N. Verstaevel, "Agents adaptatifs dans des marchés spatialisés à double enchère pour la modélisation de l'émergence de symbioses industrielles," in <em>Proc. JFSMA 2026</em>, Arras, France, 2026. <strong> - Best Paper Award -</strong> <a href="https://www.researchgate.net/publication/408369762_Agents_adaptatifs_dans_des_marches_spatialises_a_double_enchere_pour_la_modelisation_de_l'emergence_de_symbioses_industrielles" target="_blank" class="badge badge-light border ml-2">RG</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
+ </div>
+
 
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C10]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>- Springer IDA Frontier Prize -</strong> <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
