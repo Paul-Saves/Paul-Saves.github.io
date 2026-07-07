@@ -148,7 +148,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> M. Mastio, B. Gaudou,P. Saves, and N. Verstaevel, "Agents adaptatifs dans des marchés spatialisés à double enchère pour la modélisation de l'émergence de symbioses industrielles," in <em>Proc. JFSMA 2026</em>, Arras, France, 2026. <strong> - Best Paper Award -</strong> <a href="https://hal.science/hal-05678237" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
+    <span class="font-weight-bold">[C9]</span> M. Mastio, P. Saves, B. Gaudou, and N. Verstaevel, "Agents adaptatifs dans des marchés spatialisés à double enchère pour la modélisation de l'émergence de symbioses industrielles," in <em>Proc. JFSMA 2026</em>, Arras, France, 2026. <strong> - Best Paper Award -</strong> <a href="https://hal.science/hal-05678237" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
  </div>
 
 
