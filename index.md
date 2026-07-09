@@ -8,8 +8,8 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research) and the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research and the <strong>2026 International Artificial Intelligence PhD Award</strong> from the the Francophone Research Network on Artificial Intelligence (RéFIA).
-I also received 3 additional <strong>Technical Best paper Awards</strong> at various conférences between 2022 and 2026.
+  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research), the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the the Francophone Research Network on Artificial Intelligence (RéFIA) and the the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées.
+I also received 4 additional <strong>Technical Best paper Awards</strong> at various conférences (AIAA*2, IDA, JFSMA) between 2022 and 2026.
 </p>
 <p class="text-justify">
   My research focuses on <strong>surrogate modeling, frugal AI, and explainable machine learning</strong> for computationally expensive simulations. I develop lightweight statistical and machine-learning models (including Gaussian processes and ensemble methods) to approximate complex systems, quantify uncertainty, and support decision-making. My work connects <strong>Explainable AI</strong>, <strong>Bayesian optimization</strong>, and scientific machine learning, with applications ranging from sustainable transport design to agent-based socio-environmental modeling. I am a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
@@ -67,6 +67,11 @@ I also received 3 additional <strong>Technical Best paper Awards</strong> at var
             <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
             <p class="small mb-0"><strong>Active Learning Post-doctoral research</strong> for a <strong>LabEx CIMI Project</strong> at GERAD, Canada.</p>
           </div>
+          <!-- Award 2026 -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2026</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Sustainable Mobility Best Thesis Award</strong>, by the Réseau Abertis, Ecole Nationale des Ponts et Chaussées.</p>
           <!-- Award 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
