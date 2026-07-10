@@ -119,16 +119,16 @@ title: Research
         <div class="row small">
           <div class="col-md-6">
             <ul class="list-unstyled text-secondary">
-              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Raul Carreira Rufato</strong> (M2, 2024), ISAE-SUPAERO. Mixed-variable Gaussian processes.</li>
-              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Robin Grapin</strong> (M2, 2024), ISAE-SUPAERO. Multi-objective Bayesian optimization.</li>
+              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Raul Carreira Rufato</strong> (M2, 2021), ISAE-SUPAERO. Mixed-variable Gaussian processes.</li>
+              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Robin Grapin</strong> (M2, 2022), ISAE-SUPAERO. Multi-objective Bayesian optimization.</li>
+              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Hugo Reimereinger</strong> (M1, 2023), ISAE-SUPAERO. Orthogonal decomposition for shock reconstruction.</li>
               <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Nicolas Gonel</strong> (M2, 2024), INSA Toulouse. Periodic Gaussian processes.</li>
-              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Hugo Reimereinger</strong> (M2, 2024), ISAE-SUPAERO. Orthogonal decomposition for shock reconstruction.</li>
             </ul>
           </div>
           <div class="col-md-6">
             <ul class="list-unstyled text-secondary">
               <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Maël Tremouille</strong> (L3, 2024), ENSAE Paris. Noisy Bayesian optimization.</li>
-              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Benjamin Pianet</strong> (M2, 2024), Univ. Lille. Statistics for exploring agro-ecological simulations in Viêtnam.</li>
+              <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Benjamin Pianet</strong> (M2, 2026), Univ. Lille. Statistics for exploring agro-ecological simulations in Viêtnam.</li>
               <li class="mb-1"><i class="fas fa-check text-success mr-2"></i> <strong>Rodrigo Cervantes-Salas</strong> (M2, 2026), ISAE-SUPAERO. Discovering new eco-materials for batteries using Bayesian optimization.</li>
             </ul>
           </div>
