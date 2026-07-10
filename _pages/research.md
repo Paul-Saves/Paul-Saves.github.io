@@ -98,14 +98,8 @@ title: Research
         <h3 class="h6 font-weight-bold mb-3 small text-uppercase">Formal Ph.D. Supervision</h3>
         <ul class="list-unstyled small mb-4">
           <li class="mb-2"><i class="fas fa-user-graduate text-muted mr-2"></i> <strong>Gaston Plat</strong> (2025 - Present), Ph.D. in Applied Mathematics, ONERA / ISAE-SUPAERO, "Frugal AI for HPC climate impact". <em>Official Supervisor</em>.</li>
+	  <li class="mb-2"><i class="fas fa-user-graduate text-muted mr-2"></i> <strong>Restu Ananda Putra</strong>(2026-Present), Ph.D. in Statistics, LPDP Ministry of Research, Indonesia, "Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia".<em>Official Supervisor</em>.</li>
         </ul>
-        <h3 class="h6 font-weight-bold mt-4 mb-3 small text-uppercase">Current Openings</h3>
-        <div class="card border-primary bg-light shadow-sm mb-4">
-   <div class="card-body py-3">
-            <h4 class="h6 font-weight-bold mb-1 text-primary">Ph.D. in Statistics (LPDP Ministry of Research, Indonesia). "Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia."</h4>
-          </div>
-        </div>
-
         <h3 class="h6 font-weight-bold mb-3 small text-uppercase"> Scientific Mentoring & Collaboration with PhD Students </h3>
         <ul class="list-unstyled small mb-4 text-secondary">
           <li class="mb-2"><i class="fas fa-hands-helping text-primary mr-2"></i> <strong>Edward Hallé-Hannan</strong>, Ph.D. in Applied Mathematics and AI, Polytechnique Montréal, Canada. Scientific collaboration including co-supervision and joint publications.</li>
