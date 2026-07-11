@@ -77,7 +77,7 @@
               <li class="mb-3"><i class="fab fa-linkedin text-muted mr-3"></i><a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="text-dark">LinkedIn</a></li>
               {% endif %}
               
-              <li class="mt-4 mb-2 text-uppercase x-small font-weight-bold text-muted border-bottom pb-1" style="letter-spacing: 1px;">Research Profiles</li>
+              <li class="mt-4 mb-2 text-uppercase x-small font-weight-bold text-muted border-bottom pb-1" style="letter-spacing: 1px;">Research Profiles & Identifiers</li>
               
               {% if site.hal_cv_url %}
               <li class="mb-2"><i class="ai ai-hal text-muted mr-3"></i><a href="{{ site.hal_cv_url }}" target="_blank" class="text-dark">HAL CV</a></li>
@@ -101,7 +101,7 @@
               <li class="mb-2"><i class="ai ai-scopus text-muted mr-3"></i><a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus_id }}" target="_blank" class="text-dark">Scopus</a></li>
               {% endif %}
               {% if site.wos_url %}
-              <li class="mb-2"><i class="ai ai-web-of-science text-muted mr-3"></i><a href="{{ site.wos_url }}" target="_blank" class="text-dark">Web of Science</a></li>
+              <li class="mb-2"><i class="fas fa-book text-muted mr-3"></i><a href="{{ site.wos_url }}" target="_blank" class="text-dark">Web of Science</a></li>
               {% endif %}
               {% if site.arxiv_url %}
               <li class="mb-2"><i class="ai ai-arxiv text-muted mr-3"></i><a href="{{ site.arxiv_url }}" target="_blank" class="text-dark">arXiv</a></li>
@@ -113,19 +113,20 @@
               <li class="mb-2"><i class="fab fa-github text-muted mr-3"></i><a href="https://github.com/{{ site.github_username }}" target="_blank" class="text-dark">GitHub</a></li>
               {% endif %}
               
-              <li class="mt-4 mb-2 text-uppercase x-small font-weight-bold text-muted border-bottom pb-1" style="letter-spacing: 1px;">Identifiers & Metrics</li>
-              
               {% if site.sciprofiles_id %}
-              <li class="mb-2"><i class="ai ai-sciprofiles text-muted mr-3"></i><a href="https://sciprofiles.com/profile/{{ site.sciprofiles_id }}" target="_blank" class="text-dark">SciProfiles</a></li>
+              <li class="mb-2"><i class="fas fa-id-card text-muted mr-3"></i><a href="https://sciprofiles.com/profile/{{ site.sciprofiles_id }}" target="_blank" class="text-dark">SciProfiles</a></li>
               {% endif %}
               {% if site.researcherid %}
               <li class="mb-2"><i class="ai ai-researcherid text-muted mr-3"></i><a href="https://www.webofscience.com/wos/author/record/{{ site.researcherid }}" target="_blank" class="text-dark">ResearcherID</a></li>
               {% endif %}
               {% if site.scanr_url %}
-              <li class="mb-2"><i class="fas fa-microscope text-muted mr-3"></i><a href="{{ site.scanr_url }}" target="_blank" class="text-dark">scanR Profile</a></li>
+              <li class="mb-2"><i class="fas fa-microscope text-muted mr-3"></i><a href="{{ site.scanr_url }}" target="_blank" class="text-dark">ScanR</a></li>
               {% endif %}
               {% if site.kudos_url %}
-              <li class="mb-2"><i class="ai ai-kudos text-muted mr-3"></i><a href="{{ site.kudos_url }}" target="_blank" class="text-dark">Kudos</a></li>
+              <li class="mb-2"><i class="fas fa-award text-muted mr-3"></i><a href="{{ site.kudos_url }}" target="_blank" class="text-dark">Kudos</a></li>
+              {% endif %}
+              {% if site.loop_url %}
+              <li class="mb-2"><i class="fas fa-infinity text-muted mr-3"></i><a href="{{ site.loop_url }}" target="_blank" class="text-dark">Loop</a></li>
               {% endif %}
             </ul>
           </div>
