@@ -116,17 +116,23 @@
               {% if site.sciprofiles_id %}
               <li class="mb-2"><i class="fas fa-id-card text-muted mr-3"></i><a href="https://sciprofiles.com/profile/{{ site.sciprofiles_id }}" target="_blank" class="text-dark">SciProfiles</a></li>
               {% endif %}
-              {% if site.researcherid %}
-              <li class="mb-2"><i class="ai ai-researcherid text-muted mr-3"></i><a href="https://www.webofscience.com/wos/author/record/{{ site.researcherid }}" target="_blank" class="text-dark">ResearcherID</a></li>
-              {% endif %}
               {% if site.scanr_url %}
               <li class="mb-2"><i class="fas fa-microscope text-muted mr-3"></i><a href="{{ site.scanr_url }}" target="_blank" class="text-dark">ScanR</a></li>
               {% endif %}
               {% if site.kudos_url %}
-              <li class="mb-2"><i class="fas fa-award text-muted mr-3"></i><a href="{{ site.kudos_url }}" target="_blank" class="text-dark">Kudos</a></li>
+              <li class="mb-2"><i class="fas fa-star text-muted mr-3"></i><a href="{{ site.kudos_url }}" target="_blank" class="text-dark">Kudos</a></li>
               {% endif %}
               {% if site.loop_url %}
               <li class="mb-2"><i class="fas fa-infinity text-muted mr-3"></i><a href="{{ site.loop_url }}" target="_blank" class="text-dark">Loop</a></li>
+              {% endif %}
+              {% if site.csauthors_url %}
+              <li class="mb-2"><i class="fas fa-laptop-code text-muted mr-3"></i><a href="{{ site.csauthors_url }}" target="_blank" class="text-dark">CSAuthors</a></li>
+              {% endif %}
+              {% if site.openreview_url %}
+              <li class="mb-2"><i class="fas fa-user-check text-muted mr-3"></i><a href="{{ site.openreview_url }}" target="_blank" class="text-dark">OpenReview</a></li>
+              {% endif %}
+              {% if site.acm_url %}
+              <li class="mb-2"><i class="ai ai-acmdl text-muted mr-3"></i><a href="{{ site.acm_url }}" target="_blank" class="text-dark">ACM</a></li>
               {% endif %}
             </ul>
           </div>
