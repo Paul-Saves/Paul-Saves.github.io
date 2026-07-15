@@ -9,10 +9,10 @@ title: Research
   <div class="col-12">
     <section id="abstract" class="mb-5">
       <p class="text-justify lead">
-        My research aims at developing a unified framework for the analysis and decision-oriented exploration of complex simulation models using <strong>Frugal and Explainable AI</strong>. I combine surrogate modeling, active learning, and interpretable machine learning to transform computationally expensive <em>black-box</em> simulations into transparent tools for decision-making under uncertainty.
+        My research aims at developing a unified framework for the analysis and decision-oriented exploration of complex simulation models using <strong>Frugal and Explainable AI</strong>. I combine surrogate modeling, active learning, and interpretable machine learning to transform computationally expensive models into transparent tools for decision-making under environmental and climate uncertainty.
       </p>
       <p class="text-justify small text-secondary">
-        This work follows an iterative <strong>co-design</strong> paradigm, where modeling and interpretation are developed jointly with domain experts to enable actionable insights. I apply this framework to two main classes of systems: multidisciplinary engineering design (with an emphasis on sustainable aeronautics) and agent-based simulations for environmental and climate risk assessment.
+        Through an iterative <strong>co-design</strong> paradigm with domain experts, this framework provides actionable insights for two main classes of complex systems: sustainable transport design and agent-based simulations for socio-environmental risk assessment.
       </p>
     </section>
 
@@ -29,7 +29,7 @@ title: Research
             <span class="badge badge-primary">PI / Lead Investigator</span>
           </div>
           <p class="small text-dark font-weight-bold mb-1">International Collaboration with University of Exeter, UK</p>
-          <p class="small text-muted mb-0 text-justify">Leading an international research collective focusing on <strong>Frugal AI and Climate Change impact quantification</strong>. This grant facilitates high-level scientific exchange and joint development of statistical emulators for climate risk assessment between IRIT (France) and Exeter (UK).</p>
+          <p class="small text-muted mb-0 text-justify">Leading an international research collective on <strong>Frugal AI for Climate Risk</strong>. This grant facilitates joint development of statistical emulators for climate impact quantification between IRIT (France) and Exeter (UK).</p>
         </div>
       </div>
 
@@ -40,7 +40,7 @@ title: Research
             <span class="badge badge-primary">PI / Lead Investigator</span>
           </div>
           <p class="small text-dark font-weight-bold mb-1">Franco-Indonesian Cooperation with Institut Teknologi Bandung (ITB), Indonesia</p>
-          <p class="small text-muted mb-0 text-justify">Leading an international mobility project focusing on <strong>Uncertainty-Aware AI for Climate Modelling</strong>. This grant launches a joint framework using active learning and kernel-based Bayesian calibration to improve regional climate projections, facilitating methodological co-development between IRIT (France) and ITB (Indonesia).</p>
+          <p class="small text-muted mb-0 text-justify">Leading an international mobility project on <strong>Uncertainty-Aware AI for Climate Resilience</strong> in the Global South. This grant launches a joint framework using active learning and Bayesian calibration to improve regional climate projections between IRIT (France) and ITB (Indonesia).</p>
         </div>
       </div>
 
@@ -53,8 +53,8 @@ title: Research
 
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-1">Aeronautical Decarbonation. EU Comission, Horizon 2020 COLOSSUS and AGILE 4.0 projects.  Grant Numbers 815122 and  101097120  </h3>
-          <p class="small text-muted mb-0">Applying Bayesian optimization to eco-designed aircraft architectures. These works were recognized by two AIAA Best Paper Awards for contributions to "green aviation."</p>
+          <h3 class="h6 font-weight-bold mb-1">Sustainable Mobility Optimization. EU Comission, Horizon 2020 COLOSSUS and AGILE 4.0 projects.  Grant Numbers 815122 and  101097120  </h3>
+          <p class="small text-muted mb-0">Applying Bayesian optimization to the eco-design of complex transport systems. These works were recognized by two AIAA Best Paper Awards for methodological contributions to green aviation.</p>
         </div>
       </div>
     </section>
