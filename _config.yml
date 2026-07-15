@@ -2,7 +2,7 @@
 title: Paul Saves | Academic Portfolio
 name: Paul Saves
 email: paul.saves@alumni.enac.fr
-description: Computer Scientist in Ecological Complex Systems | Researcher in AI for Climate. Specialist in Frugal AI, Surrogate Modeling, and XAI.
+description: "Doctor in Artificial Intelligence for climate 🌿 AI for Sustainability 🌍 | Frugal AI • Explainable AI • Multidisciplinarity"
 affiliation: University Toulouse Capitole, IRIT/CNRS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://paul-saves.github.io" # the base hostname & protocol for your site
@@ -31,7 +31,7 @@ idref_url: "https://www.idref.fr/275839664#070"
 mathgenealogy_url: "https://www.mathgenealogy.org/id.php?id=311217"
 
 # Keywords for SEO
-keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, IRIT, CNRS"
+keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, IRIT, CNRS, Sustainability, Climate, Complex Systems"
 
 # Research Interests
 interests:
@@ -45,7 +45,7 @@ education:
   - degree: Ph.D. in Mathematics and Applications
     institution: ONERA / ISAE-SUPAERO, Toulouse
     year: 2024
-    details: "Best PhD ISAE-SUPAERO & Open Science Award 2025. Focus on aircraft eco-design."
+    details: "Best PhD ISAE-SUPAERO & Open Science Award 2025. Focus on sustainable mobility and eco-design."
   - degree: M.Sc. in Operation Research
     institution: ENAC / UPS, Toulouse
     year: 2020

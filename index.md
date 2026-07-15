@@ -8,11 +8,10 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research), the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the the Francophone Research Network on Artificial Intelligence (RéFIA) and the the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées.
-I also received 4 additional <strong>Technical Best paper Awards</strong> at various conférences (AIAA*2, IDA, JFSMA) between 2022 and 2026.
+  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> (Fondation ISAE-SUPAERO / French Ministry of Research), the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the Francophone Research Network on Artificial Intelligence (RéFIA) and the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées. I also received 4 additional <strong>Technical Best paper Awards</strong> at various conférences (AIAA*2, IDA, JFSMA) between 2022 and 2026.
 </p>
 <p class="text-justify">
-  My research focuses on <strong>surrogate modeling, frugal AI, and explainable machine learning</strong> for computationally expensive simulations. I develop lightweight statistical and machine-learning models (including Gaussian processes and ensemble methods) to approximate complex systems, quantify uncertainty, and support decision-making. My work connects <strong>Explainable AI</strong>, <strong>Bayesian optimization</strong>, and scientific machine learning, with applications ranging from sustainable transport design to agent-based socio-environmental modeling. I am a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
+  My research develops <strong>frugal and explainable AI approaches for complex systems</strong>, bridging surrogate modeling, active learning, and interpretable machine learning to support transparent decision-making under uncertainty in <strong>sustainability and engineering applications</strong>. I am also a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, design optimization, and interpretable simulation analysis.
 </p>
       
       <div class="mt-4 mb-5">
@@ -39,7 +38,7 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
         </div>
         <div class="small text-muted mb-2">ONERA / ISAE-SUPAERO / ENAC, France</div>
         <div class="small text-muted mb-2">Ecole Polytechnique de Montréal, Canada</div>
-        <p class="small text-justify text-secondary">Optimization for ecological aeronautics (EU projects AGILE 4.0, COLOSSUS).</p>
+        <p class="small text-justify text-secondary">Optimization for the eco-design of complex transport systems (EU projects AGILE 4.0, COLOSSUS).</p>
       </div>
     </section>
 
@@ -194,7 +193,7 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
-            <p class="small mb-1 text-secondary">Decarbonation and green aviation optimization</p>
+            <p class="small mb-1 text-secondary">Decarbonation methodologies for sustainable mobility</p>
             <div class="d-flex flex-wrap small">
               <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">ISAE-SUPAERO Interview <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://onera.fr/fr/actualites/un-doctorant-onera-obtient-un-prix-prestigieux" target="_blank" class="text-primary mr-3">ONERA News <i class="fas fa-external-link-alt ml-1"></i></a>
