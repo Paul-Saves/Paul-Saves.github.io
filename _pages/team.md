@@ -6,7 +6,7 @@ title: Team & Mentees
 
 <div class="row fade-in">
   <div class="col-12">
-    <h1 class="text-justify lead mb-4">
+    <p class="text-justify mb-4">
       My research group focuses on the intersection of <strong>Frugal AI</strong>, <strong>Optimization</strong>, and <strong>Complex Systems</strong>.    </p>
 
     <!-- Ph.D. Students -->
