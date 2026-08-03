@@ -8,7 +8,7 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am a Contractual Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> from the Fondation ISAE-SUPAERO, the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the Francophone Research Network on Artificial Intelligence (RéFIA) and the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées.
+  I am an incoming <strong>Tenured Research Scientist (Chargé de Recherche)</strong> at the <strong>French National Research Institute for Sustainable Development (IRD)</strong>. I am currently a Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> from the Fondation ISAE-SUPAERO, the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the Francophone Research Network on Artificial Intelligence (RéFIA) and the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées.
 I also received 4 additional <strong>Technical Best paper Awards</strong> at various conférences (AIAA*2, IDA, JFSMA) between 2022 and 2026.
 </p>
 <p class="text-justify">
@@ -25,10 +25,19 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
       <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-briefcase mr-2"></i> Career Summary</h2>
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0">Machine Learning Researcher</h3>
-          <span class="badge badge-light border font-weight-normal">2025 - Present</span>
+          <h3 class="h6 font-weight-bold mb-0 text-success"><i class="fas fa-certificate mr-1"></i> Tenured Research Scientist (CRCN)</h3>
+          <span class="badge badge-success font-weight-normal shadow-sm">Starting Oct. 2026</span>
         </div>
-        <div class="small text-muted mb-2">IRIT (CNRS), Toulouse, France</div>
+        <div class="small text-muted mb-2 font-weight-bold">French National Research Institute for Sustainable Development (IRD)</div>
+        <p class="small text-justify text-secondary">Leading research on Frugal AI, decision-making under uncertainty, and climate resilience in the Global South.</p>
+      </div>
+
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0">Postdoctoral Researcher</h3>
+          <span class="badge badge-light border font-weight-normal">2025 - 2026</span>
+        </div>
+        <div class="small text-muted mb-2">IRIT (CNRS) / Univ. Toulouse Capitole, France</div>
         <p class="small text-justify text-secondary">Postdoctoral research on <strong>agent-based simulations surrogate modeling</strong> (ANR MIMICO).</p>
       </div>
 
@@ -48,6 +57,12 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
         <!-- Professional Milestones -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-stream mr-2"></i> Professional Milestones</h2>
         <div class="news-timeline mb-5">
+          <!-- Role 2026 CRCN -->
+          <div class="news-item pl-4 mb-3 border-left border-success" style="position: relative;">
+            <div class="news-dot bg-success" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-success small font-weight-bold">Oct 2026</span> 
+            <p class="small mb-0"><strong>Appointed Tenured Research Scientist (Chargé de Recherche)</strong> at the French National Research Institute for Sustainable Development (IRD).</p>
+          </div>
           <!-- Role 2026 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
 
@@ -100,8 +115,8 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
           <!-- Role 2025 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025 - Present</span> 
-            <p class="small mb-0"><strong>Machine Learning Researcher</strong> for <strong>ANR MIMICO</strong> at IRIT.</p>
+            <span class="text-muted small font-weight-bold">2025 - 2026</span> 
+            <p class="small mb-0"><strong>Postdoctoral Researcher</strong> for <strong>ANR MIMICO</strong> at <strong>Université Toulouse Capitole</strong> and <strong>IRIT/CNRS</strong>.</p>
           </div>
           <!-- Award 2024 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">

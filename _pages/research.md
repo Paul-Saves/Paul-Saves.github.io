@@ -102,7 +102,7 @@ title: Research
       
       <div class="row small">
         <div class="col-md-6">
-          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Personal Research Funding</h3>
+          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Fellowships & Research Grants</h3>
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Post-doctoral Grant</strong>: ANR MIMICO (ANR-24-CE23-0380).</li>
             <li class="mb-2"><i class="fas fa-check text-primary mr-2"></i> <strong>Post-doctoral Grant</strong>: Horizon Europe COLOSSUS (ID 101097120).</li>
@@ -115,7 +115,7 @@ title: Research
           </ul>
         </div>
         <div class="col-md-6">
-          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Grants for Recruitment</h3>
+          <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Funded Positions (Team)</h3>
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>PhD Grant</strong>: Frugal AI for HPC climate impact (ENAC/ISAE/ONERA & ONERA).</li>
             <li class="mb-2"><i class="fas fa-user-plus text-primary mr-2"></i> <strong>PhD Grant</strong>: Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia (LPDP).</li>

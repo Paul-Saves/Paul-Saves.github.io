@@ -9,11 +9,8 @@ title: Contact Information
     <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-map-marker-alt mr-2"></i> Office</h2>
     <address class="small text-secondary">
       <strong>Eng.-Dr. Paul Saves</strong><br>
-      Université Toulouse Capitole – Faculté d'Informatique<br>
-      CNRS, Laboratoire IRIT (UMR 5505)<br>
-      Bureau MF 201-1 (Manufacture des Tabacs)<br>
-      21-25 Allées de Brienne<br>
-      31042 Toulouse Cedex 9, France
+      Institut de Recherche pour le Développement (IRD)<br>
+      <i>Full laboratory address to be updated</i>
     </address>
   </div>
 
