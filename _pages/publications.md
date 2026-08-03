@@ -32,7 +32,7 @@ title: Scientific Publications
         <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 border-left border-secondary">	
-        <h3 class="h3 font-weight-bold text-primary mb-0">41+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">54+</h3>
         <p class="small text-muted mb-0">Co-authors Network</p>
         <a href="{{ site.dblp_url }}" target="_blank" class="small text-white-50 text-underline">DBLP Graph <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
@@ -217,7 +217,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P3]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P.Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[P3]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 
