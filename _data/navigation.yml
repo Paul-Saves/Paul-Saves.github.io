@@ -3,6 +3,8 @@ main:
     url: /
   - title: Research
     url: /research/
+  - title: Software
+    url: /software/
   - title: Team & Mentees
     url: /team/
   - title: Publications
