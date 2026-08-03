@@ -72,9 +72,8 @@ title: Team & Mentees
       <h2 class="h5 font-weight-bold mb-4 text-info text-uppercase"><i class="fas fa-door-open mr-2"></i> Open Positions</h2>
       
       <div class="alert alert-info shadow-sm mb-3" role="alert" style="border-left: 4px solid #17a2b8; background-color: #e0f7fa; color: #0c5460;">
-        <h4 class="alert-heading h6 font-weight-bold"><i class="fas fa-user-graduate mr-2"></i> PhD / Postdoc Opportunities</h4>
-        <p class="small mb-2">I am always looking for highly motivated students and researchers to work on <strong>Frugal AI, Bayesian Optimization, and Complex Systems</strong>.</p>
-        <p class="small mb-2">Fully funded positions are regularly available through the <strong>Springboard</strong> (UK collaboration) and <strong>FRINDO-CLIMAI</strong> (Indonesia collaboration) grants.</p>
+        <h4 class="alert-heading h6 font-weight-bold"><i class="fas fa-user-graduate mr-2"></i> PhD / Master Thesis Opportunities</h4>
+        <p class="small mb-2">All fully funded positions have been filled. No more positions are available at the moment.</p>
         <hr style="border-top-color: #117a8b; opacity: 0.3;">
         <p class="mb-0 small"><i class="fas fa-envelope mr-1"></i> <strong>Contact me</strong> with your CV and a brief statement of interest to discuss current openings.</p>
       </div>
