@@ -16,6 +16,41 @@ title: Research
       </p>
     </section>
 
+    <!-- Awards & Distinctions -->
+    <section id="awards" class="mb-5">
+      <h2 class="h5 font-weight-bold mb-4 text-uppercase" style="color: #f0ad4e;"><i class="fas fa-trophy mr-2"></i> Awards & Distinctions</h2>
+      
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="card h-100 border-0 shadow-sm bg-light" style="border-top: 4px solid #f0ad4e !important;">
+            <div class="card-body">
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal mr-2" style="color: #f0ad4e;"></i> Thesis & Doctoral Awards</h3>
+              <ul class="list-unstyled small text-secondary">
+                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Sustainable Mobility Award (Abertis Foundation)</li>
+                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
+                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
+                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+          <div class="card h-100 border-0 shadow-sm bg-light" style="border-top: 4px solid #f0ad4e !important;">
+            <div class="card-body">
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-scroll mr-2" style="color: #f0ad4e;"></i> Best Papers & Research Prizes</h3>
+              <ul class="list-unstyled small text-secondary">
+                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> IDA Frontier Prize (Springer)</li>
+                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Best Paper Award (JFSMA / AFIA)</li>
+                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2024:</strong> AIAA Best Student Paper Award (MDO TC)</li>
+                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2022:</strong> AIAA Best Paper Award (MDO TC)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <hr class="my-5">
 
     <!-- Strategic Projects -->
