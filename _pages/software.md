@@ -38,13 +38,7 @@ title: Scientific Software
           <li class="mb-2"><strong><code>Scikit-learn Interface</code></strong>: Developed interoperability layers bridging SMT surrogate models with the broader Python <code>sklearn</code> machine learning ecosystem.</li>
         </ul>
 
-        <div class="mt-4 mb-4">
-          <h4 class="h6 font-weight-bold text-dark"><i class="fas fa-file-alt mr-1"></i> Associated Publications:</h4>
-          <ul class="small text-secondary mb-0">
-            <li><a href="/publications/" class="text-primary">[J2] SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes</a></li>
-            <li><a href="/publications/" class="text-primary">[J4] A mixed-categorical correlation kernel for Gaussian process (Neurocomputing)</a></li>
-          </ul>
-        </div>
+
 
         <div class="mt-3 border-top pt-3">
           <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-outline-dark mr-2 shadow-sm mb-2"><i class="fab fa-github mr-1"></i> Source Code</a>
@@ -63,7 +57,7 @@ title: Scientific Software
               smt-explainability: Explainable Surrogate Modeling
             </h2>
             <div class="mb-3">
-              <span class="badge text-white mr-2" style="background-color: #6f42c1;"><i class="fas fa-lock-open mr-1"></i> Open Source</span>
+              <span class="badge text-white mr-2" style="background-color: #6f42c1;"><i class="fas fa-lock-open mr-1"></i> Open Source (BSD-3)</span>
             </div>
           </div>
           <div class="text-right">
@@ -76,13 +70,7 @@ title: Scientific Software
           <strong>smt-explainability</strong> is a standalone extension <strong>based on SMT</strong> dedicated to mixed-hierarchical Explainable AI (XAI). It provides automated XAI metrics, advanced global sensitivity analysis, and comprehensive visualization workflows to interpret expensive surrogate models.
         </p>
 
-        <div class="mt-4 mb-4">
-          <h4 class="h6 font-weight-bold text-dark"><i class="fas fa-file-alt mr-1"></i> Associated Publications:</h4>
-          <ul class="small text-secondary mb-0">
-            <li><a href="/publications/" class="text-primary">[J5] Interpretable and Explainable Surrogate Modeling for Simulations</a></li>
-            <li><a href="/publications/" class="text-primary">[J6] Global Sensitivity Analysis For Engineering Design Based on Individual Conditional Expectations</a></li>
-          </ul>
-        </div>
+
 
         <div class="mt-3 border-top pt-3">
           <a href="https://github.com/SMTorg/smt-explainability" target="_blank" class="btn btn-sm btn-outline-dark mr-2 shadow-sm"><i class="fab fa-github mr-1"></i> Source Code</a>
@@ -99,7 +87,7 @@ title: Scientific Software
               smt-design-space-ext: Hierarchical Variable Handling
             </h2>
             <div class="mb-3">
-              <span class="badge text-white mr-2" style="background-color: #fd7e14;"><i class="fas fa-lock-open mr-1"></i> Open Source</span>
+              <span class="badge text-white mr-2" style="background-color: #fd7e14;"><i class="fas fa-lock-open mr-1"></i> Open Source (BSD-3)</span>
             </div>
           </div>
           <div class="text-right">
@@ -112,12 +100,7 @@ title: Scientific Software
           <strong>smt-design-space-ext</strong> is a standalone extension <strong>based on SMT</strong> that provides robust support for complex mixed-discrete and hierarchical design variables, which are essential for framing high-dimensional system engineering problems.
         </p>
 
-        <div class="mt-4 mb-4">
-          <h4 class="h6 font-weight-bold text-dark"><i class="fas fa-file-alt mr-1"></i> Associated Publications:</h4>
-          <ul class="small text-secondary mb-0">
-            <li><a href="/publications/" class="text-primary">[J1] Hierarchical Modeling and Architecture Optimization: Review and Unified Framework</a></li>
-          </ul>
-        </div>
+
 
         <div class="mt-3 border-top pt-3">
           <a href="https://github.com/SMTorg/smt-design-space-ext" target="_blank" class="btn btn-sm btn-outline-dark mr-2 shadow-sm"><i class="fab fa-github mr-1"></i> Source Code</a>
@@ -153,12 +136,7 @@ title: Scientific Software
           <li class="mb-2"><strong>Constraints Handling:</strong> Supports both equality and inequality black-box constraints with automated boundary management and probability of feasibility penalization.</li>
         </ul>
 
-        <div class="mt-4 mb-4">
-          <h4 class="h6 font-weight-bold text-dark"><i class="fas fa-file-alt mr-1"></i> Associated Publications:</h4>
-          <ul class="small text-secondary mb-0">
-            <li><a href="/publications/" class="text-primary">Multi-Fidelity Constrained Bayesian Optimization with Application to Aircraft Wing Design (AIAA AVIATION 2025)</a></li>
-          </ul>
-        </div>
+
 
         <div class="mt-3 border-top pt-3">
           <a href="https://github.com/SMTorg/smt-optim" target="_blank" class="btn btn-sm btn-outline-dark mr-2 shadow-sm"><i class="fab fa-github mr-1"></i> Source Code</a>
@@ -177,12 +155,12 @@ title: Scientific Software
             </h2>
             <div class="mb-3">
               <span class="badge badge-danger mr-2"><i class="fas fa-lock mr-1"></i> Proprietary</span>
+              <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-secondary shadow-sm text-white"><i class="fas fa-stamp mr-1"></i> Inventeur-Auteur Répub. Fr. (#2948)</a>
             </div>
           </div>
           <div class="text-right">
             <span class="text-muted small font-weight-bold text-uppercase">Role</span><br>
             <span class="font-weight-bold text-primary">Lead Developer & Co-Inventor</span>
-            <div class="small text-muted mt-1">French Software Deposit #2948</div>
           </div>
         </div>
 
@@ -193,13 +171,7 @@ title: Scientific Software
           <strong>Framework Interoperability:</strong> Led software integrations bridging ONERA's optimization capabilities (SEGOMOE/SMT) with major aerospace design and system architecture frameworks. This includes developing interfaces for the <strong>FAST-OAD</strong> overall aircraft design framework, as well as <strong>DLR</strong> (German Aerospace Center) tools like <strong>SBArchOpt</strong> and <strong>OpenTurbofanArchitecting</strong>, enabling the resolution of realistic, hierarchical aircraft problems under hidden constraints.
         </p>
 
-        <div class="mt-4 mb-2">
-          <h4 class="h6 font-weight-bold text-dark"><i class="fas fa-file-alt mr-1"></i> Associated Publications:</h4>
-          <ul class="small text-secondary mb-0">
-            <li><a href="/publications/" class="text-primary">[J7] System Architecture Optimization Strategies: Dealing with Expensive Hierarchical Problems (JGO)</a></li>
-            <li><a href="/publications/" class="text-primary">Surrogate-Based Modeling and Optimization using ONERA and DLR Softwares (DLR Workshop 2024)</a></li>
-          </ul>
-        </div>
+
       </div>
     </div>
 
