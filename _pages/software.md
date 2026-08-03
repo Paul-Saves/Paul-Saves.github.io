@@ -43,7 +43,6 @@ title: Scientific Software
         <div class="mt-3 border-top pt-3">
           <a href="https://github.com/SMTorg/smt" target="_blank" class="btn btn-sm btn-outline-dark mr-2 shadow-sm mb-2"><i class="fab fa-github mr-1"></i> Source Code</a>
           <a href="https://smt.readthedocs.io/" target="_blank" class="btn btn-sm btn-outline-primary shadow-sm mr-2 mb-2"><i class="fas fa-book mr-1"></i> Documentation</a>
-          <a href="https://github.com/SMTorg/smt/pull/740" target="_blank" class="btn btn-sm btn-outline-secondary shadow-sm mb-2"><i class="fas fa-code-branch mr-1"></i> Scikit-Learn PR</a>
         </div>
       </div>
     </div>
