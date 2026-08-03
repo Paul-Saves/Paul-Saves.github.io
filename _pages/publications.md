@@ -179,23 +179,26 @@ title: Scientific Publications
     <span class="font-weight-bold">[C15]</span> R. Priem, N. Bartoli, Y. Diouane, S. Dubreuil, and P. Saves, "High-Dimensional Efficient Global Optimization Using Both Random and Supervised Embeddings," in <em>Proc. AIAA AVIATION 2023 Forum</em>, San Diego, USA, 2023. <a href="https://doi.org/10.2514/6.2023-4448" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C16]</span> F. Poupinot, A. Sauer-Avargues, M. Sibilla, L. El Khouri, A. Cambon-Thomsen, N. Coley, V. Gay, E. Lerigoleur, M. Mambrini, C. Pagetti, P. Saves, "Synthèse de la table ronde sur l’évolution des pratiques disciplinaires autour du partage et de l'ouverture des publications, des données et des codes de la recherche," in <em>Ouvrez-la ! Données et publications ouvertes : pour une science partagée</em>, Toulouse, France, 2026. <a href="https://hal.science/hal-05707209" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
 
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
     Other co-authored articles
 </h3>
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C16]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
+    <span class="font-weight-bold">[C17]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
 
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C17]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
+    <span class="font-weight-bold">[C18]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C18]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C19]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C19]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C20]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 
@@ -212,6 +215,13 @@ title: Scientific Publications
   <div class="ieee-citation mb-4">
     <span class="font-weight-bold">[P2]</span> J. Shihua, P. Saves, R. Liem, and J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," 2026. <a href="https://arxiv.org/abs/2503.19479" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
+
+  <div class="ieee-citation mb-4">
+    <span class="font-weight-bold">[P3]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P.Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  </div>
+
+
+
 </section>
 
 <!-- Theses Section -->
