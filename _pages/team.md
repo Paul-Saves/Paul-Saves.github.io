@@ -6,9 +6,8 @@ title: Team & Mentees
 
 <div class="row fade-in">
   <div class="col-12">
-    <p class="text-justify lead mb-5">
-      My research group focuses on the intersection of <strong>Frugal AI</strong>, <strong>Optimization</strong>, and <strong>Complex Systems</strong>. I am fortunate to work with brilliant students and researchers to tackle challenges in sustainability, climate resilience, and engineering design.
-    </p>
+    <p class="text-justify lead mb-4">
+      My research group focuses on the intersection of <strong>Frugal AI</strong>, <strong>Optimization</strong>, and <strong>Complex Systems</strong>.    </p>
 
     <!-- Ph.D. Students -->
     <section id="phd-students" class="mb-5">
