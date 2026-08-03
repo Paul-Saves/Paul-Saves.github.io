@@ -154,7 +154,7 @@ title: Scientific Software
             </h2>
             <div class="mb-3">
               <span class="badge badge-danger mr-2"><i class="fas fa-lock mr-1"></i> Proprietary</span>
-              <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-secondary shadow-sm text-white"><i class="fas fa-stamp mr-1"></i> Inventeur-Auteur Répub. Fr. (#2948)</a>
+              <span class="badge badge-secondary shadow-sm"><i class="fas fa-stamp mr-1"></i> Inventeur-Auteur Répub. Fr. (#2948)</span>
             </div>
           </div>
           <div class="text-right">
@@ -170,7 +170,9 @@ title: Scientific Software
           <strong>Framework Interoperability:</strong> Led software integrations bridging ONERA's optimization capabilities (SEGOMOE/SMT) with major aerospace design and system architecture frameworks. This includes developing interfaces for the <strong>FAST-OAD</strong> overall aircraft design framework, as well as <strong>DLR</strong> (German Aerospace Center) tools like <strong>SBArchOpt</strong> and <strong>OpenTurbofanArchitecting</strong>, enabling the resolution of realistic, hierarchical aircraft problems under hidden constraints.
         </p>
 
-
+        <div class="mt-3 border-top pt-3">
+          <a href="https://hal.science/hal-05636767" target="_blank" class="btn btn-sm btn-outline-secondary shadow-sm"><i class="fas fa-file-pdf mr-1"></i> Technical Reference</a>
+        </div>
       </div>
     </div>
 
