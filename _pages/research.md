@@ -59,8 +59,6 @@ title: Research
       </div>
     </section>
 
-    <hr class="my-5">
-
     <!-- Awards & Distinctions -->
     <section id="awards" class="mb-4">
       <h2 class="h5 font-weight-bold mb-4 text-uppercase" style="color: #f0ad4e;"><i class="fas fa-trophy mr-2"></i> Awards & Distinctions</h2>
