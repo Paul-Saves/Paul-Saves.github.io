@@ -15,13 +15,13 @@ title: Team & Mentees
       <div class="pl-3 border-left border-primary">
         <ul class="list-unstyled mb-4">
           <li class="mb-3">
-            <h3 class="h6 font-weight-bold mb-1">Gaston Plat <span class="badge badge-light border font-weight-normal ml-2">2025 - Present</span></h3>
+            <h3 class="h6 font-weight-bold mb-1">Gaston Plat <span class="badge badge-light border font-weight-normal ml-2">2025 - Present (Exp. 2028)</span></h3>
             <p class="small text-secondary mb-1">Ph.D. in Applied Mathematics, ONERA / ISAE-SUPAERO</p>
             <p class="small text-muted mb-1"><em>"Frugal AI for HPC climate impact"</em></p>
             <p class="x-small text-primary mb-0"><i class="fas fa-check-circle mr-1"></i> Official Supervisor</p>
           </li>
           <li class="mb-3">
-            <h3 class="h6 font-weight-bold mb-1">Restu Ananda Putra <span class="badge badge-light border font-weight-normal ml-2">2026 - Present</span></h3>
+            <h3 class="h6 font-weight-bold mb-1">Restu Ananda Putra <span class="badge badge-light border font-weight-normal ml-2">2026 - Present (Exp. 2030) </span></h3>
             <p class="small text-secondary mb-1">Ph.D. in Statistics, LPDP Ministry of Research, Indonesia</p>
             <p class="small text-muted mb-1"><em>"Spatio-Temporal Agent-based Surrogates Simulation of Urban Resilience in Indonesia"</em></p>
             <p class="x-small text-primary mb-0"><i class="fas fa-check-circle mr-1"></i> Official Supervisor</p>
