@@ -8,7 +8,7 @@ title: Contact Information
   <div class="col-md-6 mb-4">
     <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-map-marker-alt mr-2"></i> Office</h2>
     <address class="small text-secondary">
-      <strong>Eng.-Dr. Paul Saves</strong><br>
+      <strong> Dr. Paul Saves</strong><br>
       Institut de Recherche pour le Développement (IRD)<br>
       <i>Full laboratory address to be updated</i>
     </address>
