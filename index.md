@@ -23,13 +23,18 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
 
     <section id="career-summary" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-briefcase mr-2"></i> Career Summary</h2>
-      <div class="exp-item mb-4 pb-2 border-bottom">
-        <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0 text-success"><i class="fas fa-certificate mr-1"></i> Tenured Research Scientist (CRCN)</h3>
-          <span class="badge badge-success font-weight-normal shadow-sm">Starting Oct. 2026</span>
+      <div class="card border-0 shadow-sm mb-4 position-relative overflow-hidden" style="background: linear-gradient(135deg, #ffffff 0%, #f1f8f5 100%); border-left: 5px solid #28a745 !important;">
+        <div class="card-body py-3">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h3 class="h6 font-weight-bold mb-0" style="color: #1e7e34;"><i class="fas fa-star text-warning mr-2"></i>Tenured Research Scientist, Lifetime Civil Servant (Chargé de Recherche)</h3>
+            <span class="badge badge-success font-weight-bold shadow-sm px-2 py-1 text-uppercase" style="letter-spacing: 0.5px;">Starting Oct. 2026</span>
+          </div>
+          <div class="small mb-2 font-weight-bold" style="color: #002395;"><i class="fas fa-university mr-1"></i> French National Research Institute for Sustainable Development (IRD), République Française</div>
+          <p class="small text-justify text-secondary mb-0">
+            <em>Appointed to a highly selective permanent civil servant faculty position following a nationwide competitive examination.</em><br>
+            Directing an independent research program focused on <strong>Frugal AI</strong>, <strong>decision-making under uncertainty</strong>, and <strong>climate resilience</strong> in the Global South.
+          </p>
         </div>
-        <div class="small text-muted mb-2 font-weight-bold">French National Research Institute for Sustainable Development (IRD)</div>
-        <p class="small text-justify text-secondary">Leading research on Frugal AI, decision-making under uncertainty, and climate resilience in the Global South.</p>
       </div>
 
       <div class="exp-item mb-4 pb-2 border-bottom">
