@@ -26,12 +26,12 @@ title: Scientific Publications
         <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="small text-white-50 text-underline">Google Scholar <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 mb-3 mb-md-0 border-left border-secondary">
-        <h3 class="h3 font-weight-bold text-primary mb-0">9+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">9</h3>
         <p class="small text-muted mb-0">Q1 Journal Papers</p>
         <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
       <div class="col-md-4 border-left border-secondary">	
-        <h3 class="h3 font-weight-bold text-primary mb-0">54+</h3>
+        <h3 class="h3 font-weight-bold text-primary mb-0">57</h3>
         <p class="small text-muted mb-0">Co-authors Network</p>
         <a href="{{ site.dblp_url }}" target="_blank" class="small text-white-50 text-underline">DBLP Graph <i class="fas fa-external-link-alt ml-1"></i></a>
       </div>
@@ -219,6 +219,9 @@ title: Scientific Publications
     <span class="font-weight-bold">[P3]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
+  <div class="ieee-citation mb-4">
+    <span class="font-weight-bold">[P4]</span> B. Pianet, B. Lesquoy, P. Saves, B. Gaudou, J. Villerd, N. Verstaevel, O. Therond, "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model," 2026. <a href="https://www.researchgate.net/publication/412368078_Sensitivity_Analysis_of_Decision_Rules_in_an_Agent-Based_Agro-Ecological_Model" target="_blank" class="badge badge-light border ml-2">RG</a>
+  </div>
 
 
 </section>

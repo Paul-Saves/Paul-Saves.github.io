@@ -121,6 +121,7 @@ title: Team & Mentees
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Emilie Lerigoleur</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Baptiste Lesquoy</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jordan Levy</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rhea P. Liem</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Matthieu Mambrini</span>
@@ -134,6 +135,7 @@ title: Team & Mentees
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Eric Nguyen Van</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Shigeru Obayashi</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Claire Pagetti</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benjamin Pianet</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Gaston Plat</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Flora Poupinot</span>
@@ -146,7 +148,9 @@ title: Team & Mentees
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">James M. Shihua</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Koji Shimoyama</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Michelle Sibilla</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Olvier Therond</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jean Villerd</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Aigerim Yerimbetova</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Lavi Rizki Zuhal</span>
           </div>
