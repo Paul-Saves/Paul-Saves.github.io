@@ -51,7 +51,7 @@ title: Scientific Publications
     <span class="font-weight-bold">[J1]</span> P. Saves, E. Hallé-Hannan, J. Bussemaker, Y. Diouane, and N. Bartoli, "Hierarchical Modeling and Architecture Optimization: Review and Unified Framework," <em>Structural and Multidisciplinary Optimization</em>, vol. 69, no. 3, 2026. <a href="https://doi.org/10.1007/s00158-026-04249-2" target="_blank" class="badge badge-light border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span>  </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J2]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, T. Lefebvre, J. T. Hwang, J. Morlier and J. R.R.A Martins "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
+    <span class="font-weight-bold">[J2]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, T. Lefebvre, J. T. Hwang, J. Morlier, and J. R.R.A Martins, "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
   </div>
 
   <div class="ieee-citation mb-4 pb-3 border-bottom">
@@ -69,7 +69,7 @@ title: Scientific Publications
 </h3>
 
    <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J5]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier,  and B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1 and Maths Q1</span> 
+    <span class="font-weight-bold">[J5]</span> P. S. Palar, P. Saves, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, and B. Gaudou, "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making," <em>Archives of Computational Methods in Engineering</em>, 2026. <a href="https://doi.org/10.1007/s11831-026-10600-z" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1 and Maths Q1</span> 
   </div>
 
 
