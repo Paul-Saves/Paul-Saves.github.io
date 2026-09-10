@@ -174,7 +174,7 @@ title: Scientific Publications
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C16]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C16]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, J. Morlier, "Energy-aware frugal Bayesian optimization," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
