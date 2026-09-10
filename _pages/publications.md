@@ -165,17 +165,16 @@ title: Scientific Publications
     <span class="font-weight-bold">[C13]</span> N. Gonel, P. Saves, and J. Morlier, "Frequency-aware Surrogate Modeling With SMT Kernels For Advanced Data Forecasting," in <em>Proc. ECCOMAS AeroBest 2025</em>, Lisboa, Portugal, 2025. <a href="https://hal.science/hal-05014823" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
-
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C14]</span> J. H. Bussemaker, P. Saves, N. Bartoli, T. Lefebvre, and B. Nagel, "Surrogate-Based Optimization of System Architectures Subject to Hidden Constraints," in <em>Proc. AIAA Aviation 2024 Forum</em>, Las Vegas, USA, 2024. <strong> - Best Student Paper Award -</strong> <a href="https://doi.org/10.2514/6.2024-4401" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
- <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[C15]</span> J. Shihua, P. Saves, R. Liem, and J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <strong>  <a href="https://doi.org/10.1051/matecconf/202642203015" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C15]</span> J. Shihua, P. Saves, R. Liem, and J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642203015" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
- <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[C16]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <strong>  <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C16]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, J. Morlier, "Bayesian Optimization of a Lightweight and Accurate Neural Network for Aerodynamic Performance Prediction," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
