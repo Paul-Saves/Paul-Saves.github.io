@@ -184,6 +184,7 @@ title: Research
         <div class="col-md-6 mb-4">
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Committees & Memberships</h3>
           <ul class="list-unstyled text-secondary">
+            <li class="mb-2"><strong>AAMAS 2027</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>RCIS 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>RJCIA 2026</strong> – Program Committee Member.</li>
             <li class="mb-2"><strong>WISE 2026</strong> – Program Committee Member.</li>
