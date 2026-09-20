@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://paul-saves.github.io" # the base hostname & protocol for your site
 
 # Social & Academic links
-github_username: paul-saves
+github_username: Paul-Saves
 linkedin_username: paul-saves
 scholar_userid: yVohWjcAAAAJ
 orcid_id: 0000-0001-5889-2302
