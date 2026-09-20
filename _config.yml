@@ -9,7 +9,7 @@ url: "https://paul-saves.github.io" # the base hostname & protocol for your site
 
 # Social & Academic links
 github_username: paul-saves
-linkedin_username: paul-saves-3aa9a9113
+linkedin_username: paul-saves
 scholar_userid: yVohWjcAAAAJ
 orcid_id: 0000-0001-5889-2302
 researchgate_username: Paul-Saves-2
@@ -29,6 +29,7 @@ openreview_url: "https://openreview.net/profile?id=~Paul_Saves2"
 acm_url: "https://dl.acm.org/profile/99660987183"
 idref_url: "https://www.idref.fr/275839664#070"
 mathgenealogy_url: "https://www.mathgenealogy.org/id.php?id=311217"
+alphaxiv_url: "https://www.alphaxiv.org/@paul-saves"
 
 # Keywords for SEO
 keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, IRIT, CNRS, Sustainability, Climate, Complex Systems"
