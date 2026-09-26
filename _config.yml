@@ -1,9 +1,9 @@
 # Site settings
 title: Paul Saves | Academic Portfolio
 name: Paul Saves
-email: paul.saves@alumni.enac.fr
-description: "Doctor in Artificial Intelligence for climate 🌿 AI for Sustainability 🌍 | Frugal AI • Explainable AI • Multidisciplinarity"
-affiliation: French National Research Institute for Sustainable Development (IRD)
+email: paul.saves@ird.fr
+description: "Chargé de Recherche - Tenured Research Scientist - AI for Sustainability | Frugal AI, Explainable AI, Multidisciplinarity"
+affiliation: "IRD - UMI 209 UMMISCO, Sorbonne Université"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://paul-saves.github.io" # the base hostname & protocol for your site
 
@@ -32,7 +32,7 @@ mathgenealogy_url: "https://www.mathgenealogy.org/id.php?id=311217"
 alphaxiv_url: "https://www.alphaxiv.org/@paul-saves"
 
 # Keywords for SEO
-keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, IRIT, CNRS, Sustainability, Climate, Complex Systems"
+keywords: "Paul Saves, Optimization, Surrogate Modeling, Frugal AI, XAI, MDO, IRD, UMMISCO, Sustainability, Climate, Complex Systems"
 
 # Research Interests
 interests:

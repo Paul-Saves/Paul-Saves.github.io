@@ -16,36 +16,7 @@ title: Teaching Activities
 
 <hr class="my-5">
 
-<!-- Instructional Summary -->
-<section id="summary" class="mb-5">
-  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-chart-bar mr-2"></i> Instructional Summary</h2>
-  <div class="row text-center">
-    <div class="col-md-4 mb-4">
-      <div class="card border-0 shadow-sm bg-light h-100">
-        <div class="card-body">
-          <h3 class="h2 font-weight-bold text-primary mb-0">162h+</h3>
-          <p class="small text-muted mb-0 text-uppercase" style="letter-spacing: 1px;">Total Volume</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 mb-4">
-      <div class="card border-0 shadow-sm bg-light h-100">
-        <div class="card-body">
-          <h3 class="h2 font-weight-bold text-primary mb-0">11h+</h3>
-          <p class="small text-muted mb-0 text-uppercase" style="letter-spacing: 1px;">Lectures (Cours)</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 mb-4">
-      <div class="card border-0 shadow-sm bg-light h-100">
-        <div class="card-body">
-          <h3 class="h2 font-weight-bold text-primary mb-0">151h+</h3>
-          <p class="small text-muted mb-0 text-uppercase" style="letter-spacing: 1px;">Labs & Tutorials (TD/TP)</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+
 
 <!-- Core Curriculum -->
 <section id="courses" class="mb-5">

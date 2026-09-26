@@ -8,11 +8,10 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am an incoming <strong>Tenured Research Scientist (Chargé de Recherche)</strong> at the <strong>French National Research Institute for Sustainable Development (IRD)</strong>. I am currently a Researcher in Computer Science at the <strong>University Toulouse Capitole</strong> and a member of the <strong>Institute of Research in Computer Science of Toulouse (IRIT, UMR 5505 CNRS)</strong> in AI for Climate. I received a Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. My doctoral work on high-dimensional multidisciplinary design optimization for eco-design was awarded the <strong>2024 Best PhD Thesis Prize</strong> from the Fondation ISAE-SUPAERO, the <strong>2025 National Open Science PhD Award</strong> from the French Ministry of Research, the <strong>2026 International Artificial Intelligence PhD Award</strong> from the Francophone Research Network on Artificial Intelligence (RéFIA) and the <strong>2026 Abertis France PhD Award</strong>, ranked 2nd in Sustainable Mobility from the Ecole Nationale des Ponts et Chaussées.
-I also received 4 additional <strong>Technical Best paper Awards</strong> at various conférences (AIAA*2, IDA, JFSMA) between 2022 and 2026.
+  I am a <strong>Tenured Research Scientist (Chargé de Recherche)</strong> at the <strong>French National Research Institute for Sustainable Development (IRD)</strong>, affiliated with <strong>UMI 209 UMMISCO</strong> (Sorbonne Université, Paris). My research focuses on <strong>frugal and explainable AI approaches for complex systems</strong>, bridging surrogate modeling, active learning, and interpretable machine learning to support transparent decision-making under uncertainty in sustainability and engineering applications.
 </p>
 <p class="text-justify">
-  My research develops <strong>frugal and explainable AI approaches for complex systems</strong>, bridging surrogate modeling, active learning, and interpretable machine learning to support transparent decision-making under uncertainty in <strong>sustainability and engineering applications</strong>. I am also a lead developer of the <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, contributing to open-source tools for surrogate modeling, optimization, structured data, and interpretable simulation analysis.
+  I received my Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. I currently serve as Principal Investigator on collaborative projects exploring climate resilience in the Global South, and I am a core developer of the open-source <strong>Surrogate Modeling Toolbox (SMT)</strong>.
 </p>
       
       <div class="mt-4 mb-5">
@@ -23,23 +22,20 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
 
     <section id="career-summary" class="mb-5">
       <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-briefcase mr-2"></i> Career Summary</h2>
-      <div class="card border-0 shadow-sm mb-4 position-relative overflow-hidden" style="background: linear-gradient(135deg, #ffffff 0%, #f1f8f5 100%); border-left: 5px solid #28a745 !important;">
-        <div class="card-body py-3">
-          <div class="d-flex justify-content-between align-items-center mb-2">
-            <h3 class="h6 font-weight-bold mb-0" style="color: #1e7e34;"><i class="fas fa-star text-warning mr-2"></i>Tenured Research Scientist, Lifetime Civil Servant (Chargé de Recherche)</h3>
-            <span class="badge badge-success font-weight-bold shadow-sm px-2 py-1 text-uppercase" style="letter-spacing: 0.5px;">Starting Oct. 2026</span>
-          </div>
-          <div class="small mb-2 font-weight-bold" style="color: #002395;"><i class="fas fa-university mr-1"></i> French National Research Institute for Sustainable Development (IRD), République Française</div>
-          <p class="small text-justify text-secondary mb-0">
-            <em>Appointed to a highly selective permanent civil servant faculty position following a nationwide competitive examination.</em><br>
-            Directing an independent research program focused on <strong>Frugal AI</strong>, <strong>decision-making under uncertainty</strong>, and <strong>climate resilience</strong> in the Global South.
-          </p>
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0 text-dark">Tenured Research Scientist (Chargé de Recherche)</h3>
+          <span class="badge badge-light border font-weight-normal">Sep. 2026 - Present</span>
         </div>
+        <div class="small text-dark mb-2 font-weight-bold">IRD (Aubervilliers) & Sorbonne Université (Paris) - UMI 209 UMMISCO</div>
+        <p class="small text-justify text-secondary mb-0">
+          Research program focused on <strong>Frugal AI</strong>, <strong>decision-making under uncertainty</strong>, and <strong>climate resilience</strong> in the Global South.
+        </p>
       </div>
 
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0">Postdoctoral Researcher</h3>
+          <h3 class="h6 font-weight-bold mb-0">Postdoctoral Research Fellow</h3>
           <span class="badge badge-light border font-weight-normal">2025 - 2026</span>
         </div>
         <div class="small text-muted mb-2">IRIT (CNRS) / Univ. Toulouse Capitole, France</div>
@@ -48,7 +44,7 @@ I also received 4 additional <strong>Technical Best paper Awards</strong> at var
 
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0">Eco-Design Analyst and Optimizer</h3>
+          <h3 class="h6 font-weight-bold mb-0">Eco-Design Optimizer / Researcher & Engineer</h3>
           <span class="badge badge-light border font-weight-normal">2020 - 2025</span>
         </div>
         <div class="small text-muted mb-2">ONERA / ISAE-SUPAERO / ENAC, France</div>

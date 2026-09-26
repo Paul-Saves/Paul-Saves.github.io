@@ -11,33 +11,16 @@ title: Scientific Publications
   <a href="#talks" class="btn btn-outline-secondary">Talks</a>
 </div>
 
-<div class="text-right mb-4">
+<div class="d-flex flex-wrap justify-content-between align-items-center mb-4">
+  <div class="mb-2 mb-md-0">
+    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-google-scholar mr-1"></i> Google Scholar</a>
+    <a href="{{ site.hal_cv_url }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-hal mr-1"></i> HAL Profile</a>
+    <a href="{{ site.dblp_url }}" target="_blank" class="badge badge-light border text-secondary p-2"><i class="ai ai-dblp mr-1"></i> DBLP</a>
+  </div>
   <a href="{{ "/assets/docs/Publications Paul_Saves_2026-2.pdf" | relative_url }}" class="small italic text-muted text-underline"><i class="fas fa-file-pdf mr-1"></i> Full Bibliography (PDF)</a>
 </div>
 
-<!-- Research Impact Summary -->
-<div class="card border-0 bg-dark text-white mb-5 shadow-sm">
-  <div class="card-body py-4">
-    <h2 class="h6 font-weight-bold text-uppercase mb-4 text-center" style="letter-spacing: 2px; color: #aaa;">Research Impact</h2>
-    <div class="row text-center">
-      <div class="col-md-4 mb-3 mb-md-0">
-        <h3 class="h3 font-weight-bold text-primary mb-0">600+</h3>
-        <p class="small text-muted mb-0">Citations (approx.)</p>
-        <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="small text-white-50 text-underline">Google Scholar <i class="fas fa-external-link-alt ml-1"></i></a>
-      </div>
-      <div class="col-md-4 mb-3 mb-md-0 border-left border-secondary">
-        <h3 class="h3 font-weight-bold text-primary mb-0">9</h3>
-        <p class="small text-muted mb-0">Q1 Journal Papers</p>
-        <a href="{{ site.hal_cv_url }}" target="_blank" class="small text-white-50 text-underline">HAL Profile <i class="fas fa-external-link-alt ml-1"></i></a>
-      </div>
-      <div class="col-md-4 border-left border-secondary">	
-        <h3 class="h3 font-weight-bold text-primary mb-0">57</h3>
-        <p class="small text-muted mb-0">Co-authors Network</p>
-        <a href="{{ site.dblp_url }}" target="_blank" class="small text-white-50 text-underline">DBLP Graph <i class="fas fa-external-link-alt ml-1"></i></a>
-      </div>
-    </div>
-  </div>
-</div>
+
 
 <!-- IEEE Section: Journals -->
 <section id="journals" class="mb-5">

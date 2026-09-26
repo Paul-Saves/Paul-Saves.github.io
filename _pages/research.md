@@ -26,10 +26,10 @@ title: Research
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-center mb-2">
             <h3 class="h6 font-weight-bold mb-0 text-primary">British Council - Springboard Grant (Springboard2025-2175)</h3>
-            <span class="badge badge-primary">PI / Lead Investigator</span>
+            <span class="badge badge-primary">Principal Investigator</span>
           </div>
           <p class="small text-dark font-weight-bold mb-1">International Collaboration with University of Exeter, UK</p>
-          <p class="small text-muted mb-0 text-justify">Leading an international research collective on <strong>Frugal AI for Climate Risk</strong>. This grant facilitates joint development of statistical emulators for climate impact quantification between IRIT (France) and Exeter (UK).</p>
+          <p class="small text-muted mb-0 text-justify">A collaborative initiative focused on <strong>Frugal AI for Climate Risk</strong>. This grant facilitates the joint development of statistical emulators for climate impact quantification between IRD (France) and Exeter (UK).</p>
         </div>
       </div>
 
@@ -37,16 +37,16 @@ title: Research
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-center mb-2">
             <h3 class="h6 font-weight-bold mb-0 text-primary">French Embassy - Science & Impact Grant 2026 (FRINDO-CLIMAI)</h3>
-            <span class="badge badge-primary">PI / Lead Investigator</span>
+            <span class="badge badge-primary">Principal Investigator</span>
           </div>
           <p class="small text-dark font-weight-bold mb-1">Franco-Indonesian Cooperation with Institut Teknologi Bandung (ITB), Indonesia</p>
-          <p class="small text-muted mb-0 text-justify">Leading an international mobility project on <strong>Uncertainty-Aware AI for Climate Resilience</strong> in the Global South. This grant launches a joint framework using active learning and Bayesian calibration to improve regional climate projections between IRIT (France) and ITB (Indonesia).</p>
+          <p class="small text-muted mb-0 text-justify">A research mobility project addressing <strong>Uncertainty-Aware AI for Climate Resilience</strong> in the Global South. This grant supports a joint framework using active learning and Bayesian calibration to improve regional climate projections between IRD (France) and ITB (Indonesia).</p>
         </div>
       </div>
 
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - Present). Grant Number ANR-24-CE23-0380 </h3>
+          <h3 class="h6 font-weight-bold mb-1">ANR MIMICO (2025 - 2026). Grant Number ANR-24-CE23-0380 </h3>
           <p class="small text-muted mb-0"><strong>Hybrid Modeling for Agent-Based Systems</strong>. Combining ABM with simplified surrogate representations to evaluate urban mobility policies and dense crowd dynamics. These works were recognized by two Best Paper Awards for contributions to XAI and Surrogate Modelling.</p>
         </div>
       </div>
@@ -61,32 +61,32 @@ title: Research
 
     <!-- Awards & Distinctions -->
     <section id="awards" class="mb-4">
-      <h2 class="h5 font-weight-bold mb-4 text-uppercase" style="color: #f0ad4e;"><i class="fas fa-trophy mr-2"></i> Awards & Distinctions</h2>
+      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-trophy mr-2"></i> Awards & Distinctions</h2>
       
       <div class="row">
         <div class="col-md-6 mb-4">
-          <div class="card h-100 border-0 shadow-sm bg-light" style="border-top: 4px solid #f0ad4e !important;">
+          <div class="card h-100 border-0 shadow-sm bg-light border-left border-primary">
             <div class="card-body">
-              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal mr-2" style="color: #f0ad4e;"></i> Thesis & Doctoral Awards</h3>
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Thesis & Doctoral Awards</h3>
               <ul class="list-unstyled small text-secondary">
-                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Sustainable Mobility Award (Abertis Foundation)</li>
-                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
-                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
-                <li class="mb-2"><i class="fas fa-award mr-2" style="color: #f0ad4e;"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (Abertis Foundation)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO)</li>
               </ul>
             </div>
           </div>
         </div>
 
         <div class="col-md-6 mb-4">
-          <div class="card h-100 border-0 shadow-sm bg-light" style="border-top: 4px solid #f0ad4e !important;">
+          <div class="card h-100 border-0 shadow-sm bg-light border-left border-primary">
             <div class="card-body">
-              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-scroll mr-2" style="color: #f0ad4e;"></i> Best Papers & Research Prizes</h3>
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-scroll text-primary mr-2"></i> Best Papers & Research Prizes</h3>
               <ul class="list-unstyled small text-secondary">
-                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> IDA Frontier Prize (Springer)</li>
-                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2026:</strong> Best Paper Award (JFSMA / AFIA)</li>
-                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2024:</strong> AIAA Best Student Paper Award (MDO TC)</li>
-                <li class="mb-2"><i class="fas fa-star mr-2" style="color: #f0ad4e;"></i> <strong>2022:</strong> AIAA Best Paper Award (MDO TC)</li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> IDA Frontier Prize (Springer)</li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> Best Paper Award (JFSMA / AFIA)</li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2024:</strong> AIAA Best Student Paper Award (MDO TC)</li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2022:</strong> AIAA Best Paper Award (MDO TC)</li>
               </ul>
             </div>
           </div>
@@ -165,10 +165,10 @@ title: Research
       </div>
 
       <!-- Societal Production -->
-      <div class="card border-0 bg-dark text-white shadow-sm mb-4">
-        <div class="card-body py-3">
-          <h3 class="h6 font-weight-bold mb-2 text-uppercase small" style="color: #aaa;">Societal Impact & Outreach</h3>
-          <p class="small text-justify mb-0">
+      <div class="card border-0 bg-light shadow-sm mb-4">
+        <div class="card-body">
+          <h3 class="h6 font-weight-bold mb-2 text-uppercase small text-muted">Societal Impact & Outreach</h3>
+          <p class="small text-justify text-secondary mb-0">
             Active contributor to public policy and industry awareness. Key speaker at the <strong>Towards Sustainable Aviation Summit</strong> (Airbus/Toulouse City Hall), emphasizing the critical limits of aviation decarbonization and the necessity of frugal engineering.
           </p>
         </div>
