@@ -25,7 +25,7 @@ title: Biography
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
           <h3 class="h6 font-weight-bold mb-0 text-dark">Tenured Research Scientist (Chargé de Recherche)</h3>
-          <span class="badge badge-light border font-weight-normal">Sep. 2026 - Present</span>
+          <span class="badge badge-light border font-weight-normal">Oct. 2026 - Present</span>
         </div>
         <div class="small text-dark mb-2 font-weight-bold">IRD (Aubervilliers) & Sorbonne Université (Paris) - UMI 209 UMMISCO</div>
         <p class="small text-justify text-secondary mb-0">

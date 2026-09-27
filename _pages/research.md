@@ -16,6 +16,30 @@ title: Research
       </p>
     </section>
 
+    <!-- Research Directions -->
+    <section id="directions" class="mb-5">
+      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-compass mr-2"></i> Research Directions</h2>
+      
+      <div class="row mt-4">
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold text-dark"><i class="fas fa-microchip text-muted mr-2"></i> Frugal AI for Expensive Simulations</h3>
+          <p class="small text-secondary text-justify">Designing scalable, data-efficient surrogate models (Gaussian processes, sparse approximations) to emulate computationally prohibitive simulations, reducing carbon footprint and enabling real-time analysis.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold text-dark"><i class="fas fa-search text-muted mr-2"></i> Explainable Surrogate Modeling</h3>
+          <p class="small text-secondary text-justify">Extracting transparent knowledge from black-box emulators. Applying sensitivity analysis and functional ANOVA to guarantee that AI recommendations are interpretable by human decision-makers.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold text-dark"><i class="fas fa-globe-africa text-muted mr-2"></i> AI for Socio-Environmental Systems</h3>
+          <p class="small text-secondary text-justify">Bridging machine learning and agent-based modeling (ABM) to simulate and analyze dense crowd dynamics, urban mobility, and climate resilience policies, particularly in the Global South.</p>
+        </div>
+        <div class="col-md-6 mb-4">
+          <h3 class="h6 font-weight-bold text-dark"><i class="fas fa-project-diagram text-muted mr-2"></i> Decision-Making under Uncertainty</h3>
+          <p class="small text-secondary text-justify">Developing active learning and Bayesian optimization techniques to explore vast design spaces safely, optimizing complex eco-designs while bounding environmental uncertainties.</p>
+        </div>
+      </div>
+    </section>
+
     <hr class="my-5">
 
     <!-- Strategic Projects -->

@@ -1,7 +1,7 @@
 ---
 permalink: /team/
 layout: page
-title: Team & Mentees
+title: Research Group & Supervision
 ---
 
 <div class="row fade-in">
