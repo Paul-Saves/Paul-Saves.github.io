@@ -93,7 +93,7 @@ title: Scientific Publications
 </h3>
 
     <div class="ieee-citation mb-4 pb-2">
-        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, ,Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light  border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
+        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light  border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
 
   <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
