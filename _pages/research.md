@@ -242,6 +242,7 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Complexities (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> WISE (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> GAMA Days (5)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> AAMAS (5)</span>
           </div>
         </div>
       </div>
