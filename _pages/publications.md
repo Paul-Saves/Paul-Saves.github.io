@@ -175,21 +175,24 @@ title: Scientific Publications
 <h3 class="h6 text-muted mt-4 mb-2 font-weight-bold border-left pl-2">
     Other co-authored articles
 </h3>
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C19]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
-
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C20]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
-
-  <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C21]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C19]</span> B. Pianet, B. Lesquoy, P. Saves, B. Gaudou, J. Villerd, N. Verstaevel, O. Therond, "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model," in <em>Principles and Practice of Multi-Agent Systems (PRIMA)</em>, Kumamoto, Japan, Springer, 2026. <a href="https://www.researchgate.net/publication/412368078_Sensitivity_Analysis_of_Decision_Rules_in_an_Agent-Based_Agro-Ecological_Model" target="_blank" class="badge badge-light border ml-2">RG</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>
   </div>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C22]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C20]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C21]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
+
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C22]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
+  <div class="ieee-citation mb-4 pb-2">
+    <span class="font-weight-bold">[C23]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+  </div>
 
 </section>
 
@@ -205,9 +208,6 @@ title: Scientific Publications
     <span class="font-weight-bold">[P2]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
-  <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P3]</span> B. Pianet, B. Lesquoy, P. Saves, B. Gaudou, J. Villerd, N. Verstaevel, O. Therond, "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model," 2026. <a href="https://www.researchgate.net/publication/412368078_Sensitivity_Analysis_of_Decision_Rules_in_an_Agent-Based_Agro-Ecological_Model" target="_blank" class="badge badge-light border ml-2">RG</a>
-  </div>
 
 
 </section>
