@@ -196,9 +196,11 @@ title: Scientific Publications
   <div class="ieee-citation mb-4">
     <span class="font-weight-bold">[P1]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
-
+  <div class="ieee-citation mb-4">
+    <span class="font-weight-bold">[P2]</span> P. Saves, "Partial Least Squares for Correlation Matrices: Theory and Applications," 2026. <a href="https://doi.org/10.13140/RG.2.2.16959.06569" target="_blank" class="badge badge-light border ml-2">RG</a>
+  </div>
 <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P2]</span> P. Saves, P. S. Palar, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
+    <span class="font-weight-bold">[P3]</span> P. Saves, P. S. Palar, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
   </div>
 
 </section>
