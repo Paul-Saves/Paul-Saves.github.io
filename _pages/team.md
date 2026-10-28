@@ -48,53 +48,53 @@ title: Research Group & Supervision
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Edward Hallé-Hannan</strong>
-        (PhD candidate in Applied Mathematics and AI, Polytechnique Montréal).
+        (PhD Candidate in Applied Mathematics &amp; AI, Polytechnique Montréal).
         Research collaboration, including co-supervision and joint publications.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Jasper Bussemaker</strong>
-        (PhD candidate in Aerospace Engineering, TU Delft).
+        (PhD Candidate in Aerospace Engineering, TU Delft).
         Mentoring in mathematical methods, AI, and scientific publication strategy.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
-        <strong>James Mingzhi Shishua</strong>
-        (PhD candidate in Aerospace Engineering, HKUST / University of Shanghai).
-        Mentoring on mathematical methods and formal aspects of AI.
+        <strong>James Mingzhi Shihua</strong>
+        (PhD Candidate in Aerospace Engineering, HKUST / University of Shanghai).
+        Mentoring in mathematical methods and formal aspects of AI.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Jordan Levy</strong>
-        (PhD candidate in Computer Science).
-        Research supervision on AI methods for anomaly detection in robotics.
+        (PhD Candidate in Computer Science, IRIT / Université Toulouse Capitole).
+        Research co-supervision on AI methods for anomaly detection in robotics.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Clément Blanco-Volle</strong>
-        (PhD candidate in Computer Science).
-        Mentoring on formal methods for online learning in agent-based systems.
+        (PhD Candidate in Computer Science, IRIT / Université Toulouse Capitole).
+        Mentoring in formal methods for online learning in agent-based systems.
       </li>
     </ul>
 
     <!-- Horizontal separator -->
     <hr class="my-4 border-info">
 
-    <!-- Postdoctoral Researcher -->
+    <!-- Postdoctoral Researchers -->
     <h3 class="h6 font-weight-bold mb-3 text-secondary">
-      Postdoctoral Researcher
+      Postdoctoral Researchers
     </h3>
 
     <ul class="list-unstyled small mb-4 text-secondary">
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Julien Soulé</strong>
-        (Postdoctoral Researcher in Computer Science).
-        Mentoring on the mathematical foundations of AI.
+        (Postdoctoral Researcher in Computer Science, IRIT / Université Toulouse Capitole).
+        Mentoring in the mathematical foundations of AI within the ANR MIMICO project (with N. Verstaevel).
       </li>
     </ul>
 
@@ -205,7 +205,8 @@ title: Research Group & Supervision
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">James M. Shihua</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Koji Shimoyama</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Michelle Sibilla</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Olvier Therond</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Julien Soulé</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Olivier Therond</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nicolas Verstaevel</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Jean Villerd</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Aigerim Yerimbetova</span>
