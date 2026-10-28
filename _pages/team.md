@@ -30,19 +30,76 @@ title: Research Group & Supervision
       </div>
     </section>
 
-    <!-- Mentoring & Collaboration -->
-    <section id="mentoring" class="mb-5">
-      <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-hands-helping mr-2"></i> Scientific Mentoring & Collaboration</h2>
-      <div class="pl-3 border-left border-info">
-        <ul class="list-unstyled small mb-4 text-secondary">
-          <li class="mb-2"><i class="fas fa-angle-right text-info mr-2"></i> <strong>Edward Hallé-Hannan</strong> (Ph.D. Applied Math/AI, Polytechnique Montréal). Scientific collaboration including co-supervision and joint publications.</li>
-          <li class="mb-2"><i class="fas fa-angle-right text-info mr-2"></i> <strong>Jasper Bussemaker</strong> (Ph.D. Aerospace Engineering, TU Delft). Support in mathematics, AI, and publication strategy.</li>
-          <li class="mb-2"><i class="fas fa-angle-right text-info mr-2"></i> <strong>James Mingzhi Shishua</strong> (Ph.D. Aerospace Engineering, HKUST/Univ. Shanghai). Support in mathematics and formal AI aspects.</li>
-          <li class="mb-2"><i class="fas fa-angle-right text-info mr-2"></i> <strong>Jordan Levy</strong> (Ph.D. Computer Science). Supervision in developing AI methods for anomaly detection in robotics.</li>
-          <li class="mb-2"><i class="fas fa-angle-right text-info mr-2"></i> <strong>Clément Blanco-Volle</strong> (Ph.D. Computer Science). Support in formal aspects of online learning from agent-based systems.</li>
-        </ul>
-      </div>
-    </section>
+<!-- Scientific Mentoring & Collaboration -->
+<section id="mentoring" class="mb-5">
+  <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase">
+    <i class="fas fa-hands-helping mr-2"></i>
+    Scientific Mentoring &amp; Collaboration
+  </h2>
+
+  <div class="pl-3 border-left border-info">
+
+    <!-- Doctoral Researchers -->
+    <h3 class="h6 font-weight-bold mb-3 text-secondary">
+      Doctoral Researchers
+    </h3>
+
+    <ul class="list-unstyled small mb-4 text-secondary">
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>Edward Hallé-Hannan</strong>
+        (PhD candidate in Applied Mathematics and AI, Polytechnique Montréal).
+        Research collaboration, including co-supervision and joint publications.
+      </li>
+
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>Jasper Bussemaker</strong>
+        (PhD candidate in Aerospace Engineering, TU Delft).
+        Mentoring in mathematical methods, AI, and scientific publication strategy.
+      </li>
+
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>James Mingzhi Shishua</strong>
+        (PhD candidate in Aerospace Engineering, HKUST / University of Shanghai).
+        Mentoring on mathematical methods and formal aspects of AI.
+      </li>
+
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>Jordan Levy</strong>
+        (PhD candidate in Computer Science).
+        Research supervision on AI methods for anomaly detection in robotics.
+      </li>
+
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>Clément Blanco-Volle</strong>
+        (PhD candidate in Computer Science).
+        Mentoring on formal methods for online learning in agent-based systems.
+      </li>
+    </ul>
+
+    <!-- Horizontal separator -->
+    <hr class="my-4 border-info">
+
+    <!-- Postdoctoral Researcher -->
+    <h3 class="h6 font-weight-bold mb-3 text-secondary">
+      Postdoctoral Researcher
+    </h3>
+
+    <ul class="list-unstyled small mb-4 text-secondary">
+      <li class="mb-2">
+        <i class="fas fa-angle-right text-info mr-2"></i>
+        <strong>Julien Soulé</strong>
+        (Postdoctoral Researcher in Computer Science).
+        Mentoring on the mathematical foundations of AI.
+      </li>
+    </ul>
+
+  </div>
+</section>
 
     <!-- Master's Alumni -->
     <section id="alumni" class="mb-5">
