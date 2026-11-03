@@ -196,6 +196,7 @@ title: Research Group & Supervision
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Gaston Plat</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Flora Poupinot</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Manon Prédhumeau</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Prajwal S. Prakasha</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Lisa Pretsch</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémy Priem</span>
