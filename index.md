@@ -35,8 +35,19 @@ title: Biography
 
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0 text-dark">Associate Researcher (Chercheur Associé)</h3>
+          <span class="badge badge-light border font-weight-normal">Nov. 2026 - Present</span>
+        </div>
+        <div class="small text-dark mb-2 font-weight-bold">CNRS / IRIT &amp; Université Toulouse Capitole</div>
+        <p class="small text-justify text-secondary mb-0">
+          Associate research fellowship on Artificial Intelligence and surrogate modeling for complex socio-environmental systems.
+        </p>
+      </div>
+
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
           <h3 class="h6 font-weight-bold mb-0">Postdoctoral Research Fellow</h3>
-          <span class="badge badge-light border font-weight-normal">2025 - 2026</span>
+          <span class="badge badge-light border font-weight-normal">Feb. 2025 - Oct. 2026</span>
         </div>
         <div class="small text-muted mb-2">IRIT (CNRS) / Univ. Toulouse Capitole, France</div>
         <p class="small text-justify text-secondary">Postdoctoral research on <strong>agent-based simulations surrogate modeling</strong> (ANR MIMICO).</p>
@@ -58,7 +69,13 @@ title: Biography
         <!-- Professional Milestones -->
         <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-stream mr-2"></i> Professional Milestones</h2>
         <div class="news-timeline mb-5">
-          <!-- Role 2026 CRCN -->
+          <!-- Role Nov 2026 Associate -->
+          <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
+            <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-primary small font-weight-bold">Nov 2026</span> 
+            <p class="small mb-0"><strong>Appointed Associate Researcher</strong> at <strong>CNRS / IRIT</strong> and <strong>Université Toulouse Capitole</strong>.</p>
+          </div>
+          <!-- Role Oct 2026 CRCN -->
           <div class="news-item pl-4 mb-3 border-left border-success" style="position: relative;">
             <div class="news-dot bg-success" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-success small font-weight-bold">Oct 2026</span> 
@@ -113,10 +130,10 @@ title: Biography
             <span class="text-muted small font-weight-bold">2025</span> 
             <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> Recipient of the <strong>Prix du Ministère de la Recherche</strong> – Best PhD in Open Science.</p>
           </div>
-          <!-- Role 2025 -->
+          <!-- Role 2025-2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2025 - 2026</span> 
+            <span class="text-muted small font-weight-bold">Feb 2025 - Oct 2026</span> 
             <p class="small mb-0"><strong>Postdoctoral Researcher</strong> for <strong>ANR MIMICO</strong> at <strong>Université Toulouse Capitole</strong> and <strong>IRIT/CNRS</strong>.</p>
           </div>
           <!-- Award 2024 -->
