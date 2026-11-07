@@ -15,6 +15,10 @@ title: Contact Information
         <span class="badge badge-light border text-secondary font-weight-normal ml-2">Primary Appointment</span>
       </h3>
       <div class="pl-3 border-left border-primary">
+        <div class="d-flex align-items-center mb-3 pt-1 flex-wrap" style="gap: 1.5rem;">
+          <img src="{{ '/assets/img/Logo_IRD_2016_BLOC_FR_COUL.png' | relative_url }}" alt="IRD - Institut de Recherche pour le Développement" style="height: 48px; width: auto; object-fit: contain;">
+          <img src="{{ '/assets/img/Logo_Sciences_SU.png' | relative_url }}" alt="Sorbonne Université - Faculté des Sciences et Ingénierie" style="height: 38px; width: auto; object-fit: contain;">
+        </div>
         <address class="small text-secondary mb-0">
           <strong>Institut de Recherche pour le Développement (IRD)</strong><br>
           UMI 209 UMMISCO · Campus Condorcet<br>
@@ -36,7 +40,8 @@ title: Contact Information
       </h3>
       <div class="pl-3 border-left border-info">
         <address class="small text-secondary mb-0">
-          <strong>Université Toulouse Capitole</strong> &amp; <strong>CNRS / IRIT</strong><br>
+          <strong>Associate to UT Capitole, IRIT/CNRS</strong><br>
+          Université Toulouse Capitole &amp; CNRS / IRIT<br>
           Institut de Recherche en Informatique de Toulouse (UMR 5505)<br>
           <strong>Bureau MF 203</strong> · Bâtiment MF (Manufacture des Tabacs)<br>
           21 allée de Brienne<br>
@@ -56,6 +61,10 @@ title: Contact Information
       <li class="mb-3">
         <span class="font-weight-bold text-dark d-block mb-1"><i class="fas fa-at text-muted mr-2"></i> Academic (Sorbonne Université):</span>
         <a href="mailto:paul.saves@sorbonne-universite.fr" class="text-dark">paul.saves@sorbonne-universite.fr</a>
+      </li>
+      <li class="mb-3">
+        <span class="font-weight-bold text-dark d-block mb-1"><i class="fas fa-university text-muted mr-2"></i> Associate Appointment:</span>
+        <span class="text-dark">Associate to UT Capitole, IRIT/CNRS</span>
       </li>
       <li class="mb-3">
         <span class="font-weight-bold text-dark d-block mb-1"><i class="fab fa-linkedin text-muted mr-2"></i> Professional Network:</span>
