@@ -8,11 +8,10 @@ title: Contact Information
   <div class="col-lg-7 mb-4">
     <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-map-marker-alt mr-2"></i> Offices &amp; Affiliations</h2>
     
-    <!-- Primary Appointment: Paris / Île-de-France -->
+    <!-- Paris / Île-de-France -->
     <div class="mb-4">
       <h3 class="h6 font-weight-bold text-dark mb-2">
         <i class="fas fa-building text-primary mr-2"></i> Paris &amp; Île-de-France
-        <span class="badge badge-light border text-secondary font-weight-normal ml-2">Primary Appointment</span>
       </h3>
       <div class="pl-3 border-left border-primary">
         <div class="d-flex align-items-center mb-3 pt-1 flex-wrap" style="gap: 1.5rem;">
@@ -40,9 +39,7 @@ title: Contact Information
       </h3>
       <div class="pl-3 border-left border-info">
         <address class="small text-secondary mb-0">
-          <strong>Associate to UT Capitole, IRIT/CNRS</strong><br>
-          Université Toulouse Capitole &amp; CNRS / IRIT<br>
-          Institut de Recherche en Informatique de Toulouse (UMR 5505)<br>
+          <strong>UT Capitole, IRIT/CNRS</strong><br>
           <strong>Bureau MF 203</strong> · Bâtiment MF (Manufacture des Tabacs)<br>
           21 allée de Brienne<br>
           31042 Toulouse Cedex 9, France
@@ -60,13 +57,9 @@ title: Contact Information
       </li>
       <li class="mb-3">
         <span class="font-weight-bold text-dark d-block mb-1"><i class="fas fa-at text-muted mr-2"></i> Academic (Sorbonne Université):</span>
-        <a href="mailto:paul.saves@sorbonne-universite.fr" class="text-dark">paul.saves@sorbonne-universite.fr</a>
+        <a href="mailto:paul.saves@sorbonne-universite.fr" class="text-primary font-weight-bold">paul.saves@sorbonne-universite.fr</a>
       </li>
-      <li class="mb-3">
-        <span class="font-weight-bold text-dark d-block mb-1"><i class="fas fa-university text-muted mr-2"></i> Associate Appointment:</span>
-        <span class="text-dark">Associate to UT Capitole, IRIT/CNRS</span>
-      </li>
-      <li class="mb-3">
+        <li class="mb-3">
         <span class="font-weight-bold text-dark d-block mb-1"><i class="fab fa-linkedin text-muted mr-2"></i> Professional Network:</span>
         <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="text-dark">LinkedIn Profile</a>
       </li>
