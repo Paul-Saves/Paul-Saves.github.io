@@ -170,7 +170,7 @@ footer {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    opacity: 0.24; /* Increased so the rice parcel grid is clearly visible */
+    opacity: 0.20; /* Increased so the rice parcel grid is clearly visible */
     z-index: -1;
     pointer-events: none;
     transform: translateZ(0);
@@ -208,7 +208,7 @@ main {
     }
     .site-bg-fullscreen {
         background-image: url('../assets/img/bac-son-bg-mobile.webp');
-        opacity: 0.18;
+        opacity: 0.16;
     }
     main {
         padding: 1.25rem;
