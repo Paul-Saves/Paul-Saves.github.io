@@ -58,11 +58,6 @@ title: Contact Information
         <a href="mailto:paul.saves@sorbonne-universite.fr" class="text-dark">paul.saves@sorbonne-universite.fr</a>
       </li>
       <li class="mb-3">
-        <span class="font-weight-bold text-dark d-block mb-1"><i class="fas fa-at text-muted mr-2"></i> Associate (UT Capitole / IRIT):</span>
-        <a href="mailto:paul.saves@ut-capitole.fr" class="text-dark">paul.saves@ut-capitole.fr</a><br>
-        <a href="mailto:paul.saves@irit.fr" class="text-dark">paul.saves@irit.fr</a>
-      </li>
-      <li class="mb-3">
         <span class="font-weight-bold text-dark d-block mb-1"><i class="fab fa-linkedin text-muted mr-2"></i> Professional Network:</span>
         <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="text-dark">LinkedIn Profile</a>
       </li>
