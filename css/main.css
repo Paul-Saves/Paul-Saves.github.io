@@ -121,3 +121,53 @@ footer {
     text-align: center;
     margin-right: 12px;
 }
+
+
+/* ==========================================================================
+   Ambient Static Background - Bac Son Valley Rice Paddies
+   Photo © Bá Thắng Nguyễn
+   ========================================================================== */
+.site-bg-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: 0.20;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Glassmorphism content containers ensuring optimal contrast and readability */
+.sidebar {
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.03);
+}
+
+main {
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 2.2rem;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.03);
+}
+
+@media (max-width: 767.98px) {
+    main {
+        padding: 1.25rem;
+    }
+    .sidebar {
+        padding: 1.25rem;
+        margin-bottom: 1.5rem;
+    }
+}

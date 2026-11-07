@@ -36,6 +36,7 @@
     {% endif %}
   </head>
   <body class="d-flex flex-column h-100">
+    <div class="site-bg-overlay" style="background-image: url('{{ "/assets/img/bac-son-rice-fields.jpg" | relative_url }}');" aria-hidden="true" title="Aerial rice paddies in Bac Sơn Valley © Bá Thắng Nguyễn"></div>
 
     <!-- Header / Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom sticky-top py-3 shadow-sm">
@@ -158,6 +159,7 @@
     <footer class="bg-light mt-auto py-5 border-top text-center text-muted small">
       <div class="container">
         <p class="mb-1">&copy; {{ "now" | date: "%Y" }} {{ site.name }}. All rights reserved.</p>
+        <p class="mb-1 text-secondary"><i class="fas fa-camera text-muted mr-1"></i> Background photo: Aerial rice paddies in Bac Sơn Valley &copy; Bá Thắng Nguyễn.</p>
         <p class="mb-0">Built with <a href="https://jekyllrb.com/" class="text-muted text-underline">Jekyll</a>.</p>
       </div>
     </footer>
