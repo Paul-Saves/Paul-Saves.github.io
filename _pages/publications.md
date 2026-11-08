@@ -11,13 +11,10 @@ title: Scientific Publications
   <a href="#talks" class="btn btn-outline-secondary">Talks</a>
 </div>
 
-<div class="d-flex flex-wrap justify-content-between align-items-center mb-4">
-  <div class="mb-2 mb-md-0">
-    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-google-scholar mr-1"></i> Google Scholar</a>
-    <a href="{{ site.hal_cv_url }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-hal mr-1"></i> HAL Profile</a>
-    <a href="{{ site.dblp_url }}" target="_blank" class="badge badge-light border text-secondary p-2"><i class="ai ai-dblp mr-1"></i> DBLP</a>
-  </div>
-  <a href="{{ "/assets/docs/Publications Paul_Saves_2026-2.pdf" | relative_url }}" class="small italic text-muted text-underline"><i class="fas fa-file-pdf mr-1"></i> Full Bibliography (PDF)</a>
+<div class="d-flex flex-wrap align-items-center mb-4">
+  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-google-scholar mr-1"></i> Google Scholar</a>
+  <a href="{{ site.hal_cv_url }}" target="_blank" class="badge badge-light border text-secondary p-2 mr-2"><i class="ai ai-hal mr-1"></i> HAL Profile</a>
+  <a href="{{ site.dblp_url }}" target="_blank" class="badge badge-light border text-secondary p-2"><i class="ai ai-dblp mr-1"></i> DBLP</a>
 </div>
 
 
