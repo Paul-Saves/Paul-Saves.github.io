@@ -85,6 +85,4 @@ title: Teaching Activities
   </div>
 </section>
 
-<div class="text-right mt-5 pt-4 border-top">
-  <a href="{{ "/assets/docs/Teaching_Paul_et_justif_mcf.pdf" | relative_url }}" target="_blank" class="small italic text-muted text-underline"><i class="fas fa-file-pdf mr-1"></i> Detailed Teaching Portfolio (PDF)</a>
-</div>
+
