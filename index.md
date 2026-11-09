@@ -23,7 +23,7 @@ title: Biography
       <h2 class="h5 font-weight-bold mb-4 text-uppercase text-primary" style="letter-spacing: 1px;"><i class="fas fa-briefcase mr-2"></i> Career Summary</h2>
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
-          <h3 class="h6 font-weight-bold mb-0 text-dark">Tenured Research Scientist (Chargé de Recherche)</h3>
+          <h3 class="h6 font-weight-bold mb-0 text-dark">Tenured Research Scientist (Chargé de Recherche de Classe Normale)</h3>
           <span class="badge badge-light border font-weight-normal">Oct. 2026 - Present</span>
         </div>
         <div class="small text-dark mb-2 font-weight-bold">IRD (Aubervilliers) & Sorbonne Université (Paris) - UMI 209 UMMISCO</div>
