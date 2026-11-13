@@ -87,7 +87,7 @@ title: Scientific Publications
         <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light  border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
+    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-05035806" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
 
   </div>
 
@@ -167,7 +167,7 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C19]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2025. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
+    <span class="font-weight-bold">[C19]</span>  N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, “Efficient multidisciplinary design via Bayesian optimization”  in <em>Proc. CSMA 2026</em>, Hyères, France, 2026. <a href="https://hal.science/hal-05636767" target="_blank" class="badge badge-light border ml-2">HAL</a> </div>
 
 <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C20]</span> B. Pianet, B. Lesquoy, P. Saves, B. Gaudou, J. Villerd, N. Verstaevel, O. Therond, "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model," in <em>Principles and Practice of Multi-Agent Systems (PRIMA)</em>, Kumamoto, Japan, Springer, 2026. <a href="https://www.researchgate.net/publication/412368078_Sensitivity_Analysis_of_Decision_Rules_in_an_Agent-Based_Agro-Ecological_Model" target="_blank" class="badge badge-light border ml-2">RG</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>
@@ -177,7 +177,7 @@ title: Scientific Publications
     <span class="font-weight-bold">[C21]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, L. Pretsch, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. MOPTA 2025</em>, Ponta Delgada, Portugal, 2025. <a href="https://hal.science/hal-05616536" target="_blank" class="badge badge-light border ml-2">HAL</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>  </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C22]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vechia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[C22]</span> N. Bartoli, T. Lefebvre, R. Lafage, P. Saves, Y. Diouane, J. Morlier, J. Bussemaker, G. Donelli, J. M. Gomes de Mello, M. Mandorino, P. Della Vecchia, "Multi-objective Bayesian optimization with mixed-categorical design variables for expensive-to-evaluate aeronautical applications," in <em>Proc. ECCOMAS AeroBest 2023</em>, Lisboa, Portugal, 2023. <a href="https://hal.science/hal-04170287" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -230,16 +230,16 @@ title: Scientific Publications
       <span class="text-muted font-weight-bold mr-2">2025:</span> <strong>ANR MIMICO 1st Workshop</strong>, Toulouse, France. "Explainability with mixed variables applied to MAS."
     </li>
     <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2024:</span> <strong>A graph-structured distance for heterogeneous datasets with meta variables</strong>, Toulouse, France, AISSAI (AI for Science).
+    </li>
+    <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2024:</span> <strong>Workshop on Bayesian optimization & related topics</strong>, Paris, France.
     </li>
     <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Surrogate Day</strong>, Organizer & Speaker, ISAE-SUPAERO.
     </li>
-  <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Enhanced kriging models within a Bayesian optimization framework, to handle both continuous and categorical inputs</strong>, Forth Worth, USA, SIAM Conference on Computational Science and Engineering. 
-</li>
-  <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2024:</span> <strong> A graph-structured distance for heterogeneous datasets with meta variables </strong>, Toulouse, France, AISSAI (AI for Science).
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2021:</span> <strong>Enhanced kriging models within a Bayesian optimization framework, to handle both continuous and categorical inputs</strong>, Fort Worth, USA, SIAM Conference on Computational Science and Engineering.
     </li>
   </ul>
 </section>

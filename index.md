@@ -85,29 +85,34 @@ title: Biography
             <span class="text-primary small font-weight-bold">Nov 2026</span> 
             <p class="small mb-0"><strong>Appointed Associate Researcher</strong> at <strong>CNRS / IRIT</strong> and <strong>Université Toulouse Capitole</strong>.</p>
           </div>
+          <!-- Role Nov 2026 Associate ACROSS -->
+          <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
+            <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-primary small font-weight-bold">Nov 2026</span> 
+            <p class="small mb-0"><strong>Appointed Associate Researcher</strong> at the <strong>International Joint Laboratory ACROSS</strong> (<strong>Thuy Loi University</strong>, Hanoi, Vietnam).</p>
+          </div>
           <!-- Role Oct 2026 CRCN -->
           <div class="news-item pl-4 mb-3 border-left border-success" style="position: relative;">
             <div class="news-dot bg-success" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-success small font-weight-bold">Oct 2026</span> 
             <p class="small mb-0"><strong>Appointed Tenured Research Scientist (Chargé de Recherche)</strong> at the French National Research Institute for Sustainable Development (IRD).</p>
           </div>
-          <!-- Role 2026 -->
+          <!-- Role Oct-Nov 2026 -->
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
-
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-           <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
-            <p class="small mb-0"><strong>PI of a ecosystem modeling and simulation project</strong> for a <strong>Springboard British Council Project</strong> at the University of Exeter, United Kingdom.</p>
+            <span class="text-muted small font-weight-bold">Oct.–Nov. 2026 - 1 month mobility</span> 
+            <p class="small mb-0"><strong>PI of an ecosystem modeling and simulation project</strong> for a <strong>Springboard British Council Project</strong> at the University of Exeter, United Kingdom.</p>
           </div>
-          <!-- Role 2026 -->
+          <!-- Role Aug-Sept 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
+            <span class="text-muted small font-weight-bold">Aug.–Sept. 2026 - 1 month mobility</span> 
             <p class="small mb-0"><strong>PI of a climate science simulation project</strong> for a <strong>Science and Impact IFI Project</strong> at IT Bandung, Indonesia.</p>
           </div>
-          <!-- Role 2026 -->
+          <!-- Role June-July 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2026 - 1 month mobility </span> 
+            <span class="text-muted small font-weight-bold">June–July 2026 - 1 month mobility</span> 
             <p class="small mb-0"><strong>Active Learning Post-doctoral research</strong> for a <strong>LabEx CIMI Project</strong> at GERAD, Canada.</p>
           </div>
           <!-- Award 2026 -->
@@ -271,7 +276,7 @@ title: Biography
               <li class="mb-0">
                 <div class="font-weight-bold">BEng, Mechanical Engineering</div>
                 <div class="text-muted">Univ. du Québec à Trois-Rivières</div>
-                <div class="x-small text-secondary">2019 - 2019</div>
+                <div class="x-small text-secondary">2018</div>
               </li>
             </ul>
           </div>

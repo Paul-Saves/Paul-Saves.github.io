@@ -20,7 +20,7 @@ title: Scientific Software
             </h2>
             <div class="mb-3">
               <span class="badge badge-success mr-2"><i class="fas fa-lock-open mr-1"></i> Open Source (BSD-3)</span>
-              <span class="badge badge-warning text-dark shadow-sm"><i class="fas fa-trophy mr-1"></i> French Open Science Award 2026</span>
+              <span class="badge badge-warning text-dark shadow-sm"><i class="fas fa-trophy mr-1"></i> French Open Science Award 2025</span>
             </div>
           </div>
           <div class="text-right">

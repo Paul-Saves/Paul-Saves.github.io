@@ -218,7 +218,7 @@ title: Research
         </div>
         <div class="col-md-6 mb-4">
           <h3 class="h6 font-weight-bold mb-3 text-uppercase text-muted">Peer Reviewing</h3>
-          <p class="small text-secondary mb-2">Active reviewing activity (35+ verified reviews) for international journals and conferences, including:</p>
+          <p class="small text-secondary mb-2">Active reviewing activity (50+ verified reviews) for international journals and conferences, including:</p>
           <div class="d-flex flex-wrap small">
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Nature Scientific Reports (5)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Comp. Opt. and Applications (4)</span>
@@ -235,14 +235,13 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Neurocomputing (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">INFORMS Journal of Comp.(1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Sensors (1)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optics Letter (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optics Letters (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optimization and Engineering (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Discover Applied Sciences (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Complexities (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> WISE (3)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm"> GAMA Days (5)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> AAMAS (5)</span>
           </div>
         </div>
       </div>
