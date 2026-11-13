@@ -5,11 +5,11 @@ title: Contact Information
 ---
 
 <div class="row">
-  <div class="col-lg-7 mb-4">
+  <div class="col-lg-7 mb-4 order-1">
     <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-map-marker-alt mr-2"></i> Offices &amp; Affiliations</h2>
     
     <!-- Paris / Île-de-France -->
-    <div class="mb-4">
+    <div class="mb-2">
       <h3 class="h6 font-weight-bold text-dark mb-2">
         <i class="fas fa-building text-primary mr-2"></i> Paris &amp; Île-de-France
       </h3>
@@ -30,42 +30,46 @@ title: Contact Information
         </address>
       </div>
     </div>
+  </div>
 
-    <!-- Associate Appointment: Toulouse -->
-    <div class="mb-4">
-      <h3 class="h6 font-weight-bold text-dark mb-2">
-        <i class="fas fa-university text-info mr-2"></i> Toulouse
-        <span class="badge badge-light border text-secondary font-weight-normal ml-2">Associate Researcher</span>
-      </h3>
-      <div class="pl-3 border-left border-info">
-        <address class="small text-secondary mb-0">
-          <strong>UT Capitole, IRIT/CNRS</strong><br>
-          <strong>Bureau MF 203</strong> · Bâtiment MF (Manufacture des Tabacs)<br>
-          21 allée de Brienne<br>
-          31042 Toulouse Cedex 9, France
-        </address>
+  <!-- Associate Appointments: Toulouse & Hanoi on a 2-column row -->
+  <div class="col-12 order-2 order-lg-3 mt-lg-2">
+    <div class="row">
+      <!-- Associate Appointment: Toulouse -->
+      <div class="col-md-6 mb-4">
+        <h3 class="h6 font-weight-bold text-dark mb-2 d-flex align-items-center flex-wrap" style="gap: 0.4rem;">
+          <span><i class="fas fa-university text-info mr-1"></i> Toulouse</span>
+          <span class="badge badge-light border text-secondary font-weight-normal">Associate Researcher</span>
+        </h3>
+        <div class="pl-3 border-left border-info">
+          <address class="small text-secondary mb-0">
+            <strong>UT Capitole, IRIT/CNRS</strong><br>
+            <strong>Bureau MF 203</strong> · Bâtiment MF (Manufacture des Tabacs)<br>
+            21 allée de Brienne<br>
+            31042 Toulouse Cedex 9, France
+          </address>
+        </div>
       </div>
-    </div>
 
-    <!-- Associate Appointment: Hanoi, Vietnam -->
-    <div class="mb-4">
-      <h3 class="h6 font-weight-bold text-dark mb-2">
-        <i class="fas fa-globe-asia text-success mr-2"></i> Hanoi, Vietnam
-        <span class="badge badge-light border text-secondary font-weight-normal ml-2">Associate Researcher</span>
-      </h3>
-      <div class="pl-3 border-left border-success">
-        <address class="small text-secondary mb-0">
-          <strong>International Joint Laboratory ACROSS</strong><br>
-          Thuy Loi University<br>
-          5th Floor, A1 Building<br>
-          175 Tay Son, Dong Da<br>
-          Hanoi, Vietnam
-        </address>
+      <!-- Associate Appointment: Hanoi, Vietnam -->
+      <div class="col-md-6 mb-4">
+        <h3 class="h6 font-weight-bold text-dark mb-2 d-flex align-items-center flex-wrap" style="gap: 0.4rem;">
+          <span><i class="fas fa-globe-asia text-success mr-1"></i> Hanoi, Vietnam</span>
+          <span class="badge badge-light border text-secondary font-weight-normal">Associate Researcher</span>
+        </h3>
+        <div class="pl-3 border-left border-success">
+          <address class="small text-secondary mb-0">
+            <strong>International Joint Laboratory ACROSS</strong><br>
+            Thuy Loi University · 5th Floor, A1 Building<br>
+            175 Tay Son, Dong Da<br>
+            Hanoi, Vietnam
+          </address>
+        </div>
       </div>
     </div>
   </div>
 
-  <div class="col-lg-5">
+  <div class="col-lg-5 mb-4 order-3 order-lg-2">
     <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase"><i class="fas fa-envelope mr-2"></i> Correspondence</h2>
     <ul class="list-unstyled small text-secondary">
       <li class="mb-3">
