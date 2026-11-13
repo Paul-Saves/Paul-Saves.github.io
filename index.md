@@ -45,6 +45,17 @@ title: Biography
 
       <div class="exp-item mb-4 pb-2 border-bottom">
         <div class="d-flex justify-content-between align-items-center mb-1">
+          <h3 class="h6 font-weight-bold mb-0 text-dark">Associate Researcher (Chercheur Associé)</h3>
+          <span class="badge badge-light border font-weight-normal">Nov. 2026 - Present</span>
+        </div>
+        <div class="small text-dark mb-2 font-weight-bold">International Joint Laboratory ACROSS · Thuy Loi University (Hanoi, Vietnam)</div>
+        <p class="small text-justify text-secondary mb-0">
+          Collaborative research on surrogate modeling, explainable AI, and agent-based simulations for socio-environmental systems and climate resilience in Southeast Asia.
+        </p>
+      </div>
+
+      <div class="exp-item mb-4 pb-2 border-bottom">
+        <div class="d-flex justify-content-between align-items-center mb-1">
           <h3 class="h6 font-weight-bold mb-0">Postdoctoral Research Fellow</h3>
           <span class="badge badge-light border font-weight-normal">Feb. 2025 - Oct. 2026</span>
         </div>

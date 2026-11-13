@@ -91,5 +91,5 @@ title: Contact Information
 <hr class="my-5">
 
 <div class="text-center">
-  <p class="small text-muted italic">Inquiries regarding SMT 2.0, SEGOMOE, or research collaborations are welcome.</p>
+  <p class="small text-muted italic">Inquiries regarding frugal AI, surrogate modeling (SMT 2.0, SEGOMOE), complex systems, or research collaborations are welcome.</p>
 </div>
