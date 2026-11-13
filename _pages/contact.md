@@ -46,6 +46,23 @@ title: Contact Information
         </address>
       </div>
     </div>
+
+    <!-- Associate Appointment: Hanoi, Vietnam -->
+    <div class="mb-4">
+      <h3 class="h6 font-weight-bold text-dark mb-2">
+        <i class="fas fa-globe-asia text-success mr-2"></i> Hanoi, Vietnam
+        <span class="badge badge-light border text-secondary font-weight-normal ml-2">Associate Researcher</span>
+      </h3>
+      <div class="pl-3 border-left border-success">
+        <address class="small text-secondary mb-0">
+          <strong>International Joint Laboratory ACROSS</strong><br>
+          Thuy Loi University<br>
+          5th Floor, A1 Building<br>
+          175 Tay Son, Dong Da<br>
+          Hanoi, Vietnam
+        </address>
+      </div>
+    </div>
   </div>
 
   <div class="col-lg-5">
