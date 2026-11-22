@@ -36,7 +36,7 @@ title: Scientific Publications
   </div>
 
 <div class="ieee-citation mb-4 pb-3 border-bottom">
-    <span class="font-weight-bold">[J3]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, T. Lefebvre, J. T. Hwang, J. Morlier, and J. R.R.A Martins, "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
+    <span class="font-weight-bold">[J3]</span> P. Saves, R. Lafage, N. Bartoli, Y. Diouane, J. Bussemaker, T. Lefebvre, J. T. Hwang, J. Morlier, and J. R. R. A. Martins, "SMT 2.0: A Surrogate Modeling Toolbox with Hierarchical and Mixed Variables Gaussian Processes," <em>Advances in Engineering Software</em>, vol. 188, 2024. <a href="https://doi.org/10.1016/j.advengsoft.2023.103571" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CS Q1</span> 
   </div>
 
 <div class="ieee-citation mb-4 pb-3 border-bottom">
@@ -84,7 +84,7 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-2">
-        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em> MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light  border ml-2">DOI</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
+        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em>MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
 
 <div class="ieee-citation mb-4 pb-2">
     <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-05035806" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
@@ -96,7 +96,7 @@ title: Scientific Publications
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C4]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefèbvre, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2023 Forum</em>, National Harbor, USA, 2023. <a href="https://doi.org/10.2514/6.2023-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C4]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefebvre, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2023 Forum</em>, National Harbor, USA, 2023. <a href="https://doi.org/10.2514/6.2023-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -116,10 +116,10 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C8]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026 <strong>- Springer IDA Frontier Prize -</strong> <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
+    <span class="font-weight-bold">[C8]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Analyzing Shapley additive explanations to understand anomaly detection algorithm behaviors and their complementarity," in <em>Advances in Intelligent Data Analysis XXIV</em>, Leiden, Netherlands, Springer, 2026. <strong>- Springer IDA Frontier Prize -</strong> <a href="https://doi.org/10.1007/978-3-032-23833-7_10" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE B</span>  </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Caractérisation de la complémentarité des détecteurs d'anomalies par l'analyse des contributions SHAP", in <em>Proc. CNIA & Proc. RJCIA 2026</em>, Arras, France, 2026. <a href="https://hal.science/hal-05686526" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
+    <span class="font-weight-bold">[C9]</span> J. Levy, P. Saves, M. Garouani, N. Verstaevel, and B. Gaudou, "Caractérisation de la complémentarité des détecteurs d'anomalies par l'analyse des contributions SHAP," in <em>Proc. CNIA & Proc. RJCIA 2026</em>, Arras, France, 2026. <a href="https://hal.science/hal-05686526" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
  </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -131,7 +131,7 @@ title: Scientific Publications
  </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C12]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, J. Morlier, "Energy-aware frugal Bayesian optimization," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C12]</span> G. Plat, P. Saves, N. Bartoli, T. Lefebvre, and J. Morlier, "Energy-aware frugal Bayesian optimization," in <em>7th International Conference on Engineering Optimization</em>, Lisboa, Portugal, 2026. <a href="https://doi.org/10.1051/matecconf/202642202009" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -181,7 +181,7 @@ title: Scientific Publications
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C23]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, and T. Lefebvre, P. Saves, J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C23]</span> R. Grapin, Y. Diouane, J. Morlier, N. Bartoli, T. Lefebvre, P. Saves, and J. H. Bussemaker, "Regularized Infill Criteria for Multi-Objective Bayesian Optimization with Application to Aircraft Design," in <em>Proc. AIAA AVIATION 2022</em>, Chicago, USA, 2022. <a href="https://doi.org/10.2514/6.2022-4053" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
 
 </section>
@@ -197,7 +197,7 @@ title: Scientific Publications
     <span class="font-weight-bold">[P2]</span> P. Saves, "Development of Partial Least Squares Regression for Correlation Matrices: Theory and Applications," 2026. <a href="https://doi.org/10.13140/RG.2.2.16959.06569/1" target="_blank" class="badge badge-light border ml-2">RG</a>
   </div>
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P3]</span> M. Mastio, P. Saves, N. Verstaevel, B. Gaudou, M. Prédhumeau, " Sampling at the Right Scale: Efficient Population Downscaling in Agent-Based On-Demand Transport Simulations," 2026. <a href="https://hal.science/hal-05842358" target="_blank" class="badge badge-light border ml-2">HAL</a>
+    <span class="font-weight-bold">[P3]</span> M. Mastio, P. Saves, N. Verstaevel, B. Gaudou, M. Prédhumeau, "Sampling at the Right Scale: Efficient Population Downscaling in Agent-Based On-Demand Transport Simulations," 2026. <a href="https://hal.science/hal-05842358" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 <div class="ieee-citation mb-4">
     <span class="font-weight-bold">[P4]</span> P. Saves, P. S. Palar, M. D. Robani, N. Verstaevel, M. Garouani, J. Aligon, K. Shimoyama, J. Morlier, B. Gaudou, "Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration," <em>arXiv:2510.16742</em>, 2025. <a href="https://arxiv.org/abs/2510.16742" target="_blank" class="badge badge-light border ml-2">ArXiv</a>
@@ -218,7 +218,7 @@ title: Scientific Publications
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-microphone-alt mr-2"></i> Oral Communications & Selected Talks</h2>
   <ul class="list-unstyled small">
     <li class="mb-3">
-      <span class="text-muted font-weight-bold mr-2">2025:</span> <strong>Assises nationales des données de la recherche (ANDOR 2025)</strong>, Saclay ENS, France. (Remise de prix Science Ouverte de la thèse).
+      <span class="text-muted font-weight-bold mr-2">2025:</span> <strong>Assises nationales des données de la recherche (ANDOR 2025)</strong>, ENS Paris-Saclay, France. (Remise du prix Science Ouverte de la thèse).
     </li>
     <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2025:</span> <strong>Towards Sustainable Aviation Summit</strong>, Toulouse, France. "Sustainable Eco-design of Hybrid-electric Aircraft."

@@ -77,7 +77,7 @@ title: Research
 
       <div class="card border-0 bg-light shadow-sm mb-4">
         <div class="card-body">
-          <h3 class="h6 font-weight-bold mb-1">Sustainable Mobility Optimization. EU Comission, Horizon 2020 COLOSSUS and AGILE 4.0 projects.  Grant Numbers 815122 and  101097120  </h3>
+          <h3 class="h6 font-weight-bold mb-1">Sustainable Mobility Optimization. EU Commission, Horizon Europe COLOSSUS (ID 101097120) and Horizon 2020 AGILE 4.0 (ID 815122) projects.</h3>
           <p class="small text-muted mb-0">Applying Bayesian optimization to the eco-design of complex transport systems. These works were recognized by two AIAA Best Paper Awards for methodological contributions to green aviation.</p>
         </div>
       </div>
@@ -91,9 +91,10 @@ title: Research
         <div class="col-md-6 mb-4">
           <div class="card h-100 border-0 shadow-sm bg-light border-left border-primary">
             <div class="card-body">
-              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Thesis & Doctoral Awards</h3>
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Scientific &amp; Doctoral Awards</h3>
               <ul class="list-unstyled small text-secondary">
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (Abertis Foundation)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (2nd Place, Abertis Chair / École des Ponts)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO)</li>
@@ -133,7 +134,7 @@ title: Research
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: ISAE-SUPAERO & ONERA (4 months at GERAD Montréal).</li>
             <li class="mb-2"><i class="fas fa-globe mr-2"></i> <strong>Mobility Grant</strong>: CIMI & BQR (1 month at Univ. of Montréal).</li>
             <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>British Council Springboard</strong>: PI (Co-PI with Hossein Mohammadi, Univ. of Exeter).</li>
-            <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>Mobility grant</strong>: French Embassy in Indonesia.  (1 month at the ITB Univ., Bandung) </li>
+            <li class="mb-2"><i class="fas fa-user-tie mr-2"></i> <strong>Mobility Grant</strong>: French Embassy in Indonesia (1 month at ITB, Bandung).</li>
           </ul>
         </div>
         <div class="col-md-6">
@@ -233,15 +234,15 @@ title: Research
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">MABS (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">J. Global Optimization (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Neurocomputing (1)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm">INFORMS Journal of Comp.(1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">INFORMS Journal of Comp. (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Sensors (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optics Letters (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">Optimization and Engineering (1)</span>
             <span class="badge badge-light border mr-1 mb-1 shadow-sm">ML and Knowledge Extraction (1)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Discover Applied Sciences (1)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> Complexities (1)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> WISE (3)</span>
-            <span class="badge badge-light border mr-1 mb-1 shadow-sm"> GAMA Days (5)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Discover Applied Sciences (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">Complexities (1)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">WISE (3)</span>
+            <span class="badge badge-light border mr-1 mb-1 shadow-sm">GAMA Days (5)</span>
           </div>
         </div>
       </div>
@@ -275,3 +276,5 @@ title: Research
 
   </div>
 </section>
+  </div>
+</div>

@@ -8,10 +8,10 @@ title: Biography
     <section id="biography" class="mb-5">
       <h1 class="h3 font-weight-bold border-bottom pb-2 mb-4 text-uppercase" style="letter-spacing: 1px;">Professional Biography</h1>
       <p class="text-justify">
-  I am a <strong>Tenured Research Scientist (Chargé de Recherche)</strong> at the <strong>French National Research Institute for Sustainable Development (IRD)</strong>, affiliated with <strong>UMI 209 UMMISCO</strong> (Sorbonne Université, Paris). My research focuses on <strong>frugal and explainable AI approaches for complex systems</strong>, bridging surrogate modeling, active learning, and interpretable machine learning to support transparent decision-making under uncertainty in sustainability and engineering applications.
+  I am a <strong>Tenured Research Scientist (Chargé de Recherche)</strong> at the <strong>French National Research Institute for Sustainable Development (IRD)</strong>, affiliated with <strong>UMI 209 UMMISCO</strong> (Sorbonne Université, Paris), and an <strong>Associate Researcher</strong> at <strong>CNRS / IRIT (Université Toulouse Capitole)</strong> and the <strong>International Joint Laboratory ACROSS (Thuy Loi University, Hanoi)</strong>. My research focuses on <strong>frugal and explainable AI for complex systems</strong>, bridging surrogate modeling, active learning, Bayesian optimization, agent-based simulation, and interpretable machine learning to support decision-making under uncertainty in sustainability and engineering applications.
 </p>
 <p class="text-justify">
-  I received my Ph.D. in Applied Mathematics from ONERA, ISAE-SUPAERO, and Polytechnique Montréal. I currently serve as Principal Investigator on collaborative projects exploring climate resilience in the Global South, and I am a core developer of the open-source <strong>Surrogate Modeling Toolbox (SMT)</strong>.
+  I hold a Ph.D. in Applied Mathematics from <strong>ISAE-SUPAERO</strong> (conducted at <strong>ONERA</strong> with a research secondment at <strong>Polytechnique Montréal</strong>). I serve as Principal Investigator on international collaborations exploring climate resilience in the Global South and am the lead developer of the open-source <strong>Surrogate Modeling Toolbox (SMT 2.0)</strong>, alongside <strong>smt-explainability</strong>, <strong>smt-design-space-ext</strong>, and <strong>smt-optim</strong>. My work has been recognized with nine scientific awards, including the <strong>Grand Prix de Science « Pierre de Fermat »</strong> (Académie du Languedoc, 2026) and the <strong>French Ministry of Research Open Science PhD Award</strong> (2025).
 </p>
       
       <div class="mt-4 mb-5">
@@ -115,11 +115,17 @@ title: Biography
             <span class="text-muted small font-weight-bold">June–July 2026 - 1 month mobility</span> 
             <p class="small mb-0"><strong>Active Learning Post-doctoral research</strong> for a <strong>LabEx CIMI Project</strong> at GERAD, Canada.</p>
           </div>
+          <!-- Award 2026 Fermat -->
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <span class="text-muted small font-weight-bold">2026</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Grand Prix de Science « Pierre de Fermat »</strong>, Grand Prix de l'Académie du Languedoc.</p>
+          </div>
           <!-- Award 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2026</span> 
-            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Sustainable Mobility Best Thesis Award</strong>, by the Réseau Abertis, Ecole Nationale des Ponts et Chaussées.</p>
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>Sustainable Mobility Best Thesis Award</strong> (2nd Place), by the Abertis Chair, École nationale des Ponts et Chaussées.</p>
           </div>
           <!-- Award 2026 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
@@ -182,11 +188,11 @@ title: Biography
             <span class="text-muted small font-weight-bold">2022</span> 
             <p class="small mb-0"><strong>International Research Secondment</strong> at Polytechnique Montréal, Canada.</p>
           </div>
-          <!-- Award 2020 -->
+          <!-- Award 2019 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <span class="text-muted small font-weight-bold">2020</span> 
-            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIRBUS National IA Contest</strong> – Finalist (issued by INSA).</p>
+            <span class="text-muted small font-weight-bold">2019</span> 
+            <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> <strong>AIRBUS &amp; INSA National AI Contest</strong> – Finalist.</p>
           </div>
           <!-- Role 2019 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">	

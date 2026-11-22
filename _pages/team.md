@@ -116,7 +116,7 @@ title: Research Group & Supervision
         <div class="col-md-6">
           <ul class="list-unstyled text-secondary">
             <li class="mb-2"><i class="fas fa-check text-success mr-2"></i> <strong>Maël Tremouille</strong> (L3, 2024), ENSAE Paris. <em>Noisy Bayesian optimization.</em></li>
-            <li class="mb-2"><i class="fas fa-check text-success mr-2"></i> <strong>Benjamin Pianet</strong> (M2, 2026), Univ. Lille. <em>Statistics for exploring agro-ecological simulations in Viêtnam.</em></li>
+            <li class="mb-2"><i class="fas fa-check text-success mr-2"></i> <strong>Benjamin Pianet</strong> (M2, 2026), Univ. Lille. <em>Statistics for exploring agro-ecological simulations in Vietnam.</em></li>
             <li class="mb-2"><i class="fas fa-check text-success mr-2"></i> <strong>Rodrigo Cervantes-Salas</strong> (M2, 2026), ISAE-SUPAERO. <em>Discovering new eco-materials for batteries using Bayesian optimization.</em></li>
           </ul>
         </div>
@@ -192,12 +192,12 @@ title: Research Group & Supervision
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Eric Nguyen Van</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Shigeru Obayashi</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Claire Pagetti</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benjamin Pianet</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Pramudita Satria Palar</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Benjamin Pianet</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Gaston Plat</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Flora Poupinot</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Manon Prédhumeau</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Prajwal S. Prakasha</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Manon Prédhumeau</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Lisa Pretsch</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémy Priem</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rommel G. Regis</span>

@@ -2,7 +2,7 @@
 
 Welcome to the source repository for my professional academic portfolio, hosted at [paul-saves.github.io](https://paul-saves.github.io/).
 
-This site serves as a comprehensive hub for my research in **Frugal & Explainable AI (XAI)**, **Surrogate Modeling**, and **Decision-Making under Uncertainty for Complex Socio-Environmental Systems**, as a Tenured Research Scientist (Chargé de Recherche) at the French National Research Institute for Sustainable Development (**IRD** — UMI 209 UMMISCO / Sorbonne Université) and Associate Researcher at **IRIT / CNRS**.
+This site serves as a comprehensive hub for my research in **Frugal & Explainable AI (XAI)**, **Surrogate Modeling**, and **Decision-Making under Uncertainty for Complex Socio-Environmental Systems**, as a Tenured Research Scientist (Chargé de Recherche) at the French National Research Institute for Sustainable Development (**IRD** — UMI 209 UMMISCO / Sorbonne Université) and Associate Researcher at **IRIT / CNRS (Université Toulouse Capitole)** and the **International Joint Laboratory ACROSS (Thuy Loi University, Hanoi)**.
 
 ## 🛠️ Technical Structure
 
