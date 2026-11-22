@@ -19,6 +19,120 @@
     <meta property="twitter:title" content="{{ page.title }} | {{ site.title }}">
     <meta property="twitter:description" content="{{ site.description }}">
 
+    <!-- Structured Data (Schema.org / Knowledge Graph) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "{{ site.url }}/#person",
+      "name": {{ site.name | jsonify }},
+      "alternateName": ["Paul Maxime Valentin Saves", "P. Saves"],
+      "givenName": "Paul",
+      "familyName": "Saves",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Chargé de Recherche (Tenured Research Scientist)",
+      "description": {{ site.description | jsonify }},
+      "url": "{{ site.url }}/",
+      "image": "{{ site.url }}/assets/img/paul-saves.jpg",
+      "email": "mailto:{{ site.email }}",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Institut de Recherche pour le Développement (IRD)",
+        "sameAs": "https://ror.org/05q3vnk25"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Institut de Recherche pour le Développement (IRD)",
+          "sameAs": "https://ror.org/05q3vnk25"
+        },
+        {
+          "@type": "Organization",
+          "name": "UMI 209 UMMISCO · Sorbonne Université",
+          "sameAs": "https://ror.org/02en5vm52"
+        },
+        {
+          "@type": "Organization",
+          "name": "CNRS / IRIT · Université Toulouse Capitole",
+          "sameAs": "https://ror.org/01rx4qw44"
+        },
+        {
+          "@type": "Organization",
+          "name": "International Joint Laboratory ACROSS · Thuy Loi University"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "ISAE-SUPAERO",
+          "sameAs": "https://ror.org/04gyj6s21"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "ENAC (École Nationale de l'Aviation Civile)",
+          "sameAs": "https://ror.org/022zdgq74"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "INSA Toulouse",
+          "sameAs": "https://ror.org/01h8pf755"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Université du Québec à Trois-Rivières"
+        }
+      ],
+      "knowsAbout": [
+        "Frugal AI",
+        "Explainable AI",
+        "Surrogate Modeling",
+        "Bayesian Optimization",
+        "Gaussian Processes",
+        "Multidisciplinary Design Optimization",
+        "Agent-Based Modeling",
+        "Climate Resilience",
+        "SMT 2.0"
+      ],
+      "award": [
+        "Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc, 2026)",
+        "Sustainable Mobility PhD Award (2nd Place, Abertis Chair / École nationale des Ponts et Chaussées, 2026)",
+        "Francophone Artificial Intelligence Best PhD Award (RéFIA / AUF, 2026)",
+        "Open Science PhD Award (French Ministry of Higher Education and Research, 2025)",
+        "Best PhD Thesis Award (Fondation ISAE-SUPAERO, 2024)",
+        "Intelligent Data Analysis (IDA) Frontier Prize (Springer, 2026)",
+        "JFSMA / AFIA Best Paper Award (2026)",
+        "AIAA Best Student Paper Award in Multidisciplinary Design Optimization (2024)",
+        "AIAA Best Paper Award in Multidisciplinary Design Optimization (2022)"
+      ],
+      "sameAs": [
+        {% if site.wikidata_id %}"https://www.wikidata.org/wiki/{{ site.wikidata_id }}"{% endif %}
+        {% if site.orcid_id %},"https://orcid.org/{{ site.orcid_id }}"{% endif %}
+        {% if site.openalex_url %},{{ site.openalex_url | jsonify }}{% endif %}
+        {% if site.scholar_userid %},"https://scholar.google.com/citations?user={{ site.scholar_userid }}"{% endif %}
+        {% if site.hal_cv_url %},{{ site.hal_cv_url | jsonify }}{% endif %}
+        {% if site.dblp_url %},{{ site.dblp_url | jsonify }}{% endif %}
+        {% if site.idref_url %},"{{ site.idref_url | remove: '#070' }}"{% endif %}
+        {% if site.mathgenealogy_url %},{{ site.mathgenealogy_url | jsonify }}{% endif %}
+        {% if site.semanticscholar_id %},"https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}"{% endif %}
+        {% if site.scopus_id %},"https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus_id }}"{% endif %}
+        {% if site.wos_url %},{{ site.wos_url | jsonify }}{% endif %}
+        {% if site.arxiv_url %},{{ site.arxiv_url | jsonify }}{% endif %}
+        {% if site.acm_url %},{{ site.acm_url | jsonify }}{% endif %}
+        {% if site.openreview_url %},{{ site.openreview_url | jsonify }}{% endif %}
+        {% if site.alphaxiv_url %},{{ site.alphaxiv_url | jsonify }}{% endif %}
+        {% if site.github_username %},"https://github.com/{{ site.github_username }}"{% endif %}
+        {% if site.linkedin_username %},"https://linkedin.com/in/{{ site.linkedin_username }}"{% endif %}
+        {% if site.researchgate_username %},"https://www.researchgate.net/profile/{{ site.researchgate_username }}"{% endif %}
+        {% if site.scanr_url %},{{ site.scanr_url | jsonify }}{% endif %}
+        {% if site.loop_url %},{{ site.loop_url | jsonify }}{% endif %}
+        {% if site.sciprofiles_id %},"https://sciprofiles.com/profile/{{ site.sciprofiles_id }}"{% endif %}
+        {% if site.kudos_url %},{{ site.kudos_url | jsonify }}{% endif %}
+        {% if site.academia_url %},{{ site.academia_url | jsonify }}{% endif %}
+        {% if site.csauthors_url %},{{ site.csauthors_url | jsonify }}{% endif %}
+      ]
+    }
+    </script>
+
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
