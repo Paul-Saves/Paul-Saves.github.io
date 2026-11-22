@@ -191,7 +191,7 @@ title: Scientific Publications
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-file-alt mr-2"></i> Preprints & Working Papers</h2>
 
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[P1]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliantakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[P1]</span> P. Saves, T. Lefebvre, N. Bartoli, J. Bussemaker, N. Kalliatakis, N. Naeem, P. Prakasha, "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems," 2026. <a href="https://doi.org/10.21203/rs.3.rs-10496293/v1" target="_blank" class="badge badge-light border ml-2">DOI</a>
   </div>
   <div class="ieee-citation mb-4">
     <span class="font-weight-bold">[P2]</span> P. Saves, "Development of Partial Least Squares Regression for Correlation Matrices: Theory and Applications," 2026. <a href="https://doi.org/10.13140/RG.2.2.16959.06569/1" target="_blank" class="badge badge-light border ml-2">RG</a>
@@ -209,7 +209,7 @@ title: Scientific Publications
 <section id="theses" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-graduation-cap mr-2"></i> Theses</h2>
   <div class="ieee-citation mb-4">
-    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024. <a href="https://hal.science/tel-04414441" target="_blank" class="badge badge-light border ml-2">HAL (Thesis)</a> 
+    <span class="font-weight-bold">[T1]</span> P. Saves, "High-dimensional multidisciplinary design optimization for aircraft eco-design," Ph.D. dissertation, ISAE-SUPAERO / ONERA, 2024. <a href="https://hal.science/tel-04439128" target="_blank" class="badge badge-light border ml-2">HAL (Thesis)</a> 
   </div>
 </section>
 

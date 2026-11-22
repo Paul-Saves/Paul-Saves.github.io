@@ -173,7 +173,7 @@ title: Research Group & Supervision
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Robin Grapin</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Edward Hallé-Hannan</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">John T. Hwang</span>
-            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nikolaos Kalliantakis</span>
+            <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Nikolaos Kalliatakis</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Rémi Lafage</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Thierry Lefebvre</span>
             <span class="badge badge-white border text-secondary px-2 py-1 shadow-sm">Sébastien Le Digabel</span>
