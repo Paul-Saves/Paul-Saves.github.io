@@ -91,7 +91,7 @@ title: Research
         <div class="col-md-6 mb-4">
           <div class="card h-100 border-0 shadow-sm bg-light border-left border-primary">
             <div class="card-body">
-              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Scientific &amp; Doctoral Awards</h3>
+              <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Scientific Career Awards</h3>
               <ul class="list-unstyled small text-secondary">
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (2nd Place, Abertis Chair / École des Ponts)</li>
