@@ -213,6 +213,13 @@ title: Biography
         <div class="media-press mb-5">
           <div class="news-item pl-4 mb-3 border-left border-primary" style="position: relative;">
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">Éloge de l'Académie du Languedoc</p>
+            <p class="small mb-1 text-secondary">"Grand Prix scientifique Pierre de Fermat attribué à Paul Saves"</p>
+            <a href="https://academiedulanguedoc.fr/26-11-23-prix-fermat-2026/" target="_blank" class="small text-primary">Académie du Languedoc <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">Redoc SPI Interview</p>
             <p class="small mb-1 text-secondary">"Du code à l’avion vert : ce que ma thèse m’a appris..."</p>
             <a href="https://www.docteurs-spi.org/post/du-code-%C3%A0-l-avion-vert-ce-que-ma-th%C3%A8se-m-a-appris-sur-la-complexit%C3%A9-le-doute-et-le-collectif" target="_blank" class="small text-primary">Read Interview <i class="fas fa-external-link-alt ml-1"></i></a>

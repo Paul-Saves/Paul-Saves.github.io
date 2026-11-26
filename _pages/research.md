@@ -93,7 +93,7 @@ title: Research
             <div class="card-body">
               <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Scientific Career Awards</h3>
               <ul class="list-unstyled small text-secondary">
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc) — <a href="https://academiedulanguedoc.fr/26-11-23-prix-fermat-2026/" target="_blank" class="text-primary">Éloge <i class="fas fa-external-link-alt ml-1"></i></a></li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (2nd Place, Abertis Chair / École des Ponts)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
