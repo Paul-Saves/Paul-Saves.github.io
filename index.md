@@ -162,7 +162,10 @@ title: Biography
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2024</span> 
             <p class="small mb-0"><i class="fas fa-award text-warning mr-1"></i> Awarded <strong>ISAE-SUPAERO Foundation</strong> Best PhD Thesis Prize.</p>
-            <a href="https://www.youtube.com/watch?v=bWrtZ0eiwNY" target="_blank" class="small text-primary"><i class="fab fa-youtube mr-1"></i> Watch PhD Defense / Presentation</a>
+            <div class="d-flex flex-wrap small">
+              <a href="https://www.youtube.com/watch?v=bWrtZ0eiwNY" target="_blank" class="text-primary mr-3"><i class="fab fa-youtube mr-1"></i> Watch PhD Defense / Presentation</a>
+              <a href="https://fondation-isae-supaero.org/docteur-raconte-moi-ta-these-en-3-minutes/" target="_blank" class="text-primary">Fondation ISAE-SUPAERO <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
           </div>
           <!-- Award 2024 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
@@ -215,7 +218,10 @@ title: Biography
             <div class="news-dot bg-primary" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">Éloge de l'Académie du Languedoc</p>
             <p class="small mb-1 text-secondary">"Grand Prix scientifique Pierre de Fermat attribué à Paul Saves"</p>
-            <a href="https://academiedulanguedoc.fr/26-11-23-prix-fermat-2026/" target="_blank" class="small text-primary">Académie du Languedoc <i class="fas fa-external-link-alt ml-1"></i></a>
+            <div class="d-flex flex-wrap small">
+              <a href="https://academiedulanguedoc.fr/26-11-23-prix-fermat-2026/" target="_blank" class="text-primary mr-3">Académie du Languedoc (Éloge) <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://academiedulanguedoc.fr/26-11-23-salle-des-illustres/" target="_blank" class="text-primary">Séance solennelle <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
           </div>
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
@@ -239,16 +245,21 @@ title: Biography
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">Open Science Award Coverage</p>
             <p class="small mb-1 text-secondary">"Un prix national pour la science ouverte décerné à Paul Saves"</p>
-            <a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/un-prix-national-pour-la-science-ouverte-decerne-a-paul-saves/" target="_blank" class="small text-primary">ISAE-SUPAERO<i class="fas fa-external-link-alt ml-1"></i></a>
-            <a href="https://lopinion.com/amp/articles/actualite/32805_toulouse-un-jeune-chercheur-recompense-these-eco-conception-avions-science-ouverte" target="_blank" class="small text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
+            <div class="d-flex flex-wrap small">
+              <a href="https://www.ouvrirlascience.fr/remise-de-prix-science-ouverte-de-la-these-edition-2025/" target="_blank" class="text-primary mr-3">Ministry of Research (MESR) <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/un-prix-national-pour-la-science-ouverte-decerne-a-paul-saves/" target="_blank" class="text-primary mr-3">ISAE-SUPAERO <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://lopinion.com/amp/articles/actualite/32805_toulouse-un-jeune-chercheur-recompense-these-eco-conception-avions-science-ouverte" target="_blank" class="text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
           </div>
 
-    <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">IDA Frontier Prize Coverage</p>
             <p class="small mb-1 text-secondary">"Une IA plus performante pour détecter les anomalies, récompensée à l’international"</p>
-            <a href="https://www.ut-capitole.fr/accueil/recherche/prix-et-distinctions/distinctions-academiques/une-ia-plus-performante-pour-detecter-les-anomalies-recompensee-a-linternational" target="_blank" class="small text-primary">UT Capitole<i class="fas fa-external-link-alt ml-1"></i></a>
-            <a href="https://lopinion.com/articles/actualite/33576_ecole-toulousaine-brille-international-ia" target="_blank" class="small text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
+            <div class="d-flex flex-wrap small">
+              <a href="https://www.ut-capitole.fr/accueil/recherche/prix-et-distinctions/distinctions-academiques/une-ia-plus-performante-pour-detecter-les-anomalies-recompensee-a-linternational" target="_blank" class="text-primary mr-3">UT Capitole <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://lopinion.com/articles/actualite/33576_ecole-toulousaine-brille-international-ia" target="_blank" class="text-primary">L'Opinion <i class="fas fa-external-link-alt ml-1"></i></a>
+            </div>
           </div>
 
 
@@ -257,6 +268,7 @@ title: Biography
             <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
             <p class="small mb-1 text-secondary">Decarbonation methodologies for sustainable mobility</p>
             <div class="d-flex flex-wrap small">
+              <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/" target="_blank" class="text-primary mr-3">Aerospace America <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">ISAE-SUPAERO Interview <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://onera.fr/fr/actualites/un-doctorant-onera-obtient-un-prix-prestigieux" target="_blank" class="text-primary mr-3">ONERA News <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://engineeringnet.be/fr/actualites/item/20961/laiaa-recompense-des-travaux-sur-la-decarbonation-de-laviation" target="_blank" class="text-primary">EngineeringNet <i class="fas fa-external-link-alt ml-1"></i></a>
