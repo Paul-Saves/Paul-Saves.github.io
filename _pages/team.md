@@ -48,21 +48,21 @@ title: Research Group & Supervision
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Edward Hallé-Hannan</strong>
-        (PhD Candidate in Applied Mathematics &amp; AI, Polytechnique Montréal).
+        (PhD in Applied Mathematics &amp; AI, Polytechnique Montréal).
         Research collaboration, including co-supervision and joint publications.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Jasper Bussemaker</strong>
-        (PhD Candidate in Aerospace Engineering, TU Delft).
+        (PhD in Aerospace Engineering, TU Delft).
         Mentoring in mathematical methods, AI, and scientific publication strategy.
       </li>
 
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>James Mingzhi Shihua</strong>
-        (PhD Candidate in Aerospace Engineering, HKUST / University of Shanghai).
+        (PhD in Aerospace Engineering, HKUST / University of Shanghai).
         Mentoring in mathematical methods and formal aspects of AI.
       </li>
 
@@ -76,7 +76,7 @@ title: Research Group & Supervision
       <li class="mb-2">
         <i class="fas fa-angle-right text-info mr-2"></i>
         <strong>Clément Blanco-Volle</strong>
-        (PhD Candidate in Computer Science, IRIT / Université Toulouse Capitole).
+        (PhD in Computer Science, IRIT / Université Toulouse Capitole).
         Mentoring in formal methods for online learning in agent-based systems.
       </li>
     </ul>

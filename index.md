@@ -254,6 +254,13 @@ title: Biography
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
+            <p class="small mb-1 font-weight-bold text-dark">JFSMA Best Paper Award Coverage</p>
+            <p class="small mb-1 text-secondary">"The Best AI Paper Award presented to researchers from IRIT / UT Capitole at JFSMA 2026"</p>
+            <a href="https://www.ut-capitole.fr/home/research/outreach/prizes-and-distinctions/institutional-recognition/the-best-ai-paper-award-presented-to-researchers-from-irit-ut-capitole-at-jfsma-2026" target="_blank" class="small text-primary">UT Capitole <i class="fas fa-external-link-alt ml-1"></i></a>
+          </div>
+
+          <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
+            <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <p class="small mb-1 font-weight-bold text-dark">IDA Frontier Prize Coverage</p>
             <p class="small mb-1 text-secondary">"Une IA plus performante pour détecter les anomalies, récompensée à l’international"</p>
             <div class="d-flex flex-wrap small">
@@ -265,10 +272,11 @@ title: Biography
 
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
-            <p class="small mb-1 font-weight-bold text-dark">AIAA World Best Paper Coverage</p>
+            <p class="small mb-1 font-weight-bold text-dark">AIAA Best Paper Awards Coverage</p>
             <p class="small mb-1 text-secondary">Decarbonation methodologies for sustainable mobility</p>
             <div class="d-flex flex-wrap small">
-              <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/" target="_blank" class="text-primary mr-3">Aerospace America <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2024-aiaa-bulletin/" target="_blank" class="text-primary mr-3">Aerospace America (2024) <i class="fas fa-external-link-alt ml-1"></i></a>
+              <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/" target="_blank" class="text-primary mr-3">Aerospace America (2023) <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://www.isae-alumni.net/fr/news/paul-saves-doctorant-isae-supaero-onera-remporte-le-prix-du-meilleur-papier-2022-delivre-par-l-aiaa-6791" target="_blank" class="text-primary mr-3">ISAE-SUPAERO Interview <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://onera.fr/fr/actualites/un-doctorant-onera-obtient-un-prix-prestigieux" target="_blank" class="text-primary mr-3">ONERA News <i class="fas fa-external-link-alt ml-1"></i></a>
               <a href="https://engineeringnet.be/fr/actualites/item/20961/laiaa-recompense-des-travaux-sur-la-decarbonation-de-laviation" target="_blank" class="text-primary">EngineeringNet <i class="fas fa-external-link-alt ml-1"></i></a>
@@ -285,8 +293,8 @@ title: Biography
             <ul class="list-unstyled small mb-0">
               <li class="mb-3">
                 <div class="font-weight-bold">PhD, Frugal AI for Eco-Design</div>
-                <div class="text-muted">ISAE-SUPAERO / ONERA/ Polytechnique Montréal</div>
-                <div class="x-small text-secondary">2020 - 2023</div>
+                <div class="text-muted">ISAE-SUPAERO / ONERA / Polytechnique Montréal</div>
+                <div class="x-small text-secondary">2020 - 2024</div>
               </li>
               <li class="mb-3">
                 <div class="font-weight-bold">MSc, Operations Research</div>

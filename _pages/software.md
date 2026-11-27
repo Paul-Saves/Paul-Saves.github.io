@@ -20,7 +20,7 @@ title: Scientific Software
             </h2>
             <div class="mb-3">
               <span class="badge badge-success mr-2"><i class="fas fa-lock-open mr-1"></i> Open Source (BSD-3)</span>
-              <span class="badge badge-warning text-dark shadow-sm"><i class="fas fa-trophy mr-1"></i> French Open Science Award 2025</span>
+              <span class="badge badge-warning text-dark shadow-sm"><i class="fas fa-trophy mr-1"></i> French Open Science PhD Award 2025</span>
             </div>
           </div>
           <div class="text-right">
@@ -186,6 +186,7 @@ title: Scientific Software
             </h2>
             <div class="mb-3">
               <span class="badge badge-info mr-2"><i class="fas fa-lock-open mr-1"></i> Open Source (GPL-3)</span>
+              <span class="badge badge-warning text-dark shadow-sm"><i class="fas fa-trophy mr-1"></i> French Open Science Software Award 2022 (Jury Prize Accessit)</span>
             </div>
           </div>
           <div class="text-right">
@@ -195,7 +196,7 @@ title: Scientific Software
         </div>
 
         <p class="small text-justify text-secondary">
-          GAMA is an advanced open-source platform for spatially explicit multi-agent simulation. The platform enables large-scale, GIS-integrated socio-ecological modeling using the high-level GAML language.
+          GAMA is an open-source modeling and simulation development environment (initiated in 2007) providing field experts, modelers, and computer scientists with a complete framework for building large-scale, GIS-integrated, spatially explicit multi-agent simulations using the high-level GAML language.
         </p>
         
         <p class="small text-justify text-secondary mb-4">

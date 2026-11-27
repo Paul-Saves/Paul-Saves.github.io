@@ -84,19 +84,19 @@ title: Scientific Publications
 </h3>
 
   <div class="ieee-citation mb-4 pb-2">
-        <span class="font-weight-bold">[C1]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em>MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
+    <span class="font-weight-bold">[C1]</span> P. Saves, "Multidisciplinarity, Pluridisciplinarity, or Interdisciplinarity? A Practitioner's View for Complex Systems," in <em>5ème Symposium de la Recherche Scientifique Francophone en Europe centrale et orientale</em>, Académie d'études économiques de Bucarest, Bucharest, Romania, 2026. <a href="https://doi.org/10.13140/RG.2.2.27455.47525" target="_blank" class="badge badge-light border ml-2">DOI</a> <a href="https://hal.science/hal-05867699" target="_blank" class="badge badge-light border ml-2">HAL</a>
+  </div>
+
+  <div class="ieee-citation mb-4 pb-2">
+        <span class="font-weight-bold">[C2]</span> P. Saves, M. Mastio, N. Verstaevel, and B. Gaudou, "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models," in <em>MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation</em>, Springer, Lecture Notes in Artificial Intelligence, 16939, 2026. <a href="https://doi.org/10.1007/978-3-032-39354-8_11" target="_blank" class="badge badge-light border ml-2">DOI</a> <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE C</span>  </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C2]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-05035806" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
+    <span class="font-weight-bold">[C3]</span> P. Saves, N. Verstaevel, and B. Gaudou, "Modèles de substitution pour les modèles basés agents : enjeux, méthodes et applications," in <em>Proc. JFSMA 2025</em>, Dijon, France, 2025. <a href="https://hal.science/hal-05035806" target="_blank" class="badge badge-light border ml-2">HAL</a>  <span class="badge ml-2 text-white" style="background-color: #d63384;">CORE National</span>
 
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C3]</span> P. Saves, J. Bussemaker, R. Lafage, T. Lefebvre, and N. Bartoli, "System-of-systems modeling and optimization: an integrated framework for intermodal mobility," in <em>Proc. ODAS 2024 (24th ONERA-DLR Symposium)</em>, Braunschweig, Germany, 2024. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
-  </div>
-
-<div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C4]</span> P. Saves, N. Bartoli, Y. Diouane, T. Lefebvre, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2023 Forum</em>, National Harbor, USA, 2023. <a href="https://doi.org/10.2514/6.2023-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C4]</span> P. Saves, J. Bussemaker, R. Lafage, T. Lefebvre, and N. Bartoli, "System-of-systems modeling and optimization: an integrated framework for intermodal mobility," in <em>Proc. ODAS 2024 (24th ONERA-DLR Symposium)</em>, Braunschweig, Germany, 2024. <a href="https://hal.science/hal-04590323" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -104,7 +104,7 @@ title: Scientific Publications
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
-    <span class="font-weight-bold">[C6]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, and C. David, "Bayesian Optimization for Mixed Variables Using an Adaptive Dimension Reduction Process: Applications to Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>- AIAA Best Paper Award (all conferences) -</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a>
+    <span class="font-weight-bold">[C6]</span> P. Saves, E. Nguyen Van, N. Bartoli, T. Lefebvre, C. David, S. Defoort, Y. Diouane, and J. Morlier, "Multidisciplinary Design Optimization with Mixed Categorical Variables for Aircraft Design," in <em>Proc. AIAA SciTech 2022 Forum</em>, San Diego, USA, 2022. <strong>- AIAA Best Paper Award (all conferences) -</strong> <a href="https://doi.org/10.2514/6.2022-0082" target="_blank" class="badge badge-light border ml-2">DOI</a> <a href="https://hal.science/hal-03514915" target="_blank" class="badge badge-light border ml-2">HAL</a>
   </div>
 
 <div class="ieee-citation mb-4 pb-2">
@@ -217,6 +217,12 @@ title: Scientific Publications
 <section id="talks" class="mb-5">
   <h2 class="h5 font-weight-bold mb-4 text-primary text-uppercase border-bottom pb-2"><i class="fas fa-microphone-alt mr-2"></i> Oral Communications & Selected Talks</h2>
   <ul class="list-unstyled small">
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2026:</span> <strong>5ème Symposium de la Recherche Scientifique Francophone en Europe centrale et orientale (AUF)</strong>, Académie d'études économiques de Bucarest, Romania. "Multidisciplinarity, Pluridisciplinarity, or Interdisciplinarity? A Practitioner's View for Complex Systems" (Remise du prix de thèse IA RéFIA / AUF).
+    </li>
+    <li class="mb-3">
+      <span class="text-muted font-weight-bold mr-2">2026:</span> <strong>Chaire Abertis – École nationale des Ponts et Chaussées</strong>, Paris, France. (Remise du prix Abertis de la recherche pour la Mobilité Durable).
+    </li>
     <li class="mb-3">
       <span class="text-muted font-weight-bold mr-2">2025:</span> <strong>Assises nationales des données de la recherche (ANDOR 2025)</strong>, ENS Paris-Saclay, France. (Remise du prix Science Ouverte de la thèse).
     </li>

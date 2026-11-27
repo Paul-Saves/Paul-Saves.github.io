@@ -94,10 +94,10 @@ title: Research
               <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-medal text-primary mr-2"></i> Scientific Career Awards</h3>
               <ul class="list-unstyled small text-secondary">
                 <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Grand Prix de Science « Pierre de Fermat » (Académie du Languedoc) — <a href="https://academiedulanguedoc.fr/26-11-23-prix-fermat-2026/" target="_blank" class="text-primary">Éloge <i class="fas fa-external-link-alt ml-1"></i></a></li>
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (2nd Place, Abertis Chair / École des Ponts)</li>
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA)</li>
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research)</li>
-                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO)</li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Sustainable Mobility Award (2nd Place, Abertis Chair / École des Ponts) — <a href="https://ecoledesponts.fr/actualites-evenements/jonas-aparicio-recoit-le-1er-prix-abertis-de-la-recherche-pour-la-mobilite-durable" target="_blank" class="text-primary">École des Ponts <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2026:</strong> Francophone Artificial Intelligence Award (AUF / RéFIA) — <a href="https://onera.fr/fr/prix-jeunes" target="_blank" class="text-primary">ONERA <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2025:</strong> National Open Science Award (French Ministry of Research) — <a href="https://www.ouvrirlascience.fr/remise-de-prix-science-ouverte-de-la-these-edition-2025/" target="_blank" class="text-primary">MESR <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-award text-primary mr-2"></i> <strong>2024:</strong> Best PhD Thesis Award (Fondation ISAE-SUPAERO) — <a href="https://fondation-isae-supaero.org/docteur-raconte-moi-ta-these-en-3-minutes/" target="_blank" class="text-primary">Fondation <i class="fas fa-external-link-alt ml-1"></i></a></li>
               </ul>
             </div>
           </div>
@@ -108,10 +108,10 @@ title: Research
             <div class="card-body">
               <h3 class="h6 font-weight-bold mb-3 text-dark text-uppercase"><i class="fas fa-scroll text-primary mr-2"></i> Best Papers & Research Prizes</h3>
               <ul class="list-unstyled small text-secondary">
-                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> IDA Frontier Prize (Springer)</li>
-                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> Best Paper Award (JFSMA / AFIA)</li>
-                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2024:</strong> AIAA Best Student Paper Award (MDO TC)</li>
-                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2022:</strong> AIAA Best Paper Award (MDO TC)</li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> IDA Frontier Prize (Springer) — <a href="https://www.ut-capitole.fr/accueil/recherche/prix-et-distinctions/distinctions-academiques/une-ia-plus-performante-pour-detecter-les-anomalies-recompensee-a-linternational" target="_blank" class="text-primary">UT Capitole <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2026:</strong> Best Paper Award (JFSMA / AFIA) — <a href="https://www.ut-capitole.fr/home/research/outreach/prizes-and-distinctions/institutional-recognition/the-best-ai-paper-award-presented-to-researchers-from-irit-ut-capitole-at-jfsma-2026" target="_blank" class="text-primary">UT Capitole <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2024:</strong> AIAA Best Student Paper Award (MDO TC) — <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2024-aiaa-bulletin/" target="_blank" class="text-primary">Aerospace America <i class="fas fa-external-link-alt ml-1"></i></a></li>
+                <li class="mb-2"><i class="fas fa-star text-primary mr-2"></i> <strong>2022:</strong> AIAA Best Paper Award (MDO TC) — <a href="https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/" target="_blank" class="text-primary">Aerospace America <i class="fas fa-external-link-alt ml-1"></i></a></li>
               </ul>
             </div>
           </div>
@@ -168,8 +168,8 @@ title: Research
         <div class="col-md-6 mb-4">
           <h3 class="h6 font-weight-bold mb-2 small text-muted text-uppercase">Software & Open Source</h3>
           <ul class="list-unstyled text-secondary">
-            <li class="mb-2"><strong>GAMA Platform</strong>: Contributor. Developed Python interfaces for surrogate models and multi-agent reinforcement learning (Thuy Loi University and Ninh Binh coding camp, Vietnam, 2025 and 2026).</li>
-            <li class="mb-2"><strong>SMTOrg</strong>: Lead developer of <strong>SMT 2.0</strong>, <strong>smt-design-space-ext</strong>, and <strong>smt-explainability</strong>. High-impact tools for hierarchical design and explainable modeling.</li>
+            <li class="mb-2"><strong>GAMA Platform</strong>: Regular Developer. Developed Python interfaces for surrogate models and multi-agent reinforcement learning (Thuy Loi University and Ninh Binh coding camp, Vietnam, 2025 and 2026).</li>
+            <li class="mb-2"><strong>SMTOrg</strong>: Lead developer of <strong>SMT 2.0</strong>, <strong>smt-design-space-ext</strong>, <strong>smt-explainability</strong>, and <strong>smt-optim</strong>. High-impact tools for hierarchical design, surrogate-based optimization, and explainable modeling.</li>
           </ul>
         </div>
       </div>
