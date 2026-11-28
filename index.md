@@ -26,7 +26,7 @@ title: Biography
           <h3 class="h6 font-weight-bold mb-0 text-dark">Tenured Research Scientist (Chargé de Recherche de Classe Normale)</h3>
           <span class="badge badge-light border font-weight-normal">Oct. 2026 - Present</span>
         </div>
-        <div class="small text-dark mb-2 font-weight-bold">IRD (Aubervilliers) & Sorbonne Université (Paris) - UMI 209 UMMISCO</div>
+        <div class="small text-dark mb-2 font-weight-bold">IRD (Campus Condorcet) & Sorbonne Université (Paris) - UMI 209 UMMISCO</div>
         <p class="small text-justify text-secondary mb-0">
           Research program focused on <strong>Frugal AI</strong>, <strong>decision-making under uncertainty</strong>, and <strong>climate resilience</strong> in the Global South.
         </p>
@@ -201,7 +201,7 @@ title: Biography
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">	
             <div class="news-dot bg-light border" style="position: absolute; left: -5px; top: 10px; width: 10px; height: 10px; border-radius: 50%;"></div>
             <span class="text-muted small font-weight-bold">2019</span> 
-            <p class="small mb-0"><strong>Research Intern</strong> at Novosibirsk State University, Institute of Informatics Systems, Russia.</p>
+            <p class="small mb-0"><strong>Research Assistant</strong> at Novosibirsk State University, Akademgorodok, Institute of Informatics Systems, Siberian Branch of the Academy of Science, Russia.</p>
           </div>
           <!-- Role 2016 -->
           <div class="news-item pl-4 mb-3 border-left" style="position: relative;">
